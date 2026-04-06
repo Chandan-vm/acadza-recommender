@@ -1,6 +1,6 @@
 # Acadza Student Recommender System
 
-**Author:** Chandan Shetty  
+**Author:** Chandan M
 **Assignment:** Acadza AI Intern — April 2026  
 **Stack:** Python · FastAPI · Uvicorn
 
@@ -147,6 +147,20 @@ It returns the raw number directly. For `"+52 -8"` the function correctly return
 5. **Database backend**: Replace JSON files with a proper DB (PostgreSQL or MongoDB) so the system can scale beyond 10 students and support concurrent reads.
 
 6. **Feedback loop**: After a student completes a recommended DOST, re-run the profiler and update the recommendation plan. Right now recommendations are one-shot.
+
+---
+
+## Sample Output
+
+Topic: Algebra  
+Level: basic  
+- Solve x + 5 = 10  
+
+Level: intermediate  
+- Solve 2x + 3 = 11  
+
+Level: advanced  
+- Solve quadratic equation x^2 - 5x + 6 = 0
 
 ---
 
