@@ -1,0 +1,168 @@
+{
+  "student_id": "STU_004",
+  "name": "Sneha Kapoor",
+  "analysis": {
+    "overall_avg_pct": 69.05,
+    "completion_rate_pct": 80.0,
+    "avg_time_per_q_sec": 131.8,
+    "performance_trend": "declining",
+    "total_sessions": 5,
+    "subjects": {
+      "Biology": {
+        "avg_score_pct": 79.2,
+        "sessions": 3,
+        "band": "good"
+      },
+      "Chemistry": {
+        "avg_score_pct": 76.0,
+        "sessions": 1,
+        "band": "good"
+      },
+      "Physics": {
+        "avg_score_pct": 31.67,
+        "sessions": 1,
+        "band": "critical"
+      }
+    },
+    "chapters": {
+      "Cell Biology": {
+        "avg_score_pct": 79.17,
+        "total_attempts": 30,
+        "total_skips": 0,
+        "sessions": 1,
+        "avg_time_per_q_sec": 110.0,
+        "band": "good"
+      },
+      "Cell Division": {
+        "avg_score_pct": 79.17,
+        "total_attempts": 30,
+        "total_skips": 0,
+        "sessions": 1,
+        "avg_time_per_q_sec": 110.0,
+        "band": "good"
+      },
+      "Biomolecules": {
+        "avg_score_pct": 76.0,
+        "total_attempts": 28,
+        "total_skips": 2,
+        "sessions": 1,
+        "avg_time_per_q_sec": 124.0,
+        "band": "good"
+      },
+      "Polymers": {
+        "avg_score_pct": 76.0,
+        "total_attempts": 28,
+        "total_skips": 2,
+        "sessions": 1,
+        "avg_time_per_q_sec": 124.0,
+        "band": "good"
+      },
+      "Genetics": {
+        "avg_score_pct": 68.42,
+        "total_attempts": 20,
+        "total_skips": 0,
+        "sessions": 1,
+        "avg_time_per_q_sec": 135.0,
+        "band": "average"
+      },
+      "Heredity": {
+        "avg_score_pct": 68.42,
+        "total_attempts": 20,
+        "total_skips": 0,
+        "sessions": 1,
+        "avg_time_per_q_sec": 135.0,
+        "band": "average"
+      },
+      "Optics": {
+        "avg_score_pct": 31.67,
+        "total_attempts": 20,
+        "total_skips": 10,
+        "sessions": 1,
+        "avg_time_per_q_sec": 186.0,
+        "band": "critical"
+      },
+      "Modern Physics": {
+        "avg_score_pct": 31.67,
+        "total_attempts": 20,
+        "total_skips": 10,
+        "sessions": 1,
+        "avg_time_per_q_sec": 186.0,
+        "band": "critical"
+      },
+      "Ecology": {
+        "avg_score_pct": 90.0,
+        "total_attempts": 30,
+        "total_skips": 0,
+        "sessions": 1,
+        "avg_time_per_q_sec": 104.0,
+        "band": "excellent"
+      },
+      "Environmental Biology": {
+        "avg_score_pct": 90.0,
+        "total_attempts": 30,
+        "total_skips": 0,
+        "sessions": 1,
+        "avg_time_per_q_sec": 104.0,
+        "band": "excellent"
+      }
+    },
+    "strengths": [
+      "Ecology",
+      "Environmental Biology",
+      "Cell Biology",
+      "Cell Division",
+      "Biomolecules"
+    ],
+    "weaknesses": [
+      "Optics",
+      "Modern Physics"
+    ],
+    "scores_over_time": [
+      {
+        "date": "2026-02-11",
+        "subject": "Biology",
+        "pct": 79.17,
+        "chapters": [
+          "Cell Biology",
+          "Cell Division"
+        ]
+      },
+      {
+        "date": "2026-02-19",
+        "subject": "Chemistry",
+        "pct": 76.0,
+        "chapters": [
+          "Biomolecules",
+          "Polymers"
+        ]
+      },
+      {
+        "date": "2026-02-27",
+        "subject": "Biology",
+        "pct": 68.42,
+        "chapters": [
+          "Genetics",
+          "Heredity"
+        ]
+      },
+      {
+        "date": "2026-03-07",
+        "subject": "Physics",
+        "pct": 31.67,
+        "chapters": [
+          "Optics",
+          "Modern Physics"
+        ]
+      },
+      {
+        "date": "2026-03-16",
+        "subject": "Biology",
+        "pct": 90.0,
+        "chapters": [
+          "Ecology",
+          "Environmental Biology"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,195 @@
+{
+  "student_id": "STU_003",
+  "name": "Rahul Singh",
+  "analysis": {
+    "overall_avg_pct": 59.81,
+    "completion_rate_pct": 83.3,
+    "avg_time_per_q_sec": 161.7,
+    "performance_trend": "declining",
+    "total_sessions": 6,
+    "subjects": {
+      "Mathematics": {
+        "avg_score_pct": 91.0,
+        "sessions": 2,
+        "band": "excellent"
+      },
+      "Physics": {
+        "avg_score_pct": 44.78,
+        "sessions": 2,
+        "band": "developing"
+      },
+      "Chemistry": {
+        "avg_score_pct": 43.66,
+        "sessions": 2,
+        "band": "developing"
+      }
+    },
+    "chapters": {
+      "Matrices": {
+        "avg_score_pct": 90.0,
+        "total_attempts": 25,
+        "total_skips": 0,
+        "sessions": 1,
+        "avg_time_per_q_sec": 132.0,
+        "band": "excellent"
+      },
+      "Determinants": {
+        "avg_score_pct": 90.0,
+        "total_attempts": 25,
+        "total_skips": 0,
+        "sessions": 1,
+        "avg_time_per_q_sec": 132.0,
+        "band": "excellent"
+      },
+      "Rotational Motion": {
+        "avg_score_pct": 35.71,
+        "total_attempts": 22,
+        "total_skips": 3,
+        "sessions": 1,
+        "avg_time_per_q_sec": 163.0,
+        "band": "developing"
+      },
+      "Gravitation": {
+        "avg_score_pct": 35.71,
+        "total_attempts": 22,
+        "total_skips": 3,
+        "sessions": 1,
+        "avg_time_per_q_sec": 163.0,
+        "band": "developing"
+      },
+      "Equilibrium": {
+        "avg_score_pct": 58.0,
+        "total_attempts": 15,
+        "total_skips": 0,
+        "sessions": 1,
+        "avg_time_per_q_sec": 140.0,
+        "band": "average"
+      },
+      "Ionic Equilibrium": {
+        "avg_score_pct": 58.0,
+        "total_attempts": 15,
+        "total_skips": 0,
+        "sessions": 1,
+        "avg_time_per_q_sec": 140.0,
+        "band": "average"
+      },
+      "Complex Numbers": {
+        "avg_score_pct": 92.0,
+        "total_attempts": 25,
+        "total_skips": 0,
+        "sessions": 1,
+        "avg_time_per_q_sec": 139.0,
+        "band": "excellent"
+      },
+      "Quadratic Equations": {
+        "avg_score_pct": 92.0,
+        "total_attempts": 25,
+        "total_skips": 0,
+        "sessions": 1,
+        "avg_time_per_q_sec": 139.0,
+        "band": "excellent"
+      },
+      "Waves": {
+        "avg_score_pct": 53.85,
+        "total_attempts": 20,
+        "total_skips": 5,
+        "sessions": 1,
+        "avg_time_per_q_sec": 171.0,
+        "band": "developing"
+      },
+      "Sound Waves": {
+        "avg_score_pct": 53.85,
+        "total_attempts": 20,
+        "total_skips": 5,
+        "sessions": 1,
+        "avg_time_per_q_sec": 171.0,
+        "band": "developing"
+      },
+      "Solutions": {
+        "avg_score_pct": 29.33,
+        "total_attempts": 8,
+        "total_skips": 7,
+        "sessions": 1,
+        "avg_time_per_q_sec": 225.0,
+        "band": "critical"
+      },
+      "Colligative Properties": {
+        "avg_score_pct": 29.33,
+        "total_attempts": 8,
+        "total_skips": 7,
+        "sessions": 1,
+        "avg_time_per_q_sec": 225.0,
+        "band": "critical"
+      }
+    },
+    "strengths": [
+      "Complex Numbers",
+      "Quadratic Equations",
+      "Matrices",
+      "Determinants"
+    ],
+    "weaknesses": [
+      "Solutions",
+      "Colligative Properties",
+      "Rotational Motion",
+      "Gravitation",
+      "Waves"
+    ],
+    "scores_over_time": [
+      {
+        "date": "2026-02-08",
+        "subject": "Mathematics",
+        "pct": 90.0,
+        "chapters": [
+          "Matrices",
+          "Determinants"
+        ]
+      },
+      {
+        "date": "2026-02-16",
+        "subject": "Physics",
+        "pct": 35.71,
+        "chapters": [
+          "Rotational Motion",
+          "Gravitation"
+        ]
+      },
+      {
+        "date": "2026-02-24",
+        "subject": "Chemistry",
+        "pct": 58.0,
+        "chapters": [
+          "Equilibrium",
+          "Ionic Equilibrium"
+        ]
+      },
+      {
+        "date": "2026-03-04",
+        "subject": "Mathematics",
+        "pct": 92.0,
+        "chapters": [
+          "Complex Numbers",
+          "Quadratic Equations"
+        ]
+      },
+      {
+        "date": "2026-03-12",
+        "subject": "Physics",
+        "pct": 53.85,
+        "chapters": [
+          "Waves",
+          "Sound Waves"
+        ]
+      },
+      {
+        "date": "2026-03-20",
+        "subject": "Chemistry",
+        "pct": 29.33,
+        "chapters": [
+          "Solutions",
+          "Colligative Properties"
+        ]
+      }
+    ]
+  }
+}

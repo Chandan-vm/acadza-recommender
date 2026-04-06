@@ -1,0 +1,267 @@
+{
+  "student_id": "STU_006",
+  "name": "Ananya Sharma",
+  "overall_avg_pct": 66.16,
+  "completion_rate_pct": 80.0,
+  "top_weaknesses": [
+    "Fluid Mechanics",
+    "Surface Tension"
+  ],
+  "top_strengths": [
+    "Simple Harmonic Motion",
+    "Oscillations",
+    "Organic Chemistry Basics"
+  ],
+  "recommendation_plan": [
+    {
+      "step": 1,
+      "dost_type": "concept",
+      "target_chapter": "Fluid Mechanics",
+      "subject": "Physics",
+      "parameters": {
+        "depth": {
+          "options": [
+            "overview",
+            "detailed",
+            "advanced"
+          ],
+          "default": "detailed"
+        },
+        "include_examples": true,
+        "include_analogies": true,
+        "include_common_mistakes": true,
+        "estimated_time_minutes": {
+          "min": 15,
+          "max": 60,
+          "default": 30
+        },
+        "visual_aids": true
+      },
+      "question_ids": [],
+      "reasoning": "Fluid Mechanics is in the CRITICAL band (score: 28.0%). The student needs foundational concept clarity before attempting questions.",
+      "message": "Hey! Your score in Fluid Mechanics is 28.0% \u2014 let's fix that. Start by reading the concept explanation carefully. Understanding the 'why' will make everything else easier! \ud83d\udca1"
+    },
+    {
+      "step": 2,
+      "dost_type": "formula",
+      "target_chapter": "Fluid Mechanics",
+      "subject": "Physics",
+      "parameters": {
+        "chapters": {
+          "min": 1,
+          "max": 5
+        },
+        "include_derivations": true,
+        "include_examples": true,
+        "format": "cheat_sheet",
+        "estimated_time_minutes": {
+          "min": 10,
+          "max": 30,
+          "default": 15
+        }
+      },
+      "question_ids": [],
+      "reasoning": "After concepts, formula revision for Fluid Mechanics will anchor key equations.",
+      "message": "Now go through the formula sheet for Fluid Mechanics. Keep it open while you practice \u2014 you'll memorize faster by using them! \ud83d\udccb"
+    },
+    {
+      "step": 3,
+      "dost_type": "practiceAssignment",
+      "target_chapter": "Fluid Mechanics",
+      "subject": "Physics",
+      "parameters": {
+        "duration_minutes": null,
+        "total_questions": {
+          "default": 10
+        },
+        "question_types": [
+          "scq",
+          "mcq",
+          "integerQuestion"
+        ],
+        "difficulty_mix": {
+          "easy": 0.7,
+          "medium": 0.3,
+          "hard": 0.0
+        },
+        "allow_hints": true,
+        "show_solution_after": "each_question",
+        "focus": "targeted_weak_areas"
+      },
+      "question_ids": [
+        "Q_PHY_0035"
+      ],
+      "reasoning": "Easy-first practice assignment for Fluid Mechanics to build confidence before tackling harder questions.",
+      "message": "Time to apply what you learned! Here are 10 practice questions on Fluid Mechanics. No timer \u2014 take your time. Questions are easy to medium. You got this! \ud83d\udcaa"
+    },
+    {
+      "step": 4,
+      "dost_type": "concept",
+      "target_chapter": "Surface Tension",
+      "subject": "Chemistry",
+      "parameters": {
+        "depth": {
+          "options": [
+            "overview",
+            "detailed",
+            "advanced"
+          ],
+          "default": "detailed"
+        },
+        "include_examples": true,
+        "include_analogies": true,
+        "include_common_mistakes": true,
+        "estimated_time_minutes": {
+          "min": 15,
+          "max": 60,
+          "default": 30
+        },
+        "visual_aids": true
+      },
+      "question_ids": [],
+      "reasoning": "Surface Tension is in the CRITICAL band (score: 28.0%). The student needs foundational concept clarity before attempting questions.",
+      "message": "Hey! Your score in Surface Tension is 28.0% \u2014 let's fix that. Start by reading the concept explanation carefully. Understanding the 'why' will make everything else easier! \ud83d\udca1"
+    },
+    {
+      "step": 5,
+      "dost_type": "formula",
+      "target_chapter": "Surface Tension",
+      "subject": "Chemistry",
+      "parameters": {
+        "chapters": {
+          "min": 1,
+          "max": 5
+        },
+        "include_derivations": true,
+        "include_examples": true,
+        "format": "cheat_sheet",
+        "estimated_time_minutes": {
+          "min": 10,
+          "max": 30,
+          "default": 15
+        }
+      },
+      "question_ids": [],
+      "reasoning": "After concepts, formula revision for Surface Tension will anchor key equations.",
+      "message": "Now go through the formula sheet for Surface Tension. Keep it open while you practice \u2014 you'll memorize faster by using them! \ud83d\udccb"
+    },
+    {
+      "step": 6,
+      "dost_type": "practiceAssignment",
+      "target_chapter": "Surface Tension",
+      "subject": "Chemistry",
+      "parameters": {
+        "duration_minutes": null,
+        "total_questions": {
+          "default": 10
+        },
+        "question_types": [
+          "scq",
+          "mcq",
+          "integerQuestion"
+        ],
+        "difficulty_mix": {
+          "easy": 0.7,
+          "medium": 0.3,
+          "hard": 0.0
+        },
+        "allow_hints": true,
+        "show_solution_after": "each_question",
+        "focus": "targeted_weak_areas"
+      },
+      "question_ids": [
+        "Q_CHE_0051",
+        "Q_CHE_0053",
+        "Q_CHE_0054",
+        "Q_CHE_0055",
+        "Q_CHE_0061",
+        "Q_CHE_0066",
+        "Q_CHE_0070",
+        "Q_CHE_0071",
+        "Q_CHE_0073",
+        "Q_CHE_0074"
+      ],
+      "reasoning": "Easy-first practice assignment for Surface Tension to build confidence before tackling harder questions.",
+      "message": "Time to apply what you learned! Here are 10 practice questions on Surface Tension. No timer \u2014 take your time. Questions are easy to medium. You got this! \ud83d\udcaa"
+    },
+    {
+      "step": 7,
+      "dost_type": "clickingPower",
+      "target_chapter": "Speed Improvement",
+      "subject": "General",
+      "parameters": {
+        "total_questions": 10,
+        "time_per_question_seconds": {
+          "min": 15,
+          "max": 60,
+          "default": 30
+        },
+        "difficulty": {
+          "options": [
+            1,
+            2,
+            3
+          ],
+          "default": 2
+        },
+        "question_types": [
+          "scq"
+        ],
+        "no_negative_marking": true,
+        "show_answer_immediately": true
+      },
+      "question_ids": [
+        "Q_PHY_0001",
+        "Q_PHY_0002",
+        "Q_PHY_0003",
+        "Q_PHY_0005",
+        "Q_PHY_0009"
+      ],
+      "reasoning": "Average time per question is 162s \u2014 above the 160s threshold. Speed drills on easy questions build automaticity.",
+      "message": "You're spending 162s per question on average \u2014 that's too slow for JEE/NEET! Do this 10-question speed drill daily. Aim for under 90s per question. \u26a1"
+    },
+    {
+      "step": 8,
+      "dost_type": "speedRace",
+      "target_chapter": "Strengths Reinforcement",
+      "subject": "General",
+      "parameters": {
+        "total_questions": {
+          "min": 10,
+          "max": 20,
+          "default": 15
+        },
+        "bot_difficulty": {
+          "options": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "default": "medium"
+        },
+        "question_types": [
+          "scq",
+          "integerQuestion"
+        ],
+        "difficulty": {
+          "options": [
+            1,
+            2,
+            3
+          ],
+          "default": 2
+        },
+        "time_limit_minutes": {
+          "min": 5,
+          "max": 20,
+          "default": 10
+        },
+        "competitive_scoring": true
+      },
+      "question_ids": [],
+      "reasoning": "Student is performing reasonably well. A speed race on strong topics boosts confidence and exam speed simultaneously.",
+      "message": "You're doing well! Challenge yourself in a Speed Race on your strong topics. Beat the bot and build that exam-day confidence! \ud83d\ude80"
+    }
+  ],
+  "total_steps": 8
+}

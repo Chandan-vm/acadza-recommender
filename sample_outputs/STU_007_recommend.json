@@ -1,0 +1,308 @@
+{
+  "student_id": "STU_007",
+  "name": "Karan Patel",
+  "overall_avg_pct": 42.44,
+  "completion_rate_pct": 80.0,
+  "top_weaknesses": [
+    "Current Electricity",
+    "Magnetic Effects",
+    "Kinematics"
+  ],
+  "top_strengths": [],
+  "recommendation_plan": [
+    {
+      "step": 1,
+      "dost_type": "concept",
+      "target_chapter": "Current Electricity",
+      "subject": "Physics",
+      "parameters": {
+        "depth": {
+          "options": [
+            "overview",
+            "detailed",
+            "advanced"
+          ],
+          "default": "detailed"
+        },
+        "include_examples": true,
+        "include_analogies": true,
+        "include_common_mistakes": true,
+        "estimated_time_minutes": {
+          "min": 15,
+          "max": 60,
+          "default": 30
+        },
+        "visual_aids": true
+      },
+      "question_ids": [],
+      "reasoning": "Current Electricity is in the CRITICAL band (score: 18.0%). The student needs foundational concept clarity before attempting questions.",
+      "message": "Hey! Your score in Current Electricity is 18.0% \u2014 let's fix that. Start by reading the concept explanation carefully. Understanding the 'why' will make everything else easier! \ud83d\udca1"
+    },
+    {
+      "step": 2,
+      "dost_type": "formula",
+      "target_chapter": "Current Electricity",
+      "subject": "Physics",
+      "parameters": {
+        "chapters": {
+          "min": 1,
+          "max": 5
+        },
+        "include_derivations": true,
+        "include_examples": true,
+        "format": "cheat_sheet",
+        "estimated_time_minutes": {
+          "min": 10,
+          "max": 30,
+          "default": 15
+        }
+      },
+      "question_ids": [],
+      "reasoning": "After concepts, formula revision for Current Electricity will anchor key equations.",
+      "message": "Now go through the formula sheet for Current Electricity. Keep it open while you practice \u2014 you'll memorize faster by using them! \ud83d\udccb"
+    },
+    {
+      "step": 3,
+      "dost_type": "practiceAssignment",
+      "target_chapter": "Current Electricity",
+      "subject": "Physics",
+      "parameters": {
+        "duration_minutes": null,
+        "total_questions": {
+          "default": 10
+        },
+        "question_types": [
+          "scq",
+          "mcq",
+          "integerQuestion"
+        ],
+        "difficulty_mix": {
+          "easy": 0.7,
+          "medium": 0.3,
+          "hard": 0.0
+        },
+        "allow_hints": true,
+        "show_solution_after": "each_question",
+        "focus": "targeted_weak_areas"
+      },
+      "question_ids": [
+        "Q_PHY_0009"
+      ],
+      "reasoning": "Easy-first practice assignment for Current Electricity to build confidence before tackling harder questions.",
+      "message": "Time to apply what you learned! Here are 10 practice questions on Current Electricity. No timer \u2014 take your time. Questions are easy to medium. You got this! \ud83d\udcaa"
+    },
+    {
+      "step": 4,
+      "dost_type": "concept",
+      "target_chapter": "Magnetic Effects",
+      "subject": "Mathematics",
+      "parameters": {
+        "depth": {
+          "options": [
+            "overview",
+            "detailed",
+            "advanced"
+          ],
+          "default": "detailed"
+        },
+        "include_examples": true,
+        "include_analogies": true,
+        "include_common_mistakes": true,
+        "estimated_time_minutes": {
+          "min": 15,
+          "max": 60,
+          "default": 30
+        },
+        "visual_aids": true
+      },
+      "question_ids": [],
+      "reasoning": "Magnetic Effects is in the CRITICAL band (score: 18.0%). The student needs foundational concept clarity before attempting questions.",
+      "message": "Hey! Your score in Magnetic Effects is 18.0% \u2014 let's fix that. Start by reading the concept explanation carefully. Understanding the 'why' will make everything else easier! \ud83d\udca1"
+    },
+    {
+      "step": 5,
+      "dost_type": "formula",
+      "target_chapter": "Magnetic Effects",
+      "subject": "Mathematics",
+      "parameters": {
+        "chapters": {
+          "min": 1,
+          "max": 5
+        },
+        "include_derivations": true,
+        "include_examples": true,
+        "format": "cheat_sheet",
+        "estimated_time_minutes": {
+          "min": 10,
+          "max": 30,
+          "default": 15
+        }
+      },
+      "question_ids": [],
+      "reasoning": "After concepts, formula revision for Magnetic Effects will anchor key equations.",
+      "message": "Now go through the formula sheet for Magnetic Effects. Keep it open while you practice \u2014 you'll memorize faster by using them! \ud83d\udccb"
+    },
+    {
+      "step": 6,
+      "dost_type": "practiceAssignment",
+      "target_chapter": "Magnetic Effects",
+      "subject": "Mathematics",
+      "parameters": {
+        "duration_minutes": null,
+        "total_questions": {
+          "default": 10
+        },
+        "question_types": [
+          "scq",
+          "mcq",
+          "integerQuestion"
+        ],
+        "difficulty_mix": {
+          "easy": 0.7,
+          "medium": 0.3,
+          "hard": 0.0
+        },
+        "allow_hints": true,
+        "show_solution_after": "each_question",
+        "focus": "targeted_weak_areas"
+      },
+      "question_ids": [
+        "Q_MAT_0104",
+        "Q_MAT_0106",
+        "Q_MAT_0107",
+        "Q_MAT_0108",
+        "Q_MAT_0109",
+        "Q_MAT_0112",
+        "Q_MAT_0113",
+        "Q_MAT_0118",
+        "Q_MAT_0120",
+        "Q_MAT_0125"
+      ],
+      "reasoning": "Easy-first practice assignment for Magnetic Effects to build confidence before tackling harder questions.",
+      "message": "Time to apply what you learned! Here are 10 practice questions on Magnetic Effects. No timer \u2014 take your time. Questions are easy to medium. You got this! \ud83d\udcaa"
+    },
+    {
+      "step": 7,
+      "dost_type": "concept",
+      "target_chapter": "Kinematics",
+      "subject": "Physics",
+      "parameters": {
+        "depth": {
+          "options": [
+            "overview",
+            "detailed",
+            "advanced"
+          ],
+          "default": "detailed"
+        },
+        "include_examples": true,
+        "include_analogies": true,
+        "include_common_mistakes": true,
+        "estimated_time_minutes": {
+          "min": 15,
+          "max": 60,
+          "default": 30
+        },
+        "visual_aids": true
+      },
+      "question_ids": [],
+      "reasoning": "Kinematics is in the CRITICAL band (score: 28.6%). The student needs foundational concept clarity before attempting questions.",
+      "message": "Hey! Your score in Kinematics is 28.6% \u2014 let's fix that. Start by reading the concept explanation carefully. Understanding the 'why' will make everything else easier! \ud83d\udca1"
+    },
+    {
+      "step": 8,
+      "dost_type": "formula",
+      "target_chapter": "Kinematics",
+      "subject": "Physics",
+      "parameters": {
+        "chapters": {
+          "min": 1,
+          "max": 5
+        },
+        "include_derivations": true,
+        "include_examples": true,
+        "format": "cheat_sheet",
+        "estimated_time_minutes": {
+          "min": 10,
+          "max": 30,
+          "default": 15
+        }
+      },
+      "question_ids": [],
+      "reasoning": "After concepts, formula revision for Kinematics will anchor key equations.",
+      "message": "Now go through the formula sheet for Kinematics. Keep it open while you practice \u2014 you'll memorize faster by using them! \ud83d\udccb"
+    },
+    {
+      "step": 9,
+      "dost_type": "practiceAssignment",
+      "target_chapter": "Kinematics",
+      "subject": "Physics",
+      "parameters": {
+        "duration_minutes": null,
+        "total_questions": {
+          "default": 10
+        },
+        "question_types": [
+          "scq",
+          "mcq",
+          "integerQuestion"
+        ],
+        "difficulty_mix": {
+          "easy": 0.7,
+          "medium": 0.3,
+          "hard": 0.0
+        },
+        "allow_hints": true,
+        "show_solution_after": "each_question",
+        "focus": "targeted_weak_areas"
+      },
+      "question_ids": [
+        "Q_PHY_0001",
+        "Q_PHY_0002",
+        "Q_PHY_0021",
+        "Q_PHY_0042",
+        "Q_PHY_0001",
+        "Q_PHY_0021"
+      ],
+      "reasoning": "Easy-first practice assignment for Kinematics to build confidence before tackling harder questions.",
+      "message": "Time to apply what you learned! Here are 10 practice questions on Kinematics. No timer \u2014 take your time. Questions are easy to medium. You got this! \ud83d\udcaa"
+    },
+    {
+      "step": 10,
+      "dost_type": "clickingPower",
+      "target_chapter": "Speed Improvement",
+      "subject": "General",
+      "parameters": {
+        "total_questions": 10,
+        "time_per_question_seconds": {
+          "min": 15,
+          "max": 60,
+          "default": 30
+        },
+        "difficulty": {
+          "options": [
+            1,
+            2,
+            3
+          ],
+          "default": 2
+        },
+        "question_types": [
+          "scq"
+        ],
+        "no_negative_marking": true,
+        "show_answer_immediately": true
+      },
+      "question_ids": [
+        "Q_PHY_0001",
+        "Q_PHY_0002",
+        "Q_PHY_0003",
+        "Q_PHY_0005",
+        "Q_PHY_0009"
+      ],
+      "reasoning": "Average time per question is 180s \u2014 above the 160s threshold. Speed drills on easy questions build automaticity.",
+      "message": "You're spending 180s per question on average \u2014 that's too slow for JEE/NEET! Do this 10-question speed drill daily. Aim for under 90s per question. \u26a1"
+    }
+  ],
+  "total_steps": 10
+}

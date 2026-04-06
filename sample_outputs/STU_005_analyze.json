@@ -1,0 +1,193 @@
+{
+  "student_id": "STU_005",
+  "name": "Vikram Rao",
+  "analysis": {
+    "overall_avg_pct": 47.24,
+    "completion_rate_pct": 83.3,
+    "avg_time_per_q_sec": 178.2,
+    "performance_trend": "improving",
+    "total_sessions": 6,
+    "subjects": {
+      "Physics": {
+        "avg_score_pct": 23.5,
+        "sessions": 2,
+        "band": "critical"
+      },
+      "Chemistry": {
+        "avg_score_pct": 68.5,
+        "sessions": 2,
+        "band": "average"
+      },
+      "Mathematics": {
+        "avg_score_pct": 49.72,
+        "sessions": 2,
+        "band": "developing"
+      }
+    },
+    "chapters": {
+      "Mechanics": {
+        "avg_score_pct": 25.0,
+        "total_attempts": 18,
+        "total_skips": 7,
+        "sessions": 1,
+        "avg_time_per_q_sec": 200.0,
+        "band": "critical"
+      },
+      "Work Energy Power": {
+        "avg_score_pct": 25.0,
+        "total_attempts": 18,
+        "total_skips": 7,
+        "sessions": 1,
+        "avg_time_per_q_sec": 200.0,
+        "band": "critical"
+      },
+      "Atomic Structure": {
+        "avg_score_pct": 62.0,
+        "total_attempts": 20,
+        "total_skips": 0,
+        "sessions": 1,
+        "avg_time_per_q_sec": 165.0,
+        "band": "average"
+      },
+      "Chemical Bonding": {
+        "avg_score_pct": 62.0,
+        "total_attempts": 20,
+        "total_skips": 0,
+        "sessions": 1,
+        "avg_time_per_q_sec": 165.0,
+        "band": "average"
+      },
+      "Sequences and Series": {
+        "avg_score_pct": 44.44,
+        "total_attempts": 22,
+        "total_skips": 3,
+        "sessions": 1,
+        "avg_time_per_q_sec": 169.0,
+        "band": "developing"
+      },
+      "Binomial Theorem": {
+        "avg_score_pct": 44.44,
+        "total_attempts": 22,
+        "total_skips": 3,
+        "sessions": 1,
+        "avg_time_per_q_sec": 169.0,
+        "band": "developing"
+      },
+      "Electrostatics": {
+        "avg_score_pct": 22.0,
+        "total_attempts": 16,
+        "total_skips": 9,
+        "sessions": 1,
+        "avg_time_per_q_sec": 225.0,
+        "band": "critical"
+      },
+      "Magnetism": {
+        "avg_score_pct": 22.0,
+        "total_attempts": 16,
+        "total_skips": 9,
+        "sessions": 1,
+        "avg_time_per_q_sec": 225.0,
+        "band": "critical"
+      },
+      "Thermodynamics": {
+        "avg_score_pct": 75.0,
+        "total_attempts": 20,
+        "total_skips": 0,
+        "sessions": 1,
+        "avg_time_per_q_sec": 144.0,
+        "band": "good"
+      },
+      "Electrochemistry": {
+        "avg_score_pct": 75.0,
+        "total_attempts": 20,
+        "total_skips": 0,
+        "sessions": 1,
+        "avg_time_per_q_sec": 144.0,
+        "band": "good"
+      },
+      "3D Geometry": {
+        "avg_score_pct": 55.0,
+        "total_attempts": 21,
+        "total_skips": 4,
+        "sessions": 1,
+        "avg_time_per_q_sec": 166.0,
+        "band": "average"
+      },
+      "Vectors": {
+        "avg_score_pct": 55.0,
+        "total_attempts": 21,
+        "total_skips": 4,
+        "sessions": 1,
+        "avg_time_per_q_sec": 166.0,
+        "band": "average"
+      }
+    },
+    "strengths": [
+      "Thermodynamics",
+      "Electrochemistry"
+    ],
+    "weaknesses": [
+      "Electrostatics",
+      "Magnetism",
+      "Mechanics",
+      "Work Energy Power",
+      "Sequences and Series"
+    ],
+    "scores_over_time": [
+      {
+        "date": "2026-02-09",
+        "subject": "Physics",
+        "pct": 25.0,
+        "chapters": [
+          "Mechanics",
+          "Work Energy Power"
+        ]
+      },
+      {
+        "date": "2026-02-17",
+        "subject": "Chemistry",
+        "pct": 62.0,
+        "chapters": [
+          "Atomic Structure",
+          "Chemical Bonding"
+        ]
+      },
+      {
+        "date": "2026-02-26",
+        "subject": "Mathematics",
+        "pct": 44.44,
+        "chapters": [
+          "Sequences and Series",
+          "Binomial Theorem"
+        ]
+      },
+      {
+        "date": "2026-03-06",
+        "subject": "Physics",
+        "pct": 22.0,
+        "chapters": [
+          "Electrostatics",
+          "Magnetism"
+        ]
+      },
+      {
+        "date": "2026-03-14",
+        "subject": "Chemistry",
+        "pct": 75.0,
+        "chapters": [
+          "Thermodynamics",
+          "Electrochemistry"
+        ]
+      },
+      {
+        "date": "2026-03-21",
+        "subject": "Mathematics",
+        "pct": 55.0,
+        "chapters": [
+          "3D Geometry",
+          "Vectors"
+        ]
+      }
+    ]
+  }
+}

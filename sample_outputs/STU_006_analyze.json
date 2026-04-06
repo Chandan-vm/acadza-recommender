@@ -1,0 +1,168 @@
+{
+  "student_id": "STU_006",
+  "name": "Ananya Sharma",
+  "analysis": {
+    "overall_avg_pct": 66.16,
+    "completion_rate_pct": 80.0,
+    "avg_time_per_q_sec": 161.8,
+    "performance_trend": "declining",
+    "total_sessions": 5,
+    "subjects": {
+      "Chemistry": {
+        "avg_score_pct": 78.0,
+        "sessions": 2,
+        "band": "good"
+      },
+      "Physics": {
+        "avg_score_pct": 54.91,
+        "sessions": 2,
+        "band": "developing"
+      },
+      "Mathematics": {
+        "avg_score_pct": 65.0,
+        "sessions": 1,
+        "band": "average"
+      }
+    },
+    "chapters": {
+      "Periodic Table": {
+        "avg_score_pct": 76.0,
+        "total_attempts": 25,
+        "total_skips": 0,
+        "sessions": 1,
+        "avg_time_per_q_sec": 137.0,
+        "band": "good"
+      },
+      "Chemical Bonding": {
+        "avg_score_pct": 76.0,
+        "total_attempts": 25,
+        "total_skips": 0,
+        "sessions": 1,
+        "avg_time_per_q_sec": 137.0,
+        "band": "good"
+      },
+      "Simple Harmonic Motion": {
+        "avg_score_pct": 81.82,
+        "total_attempts": 15,
+        "total_skips": 0,
+        "sessions": 1,
+        "avg_time_per_q_sec": 168.0,
+        "band": "good"
+      },
+      "Oscillations": {
+        "avg_score_pct": 81.82,
+        "total_attempts": 15,
+        "total_skips": 0,
+        "sessions": 1,
+        "avg_time_per_q_sec": 168.0,
+        "band": "good"
+      },
+      "Permutations and Combinations": {
+        "avg_score_pct": 65.0,
+        "total_attempts": 23,
+        "total_skips": 2,
+        "sessions": 1,
+        "avg_time_per_q_sec": 154.0,
+        "band": "average"
+      },
+      "Probability": {
+        "avg_score_pct": 65.0,
+        "total_attempts": 23,
+        "total_skips": 2,
+        "sessions": 1,
+        "avg_time_per_q_sec": 154.0,
+        "band": "average"
+      },
+      "Organic Chemistry Basics": {
+        "avg_score_pct": 80.0,
+        "total_attempts": 25,
+        "total_skips": 0,
+        "sessions": 1,
+        "avg_time_per_q_sec": 132.0,
+        "band": "good"
+      },
+      "IUPAC Nomenclature": {
+        "avg_score_pct": 80.0,
+        "total_attempts": 25,
+        "total_skips": 0,
+        "sessions": 1,
+        "avg_time_per_q_sec": 132.0,
+        "band": "good"
+      },
+      "Fluid Mechanics": {
+        "avg_score_pct": 28.0,
+        "total_attempts": 17,
+        "total_skips": 8,
+        "sessions": 1,
+        "avg_time_per_q_sec": 218.0,
+        "band": "critical"
+      },
+      "Surface Tension": {
+        "avg_score_pct": 28.0,
+        "total_attempts": 17,
+        "total_skips": 8,
+        "sessions": 1,
+        "avg_time_per_q_sec": 218.0,
+        "band": "critical"
+      }
+    },
+    "strengths": [
+      "Simple Harmonic Motion",
+      "Oscillations",
+      "Organic Chemistry Basics",
+      "IUPAC Nomenclature",
+      "Periodic Table"
+    ],
+    "weaknesses": [
+      "Fluid Mechanics",
+      "Surface Tension"
+    ],
+    "scores_over_time": [
+      {
+        "date": "2026-02-13",
+        "subject": "Chemistry",
+        "pct": 76.0,
+        "chapters": [
+          "Periodic Table",
+          "Chemical Bonding"
+        ]
+      },
+      {
+        "date": "2026-02-21",
+        "subject": "Physics",
+        "pct": 81.82,
+        "chapters": [
+          "Simple Harmonic Motion",
+          "Oscillations"
+        ]
+      },
+      {
+        "date": "2026-03-01",
+        "subject": "Mathematics",
+        "pct": 65.0,
+        "chapters": [
+          "Permutations and Combinations",
+          "Probability"
+        ]
+      },
+      {
+        "date": "2026-03-09",
+        "subject": "Chemistry",
+        "pct": 80.0,
+        "chapters": [
+          "Organic Chemistry Basics",
+          "IUPAC Nomenclature"
+        ]
+      },
+      {
+        "date": "2026-03-17",
+        "subject": "Physics",
+        "pct": 28.0,
+        "chapters": [
+          "Fluid Mechanics",
+          "Surface Tension"
+        ]
+      }
+    ]
+  }
+}

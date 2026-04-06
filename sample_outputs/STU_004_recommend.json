@@ -1,0 +1,223 @@
+{
+  "student_id": "STU_004",
+  "name": "Sneha Kapoor",
+  "overall_avg_pct": 69.05,
+  "completion_rate_pct": 80.0,
+  "top_weaknesses": [
+    "Optics",
+    "Modern Physics"
+  ],
+  "top_strengths": [
+    "Ecology",
+    "Environmental Biology",
+    "Cell Biology"
+  ],
+  "recommendation_plan": [
+    {
+      "step": 1,
+      "dost_type": "concept",
+      "target_chapter": "Optics",
+      "subject": "Physics",
+      "parameters": {
+        "depth": {
+          "options": [
+            "overview",
+            "detailed",
+            "advanced"
+          ],
+          "default": "detailed"
+        },
+        "include_examples": true,
+        "include_analogies": true,
+        "include_common_mistakes": true,
+        "estimated_time_minutes": {
+          "min": 15,
+          "max": 60,
+          "default": 30
+        },
+        "visual_aids": true
+      },
+      "question_ids": [],
+      "reasoning": "Optics is in the CRITICAL band (score: 31.7%). The student needs foundational concept clarity before attempting questions.",
+      "message": "Hey! Your score in Optics is 31.7% \u2014 let's fix that. Start by reading the concept explanation carefully. Understanding the 'why' will make everything else easier! \ud83d\udca1"
+    },
+    {
+      "step": 2,
+      "dost_type": "formula",
+      "target_chapter": "Optics",
+      "subject": "Physics",
+      "parameters": {
+        "chapters": {
+          "min": 1,
+          "max": 5
+        },
+        "include_derivations": true,
+        "include_examples": true,
+        "format": "cheat_sheet",
+        "estimated_time_minutes": {
+          "min": 10,
+          "max": 30,
+          "default": 15
+        }
+      },
+      "question_ids": [],
+      "reasoning": "After concepts, formula revision for Optics will anchor key equations.",
+      "message": "Now go through the formula sheet for Optics. Keep it open while you practice \u2014 you'll memorize faster by using them! \ud83d\udccb"
+    },
+    {
+      "step": 3,
+      "dost_type": "practiceAssignment",
+      "target_chapter": "Optics",
+      "subject": "Physics",
+      "parameters": {
+        "duration_minutes": null,
+        "total_questions": {
+          "default": 10
+        },
+        "question_types": [
+          "scq",
+          "mcq",
+          "integerQuestion"
+        ],
+        "difficulty_mix": {
+          "easy": 0.7,
+          "medium": 0.3,
+          "hard": 0.0
+        },
+        "allow_hints": true,
+        "show_solution_after": "each_question",
+        "focus": "targeted_weak_areas"
+      },
+      "question_ids": [
+        "Q_PHY_0011",
+        "Q_PHY_0011"
+      ],
+      "reasoning": "Easy-first practice assignment for Optics to build confidence before tackling harder questions.",
+      "message": "Time to apply what you learned! Here are 10 practice questions on Optics. No timer \u2014 take your time. Questions are easy to medium. You got this! \ud83d\udcaa"
+    },
+    {
+      "step": 4,
+      "dost_type": "concept",
+      "target_chapter": "Modern Physics",
+      "subject": "Physics",
+      "parameters": {
+        "depth": {
+          "options": [
+            "overview",
+            "detailed",
+            "advanced"
+          ],
+          "default": "detailed"
+        },
+        "include_examples": true,
+        "include_analogies": true,
+        "include_common_mistakes": true,
+        "estimated_time_minutes": {
+          "min": 15,
+          "max": 60,
+          "default": 30
+        },
+        "visual_aids": true
+      },
+      "question_ids": [],
+      "reasoning": "Modern Physics is in the CRITICAL band (score: 31.7%). The student needs foundational concept clarity before attempting questions.",
+      "message": "Hey! Your score in Modern Physics is 31.7% \u2014 let's fix that. Start by reading the concept explanation carefully. Understanding the 'why' will make everything else easier! \ud83d\udca1"
+    },
+    {
+      "step": 5,
+      "dost_type": "formula",
+      "target_chapter": "Modern Physics",
+      "subject": "Physics",
+      "parameters": {
+        "chapters": {
+          "min": 1,
+          "max": 5
+        },
+        "include_derivations": true,
+        "include_examples": true,
+        "format": "cheat_sheet",
+        "estimated_time_minutes": {
+          "min": 10,
+          "max": 30,
+          "default": 15
+        }
+      },
+      "question_ids": [],
+      "reasoning": "After concepts, formula revision for Modern Physics will anchor key equations.",
+      "message": "Now go through the formula sheet for Modern Physics. Keep it open while you practice \u2014 you'll memorize faster by using them! \ud83d\udccb"
+    },
+    {
+      "step": 6,
+      "dost_type": "practiceAssignment",
+      "target_chapter": "Modern Physics",
+      "subject": "Physics",
+      "parameters": {
+        "duration_minutes": null,
+        "total_questions": {
+          "default": 10
+        },
+        "question_types": [
+          "scq",
+          "mcq",
+          "integerQuestion"
+        ],
+        "difficulty_mix": {
+          "easy": 0.7,
+          "medium": 0.3,
+          "hard": 0.0
+        },
+        "allow_hints": true,
+        "show_solution_after": "each_question",
+        "focus": "targeted_weak_areas"
+      },
+      "question_ids": [
+        "Q_PHY_0014"
+      ],
+      "reasoning": "Easy-first practice assignment for Modern Physics to build confidence before tackling harder questions.",
+      "message": "Time to apply what you learned! Here are 10 practice questions on Modern Physics. No timer \u2014 take your time. Questions are easy to medium. You got this! \ud83d\udcaa"
+    },
+    {
+      "step": 7,
+      "dost_type": "speedRace",
+      "target_chapter": "Strengths Reinforcement",
+      "subject": "General",
+      "parameters": {
+        "total_questions": {
+          "min": 10,
+          "max": 20,
+          "default": 15
+        },
+        "bot_difficulty": {
+          "options": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "default": "medium"
+        },
+        "question_types": [
+          "scq",
+          "integerQuestion"
+        ],
+        "difficulty": {
+          "options": [
+            1,
+            2,
+            3
+          ],
+          "default": 2
+        },
+        "time_limit_minutes": {
+          "min": 5,
+          "max": 20,
+          "default": 10
+        },
+        "competitive_scoring": true
+      },
+      "question_ids": [],
+      "reasoning": "Student is performing reasonably well. A speed race on strong topics boosts confidence and exam speed simultaneously.",
+      "message": "You're doing well! Challenge yourself in a Speed Race on your strong topics. Beat the bot and build that exam-day confidence! \ud83d\ude80"
+    }
+  ],
+  "total_steps": 7
+}

@@ -1,0 +1,203 @@
+{
+  "student_id": "STU_010",
+  "name": "Ishaan Verma",
+  "analysis": {
+    "overall_avg_pct": 64.9,
+    "completion_rate_pct": 83.3,
+    "avg_time_per_q_sec": 148.7,
+    "performance_trend": "declining",
+    "total_sessions": 6,
+    "subjects": {
+      "Mathematics": {
+        "avg_score_pct": 72.0,
+        "sessions": 2,
+        "band": "good"
+      },
+      "Physics": {
+        "avg_score_pct": 47.7,
+        "sessions": 2,
+        "band": "developing"
+      },
+      "Chemistry": {
+        "avg_score_pct": 75.0,
+        "sessions": 2,
+        "band": "good"
+      }
+    },
+    "chapters": {
+      "Functions": {
+        "avg_score_pct": 78.0,
+        "total_attempts": 24,
+        "total_skips": 1,
+        "sessions": 1,
+        "avg_time_per_q_sec": 142.0,
+        "band": "good"
+      },
+      "Inverse Functions": {
+        "avg_score_pct": 78.0,
+        "total_attempts": 24,
+        "total_skips": 1,
+        "sessions": 1,
+        "avg_time_per_q_sec": 142.0,
+        "band": "good"
+      },
+      "Electrostatics": {
+        "avg_score_pct": 57.89,
+        "total_attempts": 23,
+        "total_skips": 2,
+        "sessions": 1,
+        "avg_time_per_q_sec": 157.0,
+        "band": "average"
+      },
+      "Gauss Law": {
+        "avg_score_pct": 57.89,
+        "total_attempts": 23,
+        "total_skips": 2,
+        "sessions": 1,
+        "avg_time_per_q_sec": 157.0,
+        "band": "average"
+      },
+      "Coordination Chemistry": {
+        "avg_score_pct": 62.5,
+        "total_attempts": 20,
+        "total_skips": 0,
+        "sessions": 1,
+        "avg_time_per_q_sec": 120.0,
+        "band": "average"
+      },
+      "Organometallics": {
+        "avg_score_pct": 62.5,
+        "total_attempts": 20,
+        "total_skips": 0,
+        "sessions": 1,
+        "avg_time_per_q_sec": 120.0,
+        "band": "average"
+      },
+      "Parabola": {
+        "avg_score_pct": 66.0,
+        "total_attempts": 22,
+        "total_skips": 3,
+        "sessions": 1,
+        "avg_time_per_q_sec": 163.0,
+        "band": "average"
+      },
+      "Ellipse": {
+        "avg_score_pct": 66.0,
+        "total_attempts": 22,
+        "total_skips": 3,
+        "sessions": 1,
+        "avg_time_per_q_sec": 163.0,
+        "band": "average"
+      },
+      "Hyperbola": {
+        "avg_score_pct": 66.0,
+        "total_attempts": 22,
+        "total_skips": 3,
+        "sessions": 1,
+        "avg_time_per_q_sec": 163.0,
+        "band": "average"
+      },
+      "Electromagnetic Induction": {
+        "avg_score_pct": 37.5,
+        "total_attempts": 19,
+        "total_skips": 6,
+        "sessions": 1,
+        "avg_time_per_q_sec": 196.0,
+        "band": "developing"
+      },
+      "AC Circuits": {
+        "avg_score_pct": 37.5,
+        "total_attempts": 19,
+        "total_skips": 6,
+        "sessions": 1,
+        "avg_time_per_q_sec": 196.0,
+        "band": "developing"
+      },
+      "Amines": {
+        "avg_score_pct": 87.5,
+        "total_attempts": 20,
+        "total_skips": 0,
+        "sessions": 1,
+        "avg_time_per_q_sec": 114.0,
+        "band": "excellent"
+      },
+      "Diazonium Salts": {
+        "avg_score_pct": 87.5,
+        "total_attempts": 20,
+        "total_skips": 0,
+        "sessions": 1,
+        "avg_time_per_q_sec": 114.0,
+        "band": "excellent"
+      }
+    },
+    "strengths": [
+      "Amines",
+      "Diazonium Salts",
+      "Functions",
+      "Inverse Functions"
+    ],
+    "weaknesses": [
+      "Electromagnetic Induction",
+      "AC Circuits",
+      "Electrostatics",
+      "Gauss Law"
+    ],
+    "scores_over_time": [
+      {
+        "date": "2026-02-12",
+        "subject": "Mathematics",
+        "pct": 78.0,
+        "chapters": [
+          "Functions",
+          "Inverse Functions"
+        ]
+      },
+      {
+        "date": "2026-02-20",
+        "subject": "Physics",
+        "pct": 57.89,
+        "chapters": [
+          "Electrostatics",
+          "Gauss Law"
+        ]
+      },
+      {
+        "date": "2026-02-28",
+        "subject": "Chemistry",
+        "pct": 62.5,
+        "chapters": [
+          "Coordination Chemistry",
+          "Organometallics"
+        ]
+      },
+      {
+        "date": "2026-03-08",
+        "subject": "Mathematics",
+        "pct": 66.0,
+        "chapters": [
+          "Parabola",
+          "Ellipse",
+          "Hyperbola"
+        ]
+      },
+      {
+        "date": "2026-03-16",
+        "subject": "Physics",
+        "pct": 37.5,
+        "chapters": [
+          "Electromagnetic Induction",
+          "AC Circuits"
+        ]
+      },
+      {
+        "date": "2026-03-22",
+        "subject": "Chemistry",
+        "pct": 87.5,
+        "chapters": [
+          "Amines",
+          "Diazonium Salts"
+        ]
+      }
+    ]
+  }
+}

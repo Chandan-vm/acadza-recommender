@@ -1,0 +1,165 @@
+{
+  "student_id": "STU_007",
+  "name": "Karan Patel",
+  "analysis": {
+    "overall_avg_pct": 42.44,
+    "completion_rate_pct": 80.0,
+    "avg_time_per_q_sec": 180.0,
+    "performance_trend": "improving",
+    "total_sessions": 5,
+    "subjects": {
+      "Physics": {
+        "avg_score_pct": 23.29,
+        "sessions": 2,
+        "band": "critical"
+      },
+      "Mathematics": {
+        "avg_score_pct": 53.82,
+        "sessions": 2,
+        "band": "developing"
+      },
+      "Chemistry": {
+        "avg_score_pct": 58.0,
+        "sessions": 1,
+        "band": "average"
+      }
+    },
+    "chapters": {
+      "Kinematics": {
+        "avg_score_pct": 28.57,
+        "total_attempts": 19,
+        "total_skips": 6,
+        "sessions": 1,
+        "avg_time_per_q_sec": 189.0,
+        "band": "critical"
+      },
+      "Projectile Motion": {
+        "avg_score_pct": 28.57,
+        "total_attempts": 19,
+        "total_skips": 6,
+        "sessions": 1,
+        "avg_time_per_q_sec": 189.0,
+        "band": "critical"
+      },
+      "Straight Lines": {
+        "avg_score_pct": 44.0,
+        "total_attempts": 14,
+        "total_skips": 1,
+        "sessions": 1,
+        "avg_time_per_q_sec": 163.0,
+        "band": "developing"
+      },
+      "Circles": {
+        "avg_score_pct": 44.0,
+        "total_attempts": 14,
+        "total_skips": 1,
+        "sessions": 1,
+        "avg_time_per_q_sec": 163.0,
+        "band": "developing"
+      },
+      "s-block Elements": {
+        "avg_score_pct": 58.0,
+        "total_attempts": 24,
+        "total_skips": 1,
+        "sessions": 1,
+        "avg_time_per_q_sec": 140.0,
+        "band": "average"
+      },
+      "p-block Elements": {
+        "avg_score_pct": 58.0,
+        "total_attempts": 24,
+        "total_skips": 1,
+        "sessions": 1,
+        "avg_time_per_q_sec": 140.0,
+        "band": "average"
+      },
+      "Current Electricity": {
+        "avg_score_pct": 18.0,
+        "total_attempts": 15,
+        "total_skips": 10,
+        "sessions": 1,
+        "avg_time_per_q_sec": 248.0,
+        "band": "critical"
+      },
+      "Magnetic Effects": {
+        "avg_score_pct": 18.0,
+        "total_attempts": 15,
+        "total_skips": 10,
+        "sessions": 1,
+        "avg_time_per_q_sec": 248.0,
+        "band": "critical"
+      },
+      "Limits": {
+        "avg_score_pct": 63.64,
+        "total_attempts": 15,
+        "total_skips": 0,
+        "sessions": 1,
+        "avg_time_per_q_sec": 160.0,
+        "band": "average"
+      },
+      "Derivatives": {
+        "avg_score_pct": 63.64,
+        "total_attempts": 15,
+        "total_skips": 0,
+        "sessions": 1,
+        "avg_time_per_q_sec": 160.0,
+        "band": "average"
+      }
+    },
+    "strengths": [],
+    "weaknesses": [
+      "Current Electricity",
+      "Magnetic Effects",
+      "Kinematics",
+      "Projectile Motion",
+      "Straight Lines"
+    ],
+    "scores_over_time": [
+      {
+        "date": "2026-02-14",
+        "subject": "Physics",
+        "pct": 28.57,
+        "chapters": [
+          "Kinematics",
+          "Projectile Motion"
+        ]
+      },
+      {
+        "date": "2026-02-22",
+        "subject": "Mathematics",
+        "pct": 44.0,
+        "chapters": [
+          "Straight Lines",
+          "Circles"
+        ]
+      },
+      {
+        "date": "2026-03-02",
+        "subject": "Chemistry",
+        "pct": 58.0,
+        "chapters": [
+          "s-block Elements",
+          "p-block Elements"
+        ]
+      },
+      {
+        "date": "2026-03-11",
+        "subject": "Physics",
+        "pct": 18.0,
+        "chapters": [
+          "Current Electricity",
+          "Magnetic Effects"
+        ]
+      },
+      {
+        "date": "2026-03-19",
+        "subject": "Mathematics",
+        "pct": 63.64,
+        "chapters": [
+          "Limits",
+          "Derivatives"
+        ]
+      }
+    ]
+  }
+}

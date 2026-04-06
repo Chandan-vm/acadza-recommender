@@ -1,0 +1,351 @@
+{
+  "student_id": "STU_003",
+  "name": "Rahul Singh",
+  "overall_avg_pct": 59.81,
+  "completion_rate_pct": 83.3,
+  "top_weaknesses": [
+    "Solutions",
+    "Colligative Properties",
+    "Rotational Motion"
+  ],
+  "top_strengths": [
+    "Complex Numbers",
+    "Quadratic Equations",
+    "Matrices"
+  ],
+  "recommendation_plan": [
+    {
+      "step": 1,
+      "dost_type": "concept",
+      "target_chapter": "Solutions",
+      "subject": "Chemistry",
+      "parameters": {
+        "depth": {
+          "options": [
+            "overview",
+            "detailed",
+            "advanced"
+          ],
+          "default": "detailed"
+        },
+        "include_examples": true,
+        "include_analogies": true,
+        "include_common_mistakes": true,
+        "estimated_time_minutes": {
+          "min": 15,
+          "max": 60,
+          "default": 30
+        },
+        "visual_aids": true
+      },
+      "question_ids": [],
+      "reasoning": "Solutions is in the CRITICAL band (score: 29.3%). The student needs foundational concept clarity before attempting questions.",
+      "message": "Hey! Your score in Solutions is 29.3% \u2014 let's fix that. Start by reading the concept explanation carefully. Understanding the 'why' will make everything else easier! \ud83d\udca1"
+    },
+    {
+      "step": 2,
+      "dost_type": "formula",
+      "target_chapter": "Solutions",
+      "subject": "Chemistry",
+      "parameters": {
+        "chapters": {
+          "min": 1,
+          "max": 5
+        },
+        "include_derivations": true,
+        "include_examples": true,
+        "format": "cheat_sheet",
+        "estimated_time_minutes": {
+          "min": 10,
+          "max": 30,
+          "default": 15
+        }
+      },
+      "question_ids": [],
+      "reasoning": "After concepts, formula revision for Solutions will anchor key equations.",
+      "message": "Now go through the formula sheet for Solutions. Keep it open while you practice \u2014 you'll memorize faster by using them! \ud83d\udccb"
+    },
+    {
+      "step": 3,
+      "dost_type": "practiceAssignment",
+      "target_chapter": "Solutions",
+      "subject": "Chemistry",
+      "parameters": {
+        "duration_minutes": null,
+        "total_questions": {
+          "default": 10
+        },
+        "question_types": [
+          "scq",
+          "mcq",
+          "integerQuestion"
+        ],
+        "difficulty_mix": {
+          "easy": 0.7,
+          "medium": 0.3,
+          "hard": 0.0
+        },
+        "allow_hints": true,
+        "show_solution_after": "each_question",
+        "focus": "targeted_weak_areas"
+      },
+      "question_ids": [
+        "Q_CHE_0051",
+        "Q_CHE_0053",
+        "Q_CHE_0054",
+        "Q_CHE_0055",
+        "Q_CHE_0061",
+        "Q_CHE_0066",
+        "Q_CHE_0070",
+        "Q_CHE_0071",
+        "Q_CHE_0073",
+        "Q_CHE_0074"
+      ],
+      "reasoning": "Easy-first practice assignment for Solutions to build confidence before tackling harder questions.",
+      "message": "Time to apply what you learned! Here are 10 practice questions on Solutions. No timer \u2014 take your time. Questions are easy to medium. You got this! \ud83d\udcaa"
+    },
+    {
+      "step": 4,
+      "dost_type": "concept",
+      "target_chapter": "Colligative Properties",
+      "subject": "Mathematics",
+      "parameters": {
+        "depth": {
+          "options": [
+            "overview",
+            "detailed",
+            "advanced"
+          ],
+          "default": "detailed"
+        },
+        "include_examples": true,
+        "include_analogies": true,
+        "include_common_mistakes": true,
+        "estimated_time_minutes": {
+          "min": 15,
+          "max": 60,
+          "default": 30
+        },
+        "visual_aids": true
+      },
+      "question_ids": [],
+      "reasoning": "Colligative Properties is in the CRITICAL band (score: 29.3%). The student needs foundational concept clarity before attempting questions.",
+      "message": "Hey! Your score in Colligative Properties is 29.3% \u2014 let's fix that. Start by reading the concept explanation carefully. Understanding the 'why' will make everything else easier! \ud83d\udca1"
+    },
+    {
+      "step": 5,
+      "dost_type": "formula",
+      "target_chapter": "Colligative Properties",
+      "subject": "Mathematics",
+      "parameters": {
+        "chapters": {
+          "min": 1,
+          "max": 5
+        },
+        "include_derivations": true,
+        "include_examples": true,
+        "format": "cheat_sheet",
+        "estimated_time_minutes": {
+          "min": 10,
+          "max": 30,
+          "default": 15
+        }
+      },
+      "question_ids": [],
+      "reasoning": "After concepts, formula revision for Colligative Properties will anchor key equations.",
+      "message": "Now go through the formula sheet for Colligative Properties. Keep it open while you practice \u2014 you'll memorize faster by using them! \ud83d\udccb"
+    },
+    {
+      "step": 6,
+      "dost_type": "practiceAssignment",
+      "target_chapter": "Colligative Properties",
+      "subject": "Mathematics",
+      "parameters": {
+        "duration_minutes": null,
+        "total_questions": {
+          "default": 10
+        },
+        "question_types": [
+          "scq",
+          "mcq",
+          "integerQuestion"
+        ],
+        "difficulty_mix": {
+          "easy": 0.7,
+          "medium": 0.3,
+          "hard": 0.0
+        },
+        "allow_hints": true,
+        "show_solution_after": "each_question",
+        "focus": "targeted_weak_areas"
+      },
+      "question_ids": [
+        "Q_MAT_0104",
+        "Q_MAT_0106",
+        "Q_MAT_0107",
+        "Q_MAT_0108",
+        "Q_MAT_0109",
+        "Q_MAT_0112",
+        "Q_MAT_0113",
+        "Q_MAT_0118",
+        "Q_MAT_0120",
+        "Q_MAT_0125"
+      ],
+      "reasoning": "Easy-first practice assignment for Colligative Properties to build confidence before tackling harder questions.",
+      "message": "Time to apply what you learned! Here are 10 practice questions on Colligative Properties. No timer \u2014 take your time. Questions are easy to medium. You got this! \ud83d\udcaa"
+    },
+    {
+      "step": 7,
+      "dost_type": "practiceAssignment",
+      "target_chapter": "Rotational Motion",
+      "subject": "Physics",
+      "parameters": {
+        "duration_minutes": null,
+        "total_questions": {
+          "default": 12
+        },
+        "question_types": [
+          "scq",
+          "mcq",
+          "integerQuestion"
+        ],
+        "difficulty_mix": {
+          "easy": 0.4,
+          "medium": 0.4,
+          "hard": 0.2
+        },
+        "allow_hints": true,
+        "show_solution_after": "each_question",
+        "focus": "targeted_weak_areas"
+      },
+      "question_ids": [
+        "Q_PHY_0037"
+      ],
+      "reasoning": "Rotational Motion is in DEVELOPING band (score: 35.7%). Targeted practice will help identify specific gaps.",
+      "message": "Your Rotational Motion score is 35.7% \u2014 room for improvement! Work through this assignment at your own pace. Pay attention to the solutions for questions you get wrong. \ud83c\udfaf"
+    },
+    {
+      "step": 8,
+      "dost_type": "pickingPower",
+      "target_chapter": "Rotational Motion",
+      "subject": "Physics",
+      "parameters": {
+        "total_questions": {
+          "min": 5,
+          "max": 20,
+          "default": 10
+        },
+        "question_types": [
+          "scq",
+          "mcq"
+        ],
+        "difficulty": {
+          "options": [
+            2,
+            3,
+            4
+          ],
+          "default": 3
+        },
+        "show_elimination_hints": true,
+        "time_per_question_seconds": {
+          "min": 45,
+          "max": 120,
+          "default": 60
+        },
+        "focus": "option_elimination_strategy"
+      },
+      "question_ids": [
+        "Q_PHY_0002",
+        "Q_PHY_0003",
+        "Q_PHY_0005",
+        "Q_PHY_0011",
+        "Q_PHY_0014",
+        "Q_PHY_0016",
+        "Q_PHY_0019",
+        "Q_PHY_0021"
+      ],
+      "reasoning": "High negative marks detected (~18 per session). Option elimination practice will reduce guessing.",
+      "message": "You're losing marks to wrong answers in Rotational Motion. Practice MCQ option elimination \u2014 it's a game-changer for accuracy! \ud83c\udfb2"
+    },
+    {
+      "step": 9,
+      "dost_type": "clickingPower",
+      "target_chapter": "Speed Improvement",
+      "subject": "General",
+      "parameters": {
+        "total_questions": 10,
+        "time_per_question_seconds": {
+          "min": 15,
+          "max": 60,
+          "default": 30
+        },
+        "difficulty": {
+          "options": [
+            1,
+            2,
+            3
+          ],
+          "default": 2
+        },
+        "question_types": [
+          "scq"
+        ],
+        "no_negative_marking": true,
+        "show_answer_immediately": true
+      },
+      "question_ids": [
+        "Q_PHY_0001",
+        "Q_PHY_0002",
+        "Q_PHY_0003",
+        "Q_PHY_0005",
+        "Q_PHY_0009"
+      ],
+      "reasoning": "Average time per question is 162s \u2014 above the 160s threshold. Speed drills on easy questions build automaticity.",
+      "message": "You're spending 162s per question on average \u2014 that's too slow for JEE/NEET! Do this 10-question speed drill daily. Aim for under 90s per question. \u26a1"
+    },
+    {
+      "step": 10,
+      "dost_type": "speedRace",
+      "target_chapter": "Strengths Reinforcement",
+      "subject": "General",
+      "parameters": {
+        "total_questions": {
+          "min": 10,
+          "max": 20,
+          "default": 15
+        },
+        "bot_difficulty": {
+          "options": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "default": "medium"
+        },
+        "question_types": [
+          "scq",
+          "integerQuestion"
+        ],
+        "difficulty": {
+          "options": [
+            1,
+            2,
+            3
+          ],
+          "default": 2
+        },
+        "time_limit_minutes": {
+          "min": 5,
+          "max": 20,
+          "default": 10
+        },
+        "competitive_scoring": true
+      },
+      "question_ids": [],
+      "reasoning": "Student is performing reasonably well. A speed race on strong topics boosts confidence and exam speed simultaneously.",
+      "message": "You're doing well! Challenge yourself in a Speed Race on your strong topics. Beat the bot and build that exam-day confidence! \ud83d\ude80"
+    }
+  ],
+  "total_steps": 10
+}

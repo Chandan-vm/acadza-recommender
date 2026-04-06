@@ -1,0 +1,304 @@
+{
+  "student_id": "STU_009",
+  "name": "Dev Choudhary",
+  "overall_avg_pct": 34.92,
+  "completion_rate_pct": 80.0,
+  "top_weaknesses": [
+    "Fluid Mechanics",
+    "Bernoulli Theorem",
+    "Gaseous State"
+  ],
+  "top_strengths": [],
+  "recommendation_plan": [
+    {
+      "step": 1,
+      "dost_type": "concept",
+      "target_chapter": "Fluid Mechanics",
+      "subject": "Physics",
+      "parameters": {
+        "depth": {
+          "options": [
+            "overview",
+            "detailed",
+            "advanced"
+          ],
+          "default": "detailed"
+        },
+        "include_examples": true,
+        "include_analogies": true,
+        "include_common_mistakes": true,
+        "estimated_time_minutes": {
+          "min": 15,
+          "max": 60,
+          "default": 30
+        },
+        "visual_aids": true
+      },
+      "question_ids": [],
+      "reasoning": "Fluid Mechanics is in the CRITICAL band (score: 22.0%). The student needs foundational concept clarity before attempting questions.",
+      "message": "Hey! Your score in Fluid Mechanics is 22.0% \u2014 let's fix that. Start by reading the concept explanation carefully. Understanding the 'why' will make everything else easier! \ud83d\udca1"
+    },
+    {
+      "step": 2,
+      "dost_type": "formula",
+      "target_chapter": "Fluid Mechanics",
+      "subject": "Physics",
+      "parameters": {
+        "chapters": {
+          "min": 1,
+          "max": 5
+        },
+        "include_derivations": true,
+        "include_examples": true,
+        "format": "cheat_sheet",
+        "estimated_time_minutes": {
+          "min": 10,
+          "max": 30,
+          "default": 15
+        }
+      },
+      "question_ids": [],
+      "reasoning": "After concepts, formula revision for Fluid Mechanics will anchor key equations.",
+      "message": "Now go through the formula sheet for Fluid Mechanics. Keep it open while you practice \u2014 you'll memorize faster by using them! \ud83d\udccb"
+    },
+    {
+      "step": 3,
+      "dost_type": "practiceAssignment",
+      "target_chapter": "Fluid Mechanics",
+      "subject": "Physics",
+      "parameters": {
+        "duration_minutes": null,
+        "total_questions": {
+          "default": 10
+        },
+        "question_types": [
+          "scq",
+          "mcq",
+          "integerQuestion"
+        ],
+        "difficulty_mix": {
+          "easy": 0.7,
+          "medium": 0.3,
+          "hard": 0.0
+        },
+        "allow_hints": true,
+        "show_solution_after": "each_question",
+        "focus": "targeted_weak_areas"
+      },
+      "question_ids": [
+        "Q_PHY_0035"
+      ],
+      "reasoning": "Easy-first practice assignment for Fluid Mechanics to build confidence before tackling harder questions.",
+      "message": "Time to apply what you learned! Here are 10 practice questions on Fluid Mechanics. No timer \u2014 take your time. Questions are easy to medium. You got this! \ud83d\udcaa"
+    },
+    {
+      "step": 4,
+      "dost_type": "concept",
+      "target_chapter": "Bernoulli Theorem",
+      "subject": "Physics",
+      "parameters": {
+        "depth": {
+          "options": [
+            "overview",
+            "detailed",
+            "advanced"
+          ],
+          "default": "detailed"
+        },
+        "include_examples": true,
+        "include_analogies": true,
+        "include_common_mistakes": true,
+        "estimated_time_minutes": {
+          "min": 15,
+          "max": 60,
+          "default": 30
+        },
+        "visual_aids": true
+      },
+      "question_ids": [],
+      "reasoning": "Bernoulli Theorem is in the CRITICAL band (score: 22.0%). The student needs foundational concept clarity before attempting questions.",
+      "message": "Hey! Your score in Bernoulli Theorem is 22.0% \u2014 let's fix that. Start by reading the concept explanation carefully. Understanding the 'why' will make everything else easier! \ud83d\udca1"
+    },
+    {
+      "step": 5,
+      "dost_type": "formula",
+      "target_chapter": "Bernoulli Theorem",
+      "subject": "Physics",
+      "parameters": {
+        "chapters": {
+          "min": 1,
+          "max": 5
+        },
+        "include_derivations": true,
+        "include_examples": true,
+        "format": "cheat_sheet",
+        "estimated_time_minutes": {
+          "min": 10,
+          "max": 30,
+          "default": 15
+        }
+      },
+      "question_ids": [],
+      "reasoning": "After concepts, formula revision for Bernoulli Theorem will anchor key equations.",
+      "message": "Now go through the formula sheet for Bernoulli Theorem. Keep it open while you practice \u2014 you'll memorize faster by using them! \ud83d\udccb"
+    },
+    {
+      "step": 6,
+      "dost_type": "practiceAssignment",
+      "target_chapter": "Bernoulli Theorem",
+      "subject": "Physics",
+      "parameters": {
+        "duration_minutes": null,
+        "total_questions": {
+          "default": 10
+        },
+        "question_types": [
+          "scq",
+          "mcq",
+          "integerQuestion"
+        ],
+        "difficulty_mix": {
+          "easy": 0.7,
+          "medium": 0.3,
+          "hard": 0.0
+        },
+        "allow_hints": true,
+        "show_solution_after": "each_question",
+        "focus": "targeted_weak_areas"
+      },
+      "question_ids": [
+        "Q_PHY_0001",
+        "Q_PHY_0002",
+        "Q_PHY_0003",
+        "Q_PHY_0005",
+        "Q_PHY_0009",
+        "Q_PHY_0011",
+        "Q_PHY_0014",
+        "Q_PHY_0016",
+        "Q_PHY_0018",
+        "Q_PHY_0019"
+      ],
+      "reasoning": "Easy-first practice assignment for Bernoulli Theorem to build confidence before tackling harder questions.",
+      "message": "Time to apply what you learned! Here are 10 practice questions on Bernoulli Theorem. No timer \u2014 take your time. Questions are easy to medium. You got this! \ud83d\udcaa"
+    },
+    {
+      "step": 7,
+      "dost_type": "concept",
+      "target_chapter": "Gaseous State",
+      "subject": "Chemistry",
+      "parameters": {
+        "depth": {
+          "options": [
+            "overview",
+            "detailed",
+            "advanced"
+          ],
+          "default": "detailed"
+        },
+        "include_examples": true,
+        "include_analogies": true,
+        "include_common_mistakes": true,
+        "estimated_time_minutes": {
+          "min": 15,
+          "max": 60,
+          "default": 30
+        },
+        "visual_aids": true
+      },
+      "question_ids": [],
+      "reasoning": "Gaseous State is in the CRITICAL band (score: 27.3%). The student needs foundational concept clarity before attempting questions.",
+      "message": "Hey! Your score in Gaseous State is 27.3% \u2014 let's fix that. Start by reading the concept explanation carefully. Understanding the 'why' will make everything else easier! \ud83d\udca1"
+    },
+    {
+      "step": 8,
+      "dost_type": "formula",
+      "target_chapter": "Gaseous State",
+      "subject": "Chemistry",
+      "parameters": {
+        "chapters": {
+          "min": 1,
+          "max": 5
+        },
+        "include_derivations": true,
+        "include_examples": true,
+        "format": "cheat_sheet",
+        "estimated_time_minutes": {
+          "min": 10,
+          "max": 30,
+          "default": 15
+        }
+      },
+      "question_ids": [],
+      "reasoning": "After concepts, formula revision for Gaseous State will anchor key equations.",
+      "message": "Now go through the formula sheet for Gaseous State. Keep it open while you practice \u2014 you'll memorize faster by using them! \ud83d\udccb"
+    },
+    {
+      "step": 9,
+      "dost_type": "practiceAssignment",
+      "target_chapter": "Gaseous State",
+      "subject": "Chemistry",
+      "parameters": {
+        "duration_minutes": null,
+        "total_questions": {
+          "default": 10
+        },
+        "question_types": [
+          "scq",
+          "mcq",
+          "integerQuestion"
+        ],
+        "difficulty_mix": {
+          "easy": 0.7,
+          "medium": 0.3,
+          "hard": 0.0
+        },
+        "allow_hints": true,
+        "show_solution_after": "each_question",
+        "focus": "targeted_weak_areas"
+      },
+      "question_ids": [
+        "Q_CHE_0070",
+        "Q_CHE_0090"
+      ],
+      "reasoning": "Easy-first practice assignment for Gaseous State to build confidence before tackling harder questions.",
+      "message": "Time to apply what you learned! Here are 10 practice questions on Gaseous State. No timer \u2014 take your time. Questions are easy to medium. You got this! \ud83d\udcaa"
+    },
+    {
+      "step": 10,
+      "dost_type": "clickingPower",
+      "target_chapter": "Speed Improvement",
+      "subject": "General",
+      "parameters": {
+        "total_questions": 10,
+        "time_per_question_seconds": {
+          "min": 15,
+          "max": 60,
+          "default": 30
+        },
+        "difficulty": {
+          "options": [
+            1,
+            2,
+            3
+          ],
+          "default": 2
+        },
+        "question_types": [
+          "scq"
+        ],
+        "no_negative_marking": true,
+        "show_answer_immediately": true
+      },
+      "question_ids": [
+        "Q_PHY_0001",
+        "Q_PHY_0002",
+        "Q_PHY_0003",
+        "Q_PHY_0005",
+        "Q_PHY_0009"
+      ],
+      "reasoning": "Average time per question is 219s \u2014 above the 160s threshold. Speed drills on easy questions build automaticity.",
+      "message": "You're spending 219s per question on average \u2014 that's too slow for JEE/NEET! Do this 10-question speed drill daily. Aim for under 90s per question. \u26a1"
+    }
+  ],
+  "total_steps": 10
+}

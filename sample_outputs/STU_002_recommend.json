@@ -1,0 +1,308 @@
+{
+  "student_id": "STU_002",
+  "name": "Priya Nair",
+  "overall_avg_pct": 63.59,
+  "completion_rate_pct": 80.0,
+  "top_weaknesses": [
+    "Electrostatics",
+    "Current Electricity",
+    "Optics"
+  ],
+  "top_strengths": [
+    "Coordination Compounds",
+    "d-block Elements",
+    "Electrochemistry"
+  ],
+  "recommendation_plan": [
+    {
+      "step": 1,
+      "dost_type": "practiceAssignment",
+      "target_chapter": "Electrostatics",
+      "subject": "Physics",
+      "parameters": {
+        "duration_minutes": null,
+        "total_questions": {
+          "default": 12
+        },
+        "question_types": [
+          "scq",
+          "mcq",
+          "integerQuestion"
+        ],
+        "difficulty_mix": {
+          "easy": 0.4,
+          "medium": 0.4,
+          "hard": 0.2
+        },
+        "allow_hints": true,
+        "show_solution_after": "each_question",
+        "focus": "targeted_weak_areas"
+      },
+      "question_ids": [
+        "Q_PHY_0027",
+        "Q_PHY_0028",
+        "Q_PHY_0047",
+        "Q_PHY_0048"
+      ],
+      "reasoning": "Electrostatics is in DEVELOPING band (score: 37.5%). Targeted practice will help identify specific gaps.",
+      "message": "Your Electrostatics score is 37.5% \u2014 room for improvement! Work through this assignment at your own pace. Pay attention to the solutions for questions you get wrong. \ud83c\udfaf"
+    },
+    {
+      "step": 2,
+      "dost_type": "pickingPower",
+      "target_chapter": "Electrostatics",
+      "subject": "Physics",
+      "parameters": {
+        "total_questions": {
+          "min": 5,
+          "max": 20,
+          "default": 10
+        },
+        "question_types": [
+          "scq",
+          "mcq"
+        ],
+        "difficulty": {
+          "options": [
+            2,
+            3,
+            4
+          ],
+          "default": 3
+        },
+        "show_elimination_hints": true,
+        "time_per_question_seconds": {
+          "min": 45,
+          "max": 120,
+          "default": 60
+        },
+        "focus": "option_elimination_strategy"
+      },
+      "question_ids": [
+        "Q_PHY_0027",
+        "Q_PHY_0028",
+        "Q_PHY_0047"
+      ],
+      "reasoning": "High negative marks detected (~20 per session). Option elimination practice will reduce guessing.",
+      "message": "You're losing marks to wrong answers in Electrostatics. Practice MCQ option elimination \u2014 it's a game-changer for accuracy! \ud83c\udfb2"
+    },
+    {
+      "step": 3,
+      "dost_type": "practiceAssignment",
+      "target_chapter": "Current Electricity",
+      "subject": "Physics",
+      "parameters": {
+        "duration_minutes": null,
+        "total_questions": {
+          "default": 12
+        },
+        "question_types": [
+          "scq",
+          "mcq",
+          "integerQuestion"
+        ],
+        "difficulty_mix": {
+          "easy": 0.4,
+          "medium": 0.4,
+          "hard": 0.2
+        },
+        "allow_hints": true,
+        "show_solution_after": "each_question",
+        "focus": "targeted_weak_areas"
+      },
+      "question_ids": [
+        "Q_PHY_0029",
+        "Q_PHY_0049"
+      ],
+      "reasoning": "Current Electricity is in DEVELOPING band (score: 37.5%). Targeted practice will help identify specific gaps.",
+      "message": "Your Current Electricity score is 37.5% \u2014 room for improvement! Work through this assignment at your own pace. Pay attention to the solutions for questions you get wrong. \ud83c\udfaf"
+    },
+    {
+      "step": 4,
+      "dost_type": "pickingPower",
+      "target_chapter": "Current Electricity",
+      "subject": "Physics",
+      "parameters": {
+        "total_questions": {
+          "min": 5,
+          "max": 20,
+          "default": 10
+        },
+        "question_types": [
+          "scq",
+          "mcq"
+        ],
+        "difficulty": {
+          "options": [
+            2,
+            3,
+            4
+          ],
+          "default": 3
+        },
+        "show_elimination_hints": true,
+        "time_per_question_seconds": {
+          "min": 45,
+          "max": 120,
+          "default": 60
+        },
+        "focus": "option_elimination_strategy"
+      },
+      "question_ids": [
+        "Q_PHY_0029"
+      ],
+      "reasoning": "High negative marks detected (~20 per session). Option elimination practice will reduce guessing.",
+      "message": "You're losing marks to wrong answers in Current Electricity. Practice MCQ option elimination \u2014 it's a game-changer for accuracy! \ud83c\udfb2"
+    },
+    {
+      "step": 5,
+      "dost_type": "practiceAssignment",
+      "target_chapter": "Optics",
+      "subject": "Physics",
+      "parameters": {
+        "duration_minutes": null,
+        "total_questions": {
+          "default": 12
+        },
+        "question_types": [
+          "scq",
+          "mcq",
+          "integerQuestion"
+        ],
+        "difficulty_mix": {
+          "easy": 0.4,
+          "medium": 0.4,
+          "hard": 0.2
+        },
+        "allow_hints": true,
+        "show_solution_after": "each_question",
+        "focus": "targeted_weak_areas"
+      },
+      "question_ids": [
+        "Q_PHY_0011",
+        "Q_PHY_0032",
+        "Q_PHY_0011"
+      ],
+      "reasoning": "Optics is in DEVELOPING band (score: 38.5%). Targeted practice will help identify specific gaps.",
+      "message": "Your Optics score is 38.5% \u2014 room for improvement! Work through this assignment at your own pace. Pay attention to the solutions for questions you get wrong. \ud83c\udfaf"
+    },
+    {
+      "step": 6,
+      "dost_type": "pickingPower",
+      "target_chapter": "Optics",
+      "subject": "Physics",
+      "parameters": {
+        "total_questions": {
+          "min": 5,
+          "max": 20,
+          "default": 10
+        },
+        "question_types": [
+          "scq",
+          "mcq"
+        ],
+        "difficulty": {
+          "options": [
+            2,
+            3,
+            4
+          ],
+          "default": 3
+        },
+        "show_elimination_hints": true,
+        "time_per_question_seconds": {
+          "min": 45,
+          "max": 120,
+          "default": 60
+        },
+        "focus": "option_elimination_strategy"
+      },
+      "question_ids": [
+        "Q_PHY_0011",
+        "Q_PHY_0032",
+        "Q_PHY_0011"
+      ],
+      "reasoning": "High negative marks detected (~16 per session). Option elimination practice will reduce guessing.",
+      "message": "You're losing marks to wrong answers in Optics. Practice MCQ option elimination \u2014 it's a game-changer for accuracy! \ud83c\udfb2"
+    },
+    {
+      "step": 7,
+      "dost_type": "clickingPower",
+      "target_chapter": "Speed Improvement",
+      "subject": "General",
+      "parameters": {
+        "total_questions": 10,
+        "time_per_question_seconds": {
+          "min": 15,
+          "max": 60,
+          "default": 30
+        },
+        "difficulty": {
+          "options": [
+            1,
+            2,
+            3
+          ],
+          "default": 2
+        },
+        "question_types": [
+          "scq"
+        ],
+        "no_negative_marking": true,
+        "show_answer_immediately": true
+      },
+      "question_ids": [
+        "Q_PHY_0001",
+        "Q_PHY_0002",
+        "Q_PHY_0003",
+        "Q_PHY_0005",
+        "Q_PHY_0009"
+      ],
+      "reasoning": "Average time per question is 167s \u2014 above the 160s threshold. Speed drills on easy questions build automaticity.",
+      "message": "You're spending 167s per question on average \u2014 that's too slow for JEE/NEET! Do this 10-question speed drill daily. Aim for under 90s per question. \u26a1"
+    },
+    {
+      "step": 8,
+      "dost_type": "speedRace",
+      "target_chapter": "Strengths Reinforcement",
+      "subject": "General",
+      "parameters": {
+        "total_questions": {
+          "min": 10,
+          "max": 20,
+          "default": 15
+        },
+        "bot_difficulty": {
+          "options": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "default": "medium"
+        },
+        "question_types": [
+          "scq",
+          "integerQuestion"
+        ],
+        "difficulty": {
+          "options": [
+            1,
+            2,
+            3
+          ],
+          "default": 2
+        },
+        "time_limit_minutes": {
+          "min": 5,
+          "max": 20,
+          "default": 10
+        },
+        "competitive_scoring": true
+      },
+      "question_ids": [],
+      "reasoning": "Student is performing reasonably well. A speed race on strong topics boosts confidence and exam speed simultaneously.",
+      "message": "You're doing well! Challenge yourself in a Speed Race on your strong topics. Beat the bot and build that exam-day confidence! \ud83d\ude80"
+    }
+  ],
+  "total_steps": 8
+}

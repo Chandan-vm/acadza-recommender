@@ -1,0 +1,251 @@
+{
+  "student_id": "STU_010",
+  "name": "Ishaan Verma",
+  "overall_avg_pct": 64.9,
+  "completion_rate_pct": 83.3,
+  "top_weaknesses": [
+    "Electromagnetic Induction",
+    "AC Circuits",
+    "Electrostatics"
+  ],
+  "top_strengths": [
+    "Amines",
+    "Diazonium Salts",
+    "Functions"
+  ],
+  "recommendation_plan": [
+    {
+      "step": 1,
+      "dost_type": "practiceAssignment",
+      "target_chapter": "Electromagnetic Induction",
+      "subject": "Physics",
+      "parameters": {
+        "duration_minutes": null,
+        "total_questions": {
+          "default": 12
+        },
+        "question_types": [
+          "scq",
+          "mcq",
+          "integerQuestion"
+        ],
+        "difficulty_mix": {
+          "easy": 0.4,
+          "medium": 0.4,
+          "hard": 0.2
+        },
+        "allow_hints": true,
+        "show_solution_after": "each_question",
+        "focus": "targeted_weak_areas"
+      },
+      "question_ids": [
+        "Q_PHY_0019",
+        "Q_PHY_0039"
+      ],
+      "reasoning": "Electromagnetic Induction is in DEVELOPING band (score: 37.5%). Targeted practice will help identify specific gaps.",
+      "message": "Your Electromagnetic Induction score is 37.5% \u2014 room for improvement! Work through this assignment at your own pace. Pay attention to the solutions for questions you get wrong. \ud83c\udfaf"
+    },
+    {
+      "step": 2,
+      "dost_type": "pickingPower",
+      "target_chapter": "Electromagnetic Induction",
+      "subject": "Physics",
+      "parameters": {
+        "total_questions": {
+          "min": 5,
+          "max": 20,
+          "default": 10
+        },
+        "question_types": [
+          "scq",
+          "mcq"
+        ],
+        "difficulty": {
+          "options": [
+            2,
+            3,
+            4
+          ],
+          "default": 3
+        },
+        "show_elimination_hints": true,
+        "time_per_question_seconds": {
+          "min": 45,
+          "max": 120,
+          "default": 60
+        },
+        "focus": "option_elimination_strategy"
+      },
+      "question_ids": [
+        "Q_PHY_0019",
+        "Q_PHY_0039"
+      ],
+      "reasoning": "High negative marks detected (~20 per session). Option elimination practice will reduce guessing.",
+      "message": "You're losing marks to wrong answers in Electromagnetic Induction. Practice MCQ option elimination \u2014 it's a game-changer for accuracy! \ud83c\udfb2"
+    },
+    {
+      "step": 3,
+      "dost_type": "practiceAssignment",
+      "target_chapter": "AC Circuits",
+      "subject": "Physics",
+      "parameters": {
+        "duration_minutes": null,
+        "total_questions": {
+          "default": 12
+        },
+        "question_types": [
+          "scq",
+          "mcq",
+          "integerQuestion"
+        ],
+        "difficulty_mix": {
+          "easy": 0.4,
+          "medium": 0.4,
+          "hard": 0.2
+        },
+        "allow_hints": true,
+        "show_solution_after": "each_question",
+        "focus": "targeted_weak_areas"
+      },
+      "question_ids": [
+        "Q_PHY_0040"
+      ],
+      "reasoning": "AC Circuits is in DEVELOPING band (score: 37.5%). Targeted practice will help identify specific gaps.",
+      "message": "Your AC Circuits score is 37.5% \u2014 room for improvement! Work through this assignment at your own pace. Pay attention to the solutions for questions you get wrong. \ud83c\udfaf"
+    },
+    {
+      "step": 4,
+      "dost_type": "pickingPower",
+      "target_chapter": "AC Circuits",
+      "subject": "Physics",
+      "parameters": {
+        "total_questions": {
+          "min": 5,
+          "max": 20,
+          "default": 10
+        },
+        "question_types": [
+          "scq",
+          "mcq"
+        ],
+        "difficulty": {
+          "options": [
+            2,
+            3,
+            4
+          ],
+          "default": 3
+        },
+        "show_elimination_hints": true,
+        "time_per_question_seconds": {
+          "min": 45,
+          "max": 120,
+          "default": 60
+        },
+        "focus": "option_elimination_strategy"
+      },
+      "question_ids": [
+        "Q_PHY_0040"
+      ],
+      "reasoning": "High negative marks detected (~20 per session). Option elimination practice will reduce guessing.",
+      "message": "You're losing marks to wrong answers in AC Circuits. Practice MCQ option elimination \u2014 it's a game-changer for accuracy! \ud83c\udfb2"
+    },
+    {
+      "step": 5,
+      "dost_type": "practiceTest",
+      "target_chapter": "Electrostatics",
+      "subject": "Physics",
+      "parameters": {
+        "duration_minutes": {
+          "default": 20
+        },
+        "total_questions": {
+          "default": 15
+        },
+        "question_types": [
+          "scq",
+          "mcq",
+          "integerQuestion"
+        ],
+        "marking_scheme": {
+          "mains": {
+            "scq_correct": 4,
+            "scq_wrong": -1,
+            "integer_correct": 4,
+            "integer_wrong": 0
+          },
+          "advanced": {
+            "scq_correct": 3,
+            "scq_wrong": -1,
+            "mcq_correct": 4,
+            "mcq_wrong": -2,
+            "integer_correct": 3,
+            "integer_wrong": 0
+          },
+          "neet": {
+            "scq_correct": 4,
+            "scq_wrong": -1
+          }
+        },
+        "difficulty_mix": {
+          "easy": 0.3,
+          "medium": 0.5,
+          "hard": 0.2
+        },
+        "shuffle_questions": true,
+        "show_solution_after": "completion"
+      },
+      "question_ids": [
+        "Q_PHY_0027",
+        "Q_PHY_0028",
+        "Q_PHY_0047",
+        "Q_PHY_0048"
+      ],
+      "reasoning": "Electrostatics is in AVERAGE band (score: 57.9%). A focused timed test will push it to 'good'.",
+      "message": "Electrostatics is close! Take this 20-minute focused test to push past 70%. Treat it like the real exam. \ud83c\udfc6"
+    },
+    {
+      "step": 6,
+      "dost_type": "speedRace",
+      "target_chapter": "Strengths Reinforcement",
+      "subject": "General",
+      "parameters": {
+        "total_questions": {
+          "min": 10,
+          "max": 20,
+          "default": 15
+        },
+        "bot_difficulty": {
+          "options": [
+            "easy",
+            "medium",
+            "hard"
+          ],
+          "default": "medium"
+        },
+        "question_types": [
+          "scq",
+          "integerQuestion"
+        ],
+        "difficulty": {
+          "options": [
+            1,
+            2,
+            3
+          ],
+          "default": 2
+        },
+        "time_limit_minutes": {
+          "min": 5,
+          "max": 20,
+          "default": 10
+        },
+        "competitive_scoring": true
+      },
+      "question_ids": [],
+      "reasoning": "Student is performing reasonably well. A speed race on strong topics boosts confidence and exam speed simultaneously.",
+      "message": "You're doing well! Challenge yourself in a Speed Race on your strong topics. Beat the bot and build that exam-day confidence! \ud83d\ude80"
+    }
+  ],
+  "total_steps": 6
+}

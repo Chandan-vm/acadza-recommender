@@ -1,0 +1,165 @@
+{
+  "student_id": "STU_009",
+  "name": "Dev Choudhary",
+  "analysis": {
+    "overall_avg_pct": 34.92,
+    "completion_rate_pct": 80.0,
+    "avg_time_per_q_sec": 218.6,
+    "performance_trend": "improving",
+    "total_sessions": 5,
+    "subjects": {
+      "Physics": {
+        "avg_score_pct": 34.34,
+        "sessions": 2,
+        "band": "critical"
+      },
+      "Chemistry": {
+        "avg_score_pct": 34.97,
+        "sessions": 2,
+        "band": "critical"
+      },
+      "Mathematics": {
+        "avg_score_pct": 36.0,
+        "sessions": 1,
+        "band": "developing"
+      }
+    },
+    "chapters": {
+      "Fluid Mechanics": {
+        "avg_score_pct": 22.0,
+        "total_attempts": 14,
+        "total_skips": 11,
+        "sessions": 1,
+        "avg_time_per_q_sec": 266.0,
+        "band": "critical"
+      },
+      "Bernoulli Theorem": {
+        "avg_score_pct": 22.0,
+        "total_attempts": 14,
+        "total_skips": 11,
+        "sessions": 1,
+        "avg_time_per_q_sec": 266.0,
+        "band": "critical"
+      },
+      "Gaseous State": {
+        "avg_score_pct": 27.27,
+        "total_attempts": 12,
+        "total_skips": 3,
+        "sessions": 1,
+        "avg_time_per_q_sec": 250.0,
+        "band": "critical"
+      },
+      "Solid State": {
+        "avg_score_pct": 27.27,
+        "total_attempts": 12,
+        "total_skips": 3,
+        "sessions": 1,
+        "avg_time_per_q_sec": 250.0,
+        "band": "critical"
+      },
+      "Limits": {
+        "avg_score_pct": 36.0,
+        "total_attempts": 18,
+        "total_skips": 7,
+        "sessions": 1,
+        "avg_time_per_q_sec": 200.0,
+        "band": "developing"
+      },
+      "Continuity": {
+        "avg_score_pct": 36.0,
+        "total_attempts": 18,
+        "total_skips": 7,
+        "sessions": 1,
+        "avg_time_per_q_sec": 200.0,
+        "band": "developing"
+      },
+      "Thermodynamics": {
+        "avg_score_pct": 46.67,
+        "total_attempts": 20,
+        "total_skips": 5,
+        "sessions": 1,
+        "avg_time_per_q_sec": 174.0,
+        "band": "developing"
+      },
+      "Kinetic Theory": {
+        "avg_score_pct": 46.67,
+        "total_attempts": 20,
+        "total_skips": 5,
+        "sessions": 1,
+        "avg_time_per_q_sec": 174.0,
+        "band": "developing"
+      },
+      "Surface Chemistry": {
+        "avg_score_pct": 42.67,
+        "total_attempts": 13,
+        "total_skips": 2,
+        "sessions": 1,
+        "avg_time_per_q_sec": 203.0,
+        "band": "developing"
+      },
+      "Colloids": {
+        "avg_score_pct": 42.67,
+        "total_attempts": 13,
+        "total_skips": 2,
+        "sessions": 1,
+        "avg_time_per_q_sec": 203.0,
+        "band": "developing"
+      }
+    },
+    "strengths": [],
+    "weaknesses": [
+      "Fluid Mechanics",
+      "Bernoulli Theorem",
+      "Gaseous State",
+      "Solid State",
+      "Limits"
+    ],
+    "scores_over_time": [
+      {
+        "date": "2026-02-11",
+        "subject": "Physics",
+        "pct": 22.0,
+        "chapters": [
+          "Fluid Mechanics",
+          "Bernoulli Theorem"
+        ]
+      },
+      {
+        "date": "2026-02-19",
+        "subject": "Chemistry",
+        "pct": 27.27,
+        "chapters": [
+          "Gaseous State",
+          "Solid State"
+        ]
+      },
+      {
+        "date": "2026-02-27",
+        "subject": "Mathematics",
+        "pct": 36.0,
+        "chapters": [
+          "Limits",
+          "Continuity"
+        ]
+      },
+      {
+        "date": "2026-03-06",
+        "subject": "Physics",
+        "pct": 46.67,
+        "chapters": [
+          "Thermodynamics",
+          "Kinetic Theory"
+        ]
+      },
+      {
+        "date": "2026-03-14",
+        "subject": "Chemistry",
+        "pct": 42.67,
+        "chapters": [
+          "Surface Chemistry",
+          "Colloids"
+        ]
+      }
+    ]
+  }
+}
