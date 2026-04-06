@@ -1,0 +1,3066 @@
+[
+  {
+    "_id": {
+      "$oid": "5fca00000001ce6b0b0563640a01"
+    },
+    "questionType": "integerQuestion",
+    "subject": "Physics",
+    "topic": "kinematics",
+    "subtopic": "projectile_motion",
+    "difficulty": 1,
+    "question_id": "Q_PHY_0001",
+    "integerQuestion": {
+      "question": "<h3>Calculate the integer value for the given projectile_motion scenario. Answer is a non-negative integer.</h3>",
+      "solution": "<h3>Applying kinematics formulas gives the answer.</h3>",
+      "answer": "8"
+    }
+  },
+  {
+    "_id": "QID_PHY_0002",
+    "questionType": "mcq",
+    "subject": "Physics",
+    "topic": "kinematics",
+    "subtopic": "circular_motion",
+    "difficulty": 2,
+    "question_id": "Q_PHY_0002",
+    "mcq": {
+      "question": "<h3>Which of the following statements about circular_motion are correct?</h3><h3>(A) Statement 1<br/>(B) Statement 2<br/>(C) Statement 3<br/>(D) Statement 4</h3>",
+      "solution": "<h3>Statements A and C are correct based on kinematics.</h3>",
+      "answer": "A,B,C"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5fca00000003ce6b0b0563640a03"
+    },
+    "questionType": "integerQuestion",
+    "subject": "Physics",
+    "topic": "mechanics",
+    "subtopic": "work_energy",
+    "difficulty": 2,
+    "question_id": "Q_PHY_0003",
+    "integerQuestion": {
+      "question": "<h3>Calculate the integer value for the given work_energy scenario. Answer is a non-negative integer.</h3>",
+      "solution": "<h3>Applying mechanics formulas gives the answer.</h3>",
+      "answer": "9"
+    }
+  },
+  {
+    "_id": "QID_PHY_0004",
+    "questionType": "scq",
+    "subject": "Physics",
+    "topic": "mechanics",
+    "subtopic": "friction",
+    "difficulty": 5,
+    "question_id": "Q_PHY_0004",
+    "scq": {
+      "question": "<h3>A physics problem on mechanics involving friction. Find the correct answer.</h3><h3>(A) Option A<br/>(B) Option B<br/>(C) Option C<br/>(D) Option D</h3>",
+      "solution": "<h3>Using principles of friction, the answer is derived step by step.</h3>",
+      "answer": "A"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5fca00000005ce6b0b0563640a05"
+    },
+    "questionType": "scq",
+    "subject": "Physics",
+    "topic": "thermodynamics",
+    "subtopic": "heat_transfer",
+    "difficulty": 2,
+    "question_id": "Q_PHY_0005",
+    "scq": {
+      "question": "<h3>A physics problem on thermodynamics involving heat_transfer. Find the correct answer.</h3><h3>(A) Option A<br/>(B) Option B<br/>(C) Option C<br/>(D) Option D</h3>",
+      "solution": "<h3>Using principles of heat_transfer, the answer is derived step by step.</h3>",
+      "answer": "D"
+    }
+  },
+  {
+    "_id": "QID_PHY_0006",
+    "questionType": "scq",
+    "subject": "Physics",
+    "topic": "thermodynamics",
+    "subtopic": "carnot_cycle",
+    "difficulty": 5,
+    "question_id": "Q_PHY_0006",
+    "scq": {
+      "question": "<h3>A physics problem on thermodynamics involving carnot_cycle. Find the correct answer.</h3><h3>(A) Option A<br/>(B) Option B<br/>(C) Option C<br/>(D) Option D</h3>",
+      "solution": "<h3>Using principles of carnot_cycle, the answer is derived step by step.</h3>",
+      "answer": "C"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5fca00000007ce6b0b0563640a07"
+    },
+    "questionType": "scq",
+    "subject": "Physics",
+    "topic": "electrostatics",
+    "subtopic": "coulombs_law",
+    "difficulty": 5,
+    "question_id": "Q_PHY_0007",
+    "scq": {
+      "question": "<h3>A physics problem on electrostatics involving coulombs_law. Find the correct answer.</h3><h3>(A) Option A<br/>(B) Option B<br/>(C) Option C<br/>(D) Option D</h3>",
+      "solution": "<h3>Using principles of coulombs_law, the answer is derived step by step.</h3>",
+      "answer": "B"
+    }
+  },
+  {
+    "_id": "QID_PHY_0008",
+    "questionType": "scq",
+    "subject": "Physics",
+    "topic": "electrostatics",
+    "subtopic": "capacitors",
+    "difficulty": 5,
+    "question_id": "Q_PHY_0008",
+    "scq": {
+      "question": "<h3>A physics problem on electrostatics involving capacitors. Find the correct answer.</h3><h3>(A) Option A<br/>(B) Option B<br/>(C) Option C<br/>(D) Option D</h3>",
+      "solution": "<h3>Using principles of capacitors, the answer is derived step by step.</h3>",
+      "answer": "C"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5fca00000009ce6b0b0563640a09"
+    },
+    "questionType": "mcq",
+    "subject": "Physics",
+    "topic": "current_electricity",
+    "subtopic": "ohms_law",
+    "difficulty": 1,
+    "question_id": "Q_PHY_0009",
+    "mcq": {
+      "question": "<h3>Which of the following statements about ohms_law are correct?</h3><h3>(A) Statement 1<br/>(B) Statement 2<br/>(C) Statement 3<br/>(D) Statement 4</h3>",
+      "solution": "<h3>Statements A and C are correct based on current_electricity.</h3>",
+      "answer": "A,C"
+    }
+  },
+  {
+    "_id": "QID_PHY_0010",
+    "questionType": "scq",
+    "subject": "Physics",
+    "topic": "magnetism",
+    "subtopic": "biot_savart",
+    "difficulty": 5,
+    "question_id": "Q_PHY_0010",
+    "scq": {
+      "question": "<h3>A physics problem on magnetism involving biot_savart. Find the correct answer.</h3><h3>(A) Option A<br/>(B) Option B<br/>(C) Option C<br/>(D) Option D</h3>",
+      "solution": "<h3>Using principles of biot_savart, the answer is derived step by step.</h3>",
+      "answer": "D"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5fca00000011ce6b0b0563640a11"
+    },
+    "questionType": "scq",
+    "subject": "Physics",
+    "topic": "optics",
+    "subtopic": "refraction",
+    "difficulty": 2,
+    "question_id": "Q_PHY_0011",
+    "scq": {
+      "question": "<h3>A physics problem on optics involving refraction. Find the correct answer.</h3><h3>(A) Option A<br/>(B) Option B<br/>(C) Option C<br/>(D) Option D</h3>",
+      "solution": "<h3>Using principles of refraction, the answer is derived step by step.</h3>",
+      "answer": "B"
+    }
+  },
+  {
+    "_id": "QID_PHY_0012",
+    "questionType": "scq",
+    "subject": "Physics",
+    "topic": "optics",
+    "subtopic": "wave_optics",
+    "difficulty": 5,
+    "question_id": "Q_PHY_0012",
+    "scq": {
+      "question": "<h3>A physics problem on optics involving wave_optics. Find the correct answer.</h3><h3>(A) Option A<br/>(B) Option B<br/>(C) Option C<br/>(D) Option D</h3>",
+      "solution": "<h3>Using principles of wave_optics, the answer is derived step by step.</h3>",
+      "answer": null
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5fca00000013ce6b0b0563640a13"
+    },
+    "questionType": "mcq",
+    "subject": "Physics",
+    "topic": "waves",
+    "subtopic": "sound_waves",
+    "difficulty": 2,
+    "question_id": "Q_PHY_0013",
+    "mcq": {
+      "question": "<h3>Which of the following statements about sound_waves are correct?</h3><h3>(A) Statement 1<br/>(B) Statement 2<br/>(C) Statement 3<br/>(D) Statement 4</h3>",
+      "solution": "<h3>Statements A and C are correct based on waves.</h3>",
+      "answer": null
+    }
+  },
+  {
+    "_id": "QID_PHY_0014",
+    "questionType": "scq",
+    "subject": "Physics",
+    "topic": "modern_physics",
+    "subtopic": "photoelectric",
+    "difficulty": 2,
+    "question_id": "Q_PHY_0014",
+    "scq": {
+      "question": "<h3>A physics problem on modern_physics involving photoelectric. Find the correct answer.</h3><h3>(A) Option A<br/>(B) Option B<br/>(C) Option C<br/>(D) Option D</h3>",
+      "solution": "<h3>Using principles of photoelectric, the answer is derived step by step.</h3>",
+      "answer": "A"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5fca00000015ce6b0b0563640a15"
+    },
+    "questionType": "scq",
+    "subject": "Physics",
+    "topic": "fluid_mechanics",
+    "subtopic": "bernoulli",
+    "difficulty": 5,
+    "question_id": "Q_PHY_0015",
+    "scq": {
+      "question": "<h3>A physics problem on fluid_mechanics involving bernoulli. Find the correct answer.</h3><h3>(A) Option A<br/>(B) Option B<br/>(C) Option C<br/>(D) Option D</h3>",
+      "solution": "<h3>Using principles of bernoulli, the answer is derived step by step.</h3>",
+      "answer": "D"
+    }
+  },
+  {
+    "_id": "QID_PHY_0016",
+    "questionType": "scq",
+    "subject": "Physics",
+    "topic": "shm",
+    "subtopic": "pendulum",
+    "difficulty": 2,
+    "question_id": "Q_PHY_0016",
+    "scq": {
+      "question": "<h3>A physics problem on shm involving pendulum. Find the correct answer.</h3><h3>(A) Option A<br/>(B) Option B<br/>(C) Option C<br/>(D) Option D</h3>",
+      "solution": "<h3>Using principles of pendulum, the answer is derived step by step.</h3>",
+      "answer": "D"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5fca00000017ce6b0b0563640a17"
+    },
+    "questionType": "scq",
+    "subject": "Physics",
+    "topic": "rotational_motion",
+    "subtopic": "moment_of_inertia",
+    "difficulty": 5,
+    "question_id": "Q_PHY_0017",
+    "scq": {
+      "question": "<h3>A physics problem on rotational_motion involving moment_of_inertia. Find the correct answer.</h3><h3>(A) Option A<br/>(B) Option B<br/>(C) Option C<br/>(D) Option D</h3>",
+      "solution": "<h3>Using principles of moment_of_inertia, the answer is derived step by step.</h3>",
+      "answer": "D"
+    }
+  },
+  {
+    "_id": "QID_PHY_0018",
+    "questionType": "scq",
+    "subject": "Physics",
+    "topic": "gravitation",
+    "subtopic": "keplers_laws",
+    "difficulty": 1,
+    "question_id": "Q_PHY_0018",
+    "scq": {
+      "question": "<h3>A physics problem on gravitation involving keplers_laws. Find the correct answer.</h3><h3>(A) Option A<br/>(B) Option B<br/>(C) Option C<br/>(D) Option D</h3>",
+      "solution": "<h3>Using principles of keplers_laws, the answer is derived step by step.</h3>",
+      "answer": "B"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5fca00000019ce6b0b0563640a19"
+    },
+    "questionType": "scq",
+    "subject": "Physics",
+    "topic": "electromagnetic_induction",
+    "subtopic": "faradays_law",
+    "difficulty": 2,
+    "question_id": "Q_PHY_0019",
+    "scq": {
+      "question": "<h3>A physics problem on electromagnetic_induction involving faradays_law. Find the correct answer.</h3><h3>(A) Option A<br/>(B) Option B<br/>(C) Option C<br/>(D) Option D</h3>",
+      "solution": "<h3>Using principles of faradays_law, the answer is derived step by step.</h3>",
+      "answer": "D"
+    }
+  },
+  {
+    "_id": "QID_PHY_0020",
+    "questionType": "scq",
+    "subject": "Physics",
+    "topic": "ac_circuits",
+    "subtopic": "impedance",
+    "difficulty": 5,
+    "question_id": "Q_PHY_0020",
+    "scq": {
+      "question": "<h3>A physics problem on ac_circuits involving impedance. Find the correct answer.</h3><h3>(A) Option A<br/>(B) Option B<br/>(C) Option C<br/>(D) Option D</h3>",
+      "solution": "<h3>Using principles of impedance, the answer is derived step by step.</h3>",
+      "answer": "B"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5fca00000021ce6b0b0563640a21"
+    },
+    "questionType": "integerQuestion",
+    "subject": "Physics",
+    "topic": "kinematics",
+    "subtopic": "projectile_motion",
+    "difficulty": 2,
+    "question_id": "Q_PHY_0021",
+    "integerQuestion": {
+      "question": "<h3>Calculate the integer value for the given projectile_motion scenario. Answer is a non-negative integer.</h3>",
+      "solution": "<h3>Applying kinematics formulas gives the answer.</h3>",
+      "answer": "5"
+    }
+  },
+  {
+    "_id": "QID_PHY_0022",
+    "questionType": "scq",
+    "subject": "Physics",
+    "topic": "kinematics",
+    "subtopic": "circular_motion",
+    "difficulty": 4,
+    "question_id": "Q_PHY_0022",
+    "scq": {
+      "question": "<h3>A physics problem on kinematics involving circular_motion. Find the correct answer.</h3><h3>(A) Option A<br/>(B) Option B<br/>(C) Option C<br/>(D) Option D</h3>",
+      "solution": "<h3>Using principles of circular_motion, the answer is derived step by step.</h3>",
+      "answer": "D"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5fca00000023ce6b0b0563640a23"
+    },
+    "questionType": "mcq",
+    "subject": "Physics",
+    "topic": "mechanics",
+    "subtopic": "work_energy",
+    "difficulty": 5,
+    "question_id": "Q_PHY_0023",
+    "mcq": {
+      "question": "<h3>Which of the following statements about work_energy are correct?</h3><h3>(A) Statement 1<br/>(B) Statement 2<br/>(C) Statement 3<br/>(D) Statement 4</h3>",
+      "solution": "<h3>Statements A and C are correct based on mechanics.</h3>",
+      "answer": "A,C"
+    }
+  },
+  {
+    "_id": "QID_PHY_0024",
+    "questionType": "scq",
+    "subject": "Physics",
+    "topic": "mechanics",
+    "subtopic": "friction",
+    "difficulty": 5,
+    "question_id": "Q_PHY_0024",
+    "scq": {
+      "question": "<h3>A physics problem on mechanics involving friction. Find the correct answer.</h3><h3>(A) Option A<br/>(B) Option B<br/>(C) Option C<br/>(D) Option D</h3>",
+      "solution": "<h3>Using principles of friction, the answer is derived step by step.</h3>",
+      "answer": "C"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5fca00000025ce6b0b0563640a25"
+    },
+    "questionType": "scq",
+    "subject": "Physics",
+    "topic": "thermodynamics",
+    "subtopic": "heat_transfer",
+    "difficulty": 3,
+    "question_id": "Q_PHY_0025",
+    "scq": {
+      "question": "<h3>A physics problem on thermodynamics involving heat_transfer. Find the correct answer.</h3><h3>(A) Option A<br/>(B) Option B<br/>(C) Option C<br/>(D) Option D</h3>",
+      "solution": "<h3>Using principles of heat_transfer, the answer is derived step by step.</h3>",
+      "answer": "B"
+    }
+  },
+  {
+    "_id": "QID_PHY_0026",
+    "questionType": "scq",
+    "subject": "Physics",
+    "topic": "thermodynamics",
+    "subtopic": "carnot_cycle",
+    "difficulty": 3,
+    "question_id": "Q_PHY_0026",
+    "scq": {
+      "question": "<h3>A physics problem on thermodynamics involving carnot_cycle. Find the correct answer.</h3><h3>(A) Option A<br/>(B) Option B<br/>(C) Option C<br/>(D) Option D</h3>",
+      "solution": "<h3>Using principles of carnot_cycle, the answer is derived step by step.</h3>",
+      "answer": "B"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5fca00000027ce6b0b0563640a27"
+    },
+    "questionType": "scq",
+    "subject": "Physics",
+    "topic": "electrostatics",
+    "subtopic": "coulombs_law",
+    "difficulty": 3,
+    "question_id": "Q_PHY_0027",
+    "scq": {
+      "question": "<h3>A physics problem on electrostatics involving coulombs_law. Find the correct answer.</h3><h3>(A) Option A<br/>(B) Option B<br/>(C) Option C<br/>(D) Option D</h3>",
+      "solution": "<h3>Using principles of coulombs_law, the answer is derived step by step.</h3>",
+      "answer": "C"
+    }
+  },
+  {
+    "_id": "QID_PHY_0028",
+    "questionType": "scq",
+    "subject": "Physics",
+    "topic": "electrostatics",
+    "subtopic": "capacitors",
+    "difficulty": 2,
+    "question_id": "Q_PHY_0028",
+    "scq": {
+      "question": "<h3>A physics problem on electrostatics involving capacitors. Find the correct answer.</h3><h3>(A) Option A<br/>(B) Option B<br/>(C) Option C<br/>(D) Option D</h3>",
+      "solution": "<h3>Using principles of capacitors, the answer is derived step by step.</h3>",
+      "answer": "D"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5fca00000029ce6b0b0563640a29"
+    },
+    "questionType": "scq",
+    "subject": "Physics",
+    "topic": "current_electricity",
+    "subtopic": "ohms_law",
+    "difficulty": 3,
+    "question_id": "Q_PHY_0029",
+    "scq": {
+      "question": "<h3>A physics problem on current_electricity involving ohms_law. Find the correct answer.</h3><h3>(A) Option A<br/>(B) Option B<br/>(C) Option C<br/>(D) Option D</h3>",
+      "solution": "<h3>Using principles of ohms_law, the answer is derived step by step.</h3>",
+      "answer": "D"
+    }
+  },
+  {
+    "_id": "QID_PHY_0030",
+    "questionType": "scq",
+    "subject": "Physics",
+    "topic": "magnetism",
+    "subtopic": "biot_savart",
+    "difficulty": 5,
+    "question_id": "Q_PHY_0030",
+    "scq": {
+      "question": "<h3>A physics problem on magnetism involving biot_savart. Find the correct answer.</h3><h3>(A) Option A<br/>(B) Option B<br/>(C) Option C<br/>(D) Option D</h3>",
+      "solution": "<h3>Using principles of biot_savart, the answer is derived step by step.</h3>",
+      "answer": "C"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5fca00000031ce6b0b0563640a31"
+    },
+    "questionType": "mcq",
+    "subject": "Physics",
+    "topic": "optics",
+    "subtopic": "refraction",
+    "difficulty": 5,
+    "question_id": "Q_PHY_0031",
+    "mcq": {
+      "question": "<h3>Which of the following statements about refraction are correct?</h3><h3>(A) Statement 1<br/>(B) Statement 2<br/>(C) Statement 3<br/>(D) Statement 4</h3>",
+      "solution": "<h3>Statements A and C are correct based on optics.</h3>",
+      "answer": "A,B,C"
+    }
+  },
+  {
+    "_id": "QID_PHY_0032",
+    "questionType": "scq",
+    "subject": "Physics",
+    "topic": "optics",
+    "subtopic": "wave_optics",
+    "difficulty": 3,
+    "question_id": "Q_PHY_0032",
+    "scq": {
+      "question": "<h3>A physics problem on optics involving wave_optics. Find the correct answer.</h3><h3>(A) Option A<br/>(B) Option B<br/>(C) Option C<br/>(D) Option D</h3>",
+      "solution": "<h3>Using principles of wave_optics, the answer is derived step by step.</h3>",
+      "answer": "C"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5fca00000033ce6b0b0563640a33"
+    },
+    "questionType": "mcq",
+    "subject": "Physics",
+    "topic": "waves",
+    "subtopic": "sound_waves",
+    "difficulty": 4,
+    "question_id": "Q_PHY_0033",
+    "mcq": {
+      "question": "<h3>Which of the following statements about sound_waves are correct?</h3><h3>(A) Statement 1<br/>(B) Statement 2<br/>(C) Statement 3<br/>(D) Statement 4</h3>",
+      "solution": "<h3>Statements A and C are correct based on waves.</h3>",
+      "answer": "A,C"
+    }
+  },
+  {
+    "_id": "QID_PHY_0034",
+    "questionType": "scq",
+    "subject": "Physics",
+    "topic": "modern_physics",
+    "subtopic": "photoelectric",
+    "difficulty": 3,
+    "question_id": "Q_PHY_0034",
+    "scq": {
+      "question": "<h3>A physics problem on modern_physics involving photoelectric. Find the correct answer.</h3><h3>(A) Option A<br/>(B) Option B<br/>(C) Option C<br/>(D) Option D</h3>",
+      "solution": "<h3>Using principles of photoelectric, the answer is derived step by step.</h3>",
+      "answer": "A"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5fca00000035ce6b0b0563640a35"
+    },
+    "questionType": "integerQuestion",
+    "subject": "Physics",
+    "topic": "fluid_mechanics",
+    "subtopic": "bernoulli",
+    "difficulty": 1,
+    "question_id": "Q_PHY_0035",
+    "integerQuestion": {
+      "question": "<h3>Calculate the integer value for the given bernoulli scenario. Answer is a non-negative integer.</h3>",
+      "solution": "<h3>Applying fluid_mechanics formulas gives the answer.</h3>",
+      "answer": "1"
+    }
+  },
+  {
+    "_id": "QID_PHY_0036",
+    "questionType": "scq",
+    "subject": "Physics",
+    "topic": "shm",
+    "subtopic": "pendulum",
+    "difficulty": 4,
+    "question_id": "Q_PHY_0036",
+    "scq": {
+      "question": "<h3>A physics problem on shm involving pendulum. Find the correct answer.</h3><h3>(A) Option A<br/>(B) Option B<br/>(C) Option C<br/>(D) Option D</h3>",
+      "solution": "<h3>Using principles of pendulum, the answer is derived step by step.</h3>",
+      "answer": "B"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5fca00000037ce6b0b0563640a37"
+    },
+    "questionType": "mcq",
+    "subject": "Physics",
+    "topic": "rotational_motion",
+    "subtopic": "moment_of_inertia",
+    "difficulty": 4,
+    "question_id": "Q_PHY_0037",
+    "mcq": {
+      "question": "<h3>Which of the following statements about moment_of_inertia are correct?</h3><h3>(A) Statement 1<br/>(B) Statement 2<br/>(C) Statement 3<br/>(D) Statement 4</h3>",
+      "solution": "<h3>Statements A and C are correct based on rotational_motion.</h3>",
+      "answer": "A,B"
+    }
+  },
+  {
+    "_id": "QID_PHY_0038",
+    "questionType": "scq",
+    "subject": "Physics",
+    "topic": "gravitation",
+    "subtopic": "keplers_laws",
+    "difficulty": 3,
+    "question_id": "Q_PHY_0038",
+    "scq": {
+      "question": "<h3>A physics problem on gravitation involving keplers_laws. Find the correct answer.</h3><h3>(A) Option A<br/>(B) Option B<br/>(C) Option C<br/>(D) Option D</h3>",
+      "solution": "<h3>Using principles of keplers_laws, the answer is derived step by step.</h3>",
+      "answer": "D"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5fca00000039ce6b0b0563640a39"
+    },
+    "questionType": "scq",
+    "subject": "Physics",
+    "topic": "electromagnetic_induction",
+    "subtopic": "faradays_law",
+    "difficulty": 3,
+    "question_id": "Q_PHY_0039",
+    "scq": {
+      "question": "<h3>A physics problem on electromagnetic_induction involving faradays_law. Find the correct answer.</h3><h3>(A) Option A<br/>(B) Option B<br/>(C) Option C<br/>(D) Option D</h3>",
+      "solution": "<h3>Using principles of faradays_law, the answer is derived step by step.</h3>",
+      "answer": "B"
+    }
+  },
+  {
+    "_id": "QID_PHY_0040",
+    "questionType": "scq",
+    "subject": "Physics",
+    "topic": "ac_circuits",
+    "subtopic": "impedance",
+    "difficulty": 3,
+    "question_id": "Q_PHY_0040",
+    "scq": {
+      "question": "<h3>A physics problem on ac_circuits involving impedance. Find the correct answer.</h3><h3>(A) Option A<br/>(B) Option B<br/>(C) Option C<br/>(D) Option D</h3>",
+      "solution": "<h3>Using principles of impedance, the answer is derived step by step.</h3>",
+      "answer": "D"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5fca00000041ce6b0b0563640a41"
+    },
+    "questionType": "scq",
+    "subject": "Physics",
+    "topic": "kinematics",
+    "subtopic": "projectile_motion",
+    "difficulty": 3,
+    "question_id": "Q_PHY_0041",
+    "scq": {
+      "question": "<h3>A physics problem on kinematics involving projectile_motion. Find the correct answer.</h3><h3>(A) Option A<br/>(B) Option B<br/>(C) Option C<br/>(D) Option D</h3>",
+      "solution": "<h3>Using principles of projectile_motion, the answer is derived step by step.</h3>",
+      "answer": "D"
+    }
+  },
+  {
+    "_id": "QID_PHY_0042",
+    "questionType": "scq",
+    "subject": "Physics",
+    "topic": "kinematics",
+    "subtopic": "circular_motion",
+    "difficulty": 2,
+    "question_id": "Q_PHY_0042",
+    "scq": {
+      "question": "<h3>A physics problem on kinematics involving circular_motion. Find the correct answer.</h3><h3>(A) Option A<br/>(B) Option B<br/>(C) Option C<br/>(D) Option D</h3>",
+      "solution": "<h3>Using principles of circular_motion, the answer is derived step by step.</h3>",
+      "answer": "A"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5fca00000043ce6b0b0563640a43"
+    },
+    "questionType": "scq",
+    "subject": "Physics",
+    "topic": "mechanics",
+    "subtopic": "work_energy",
+    "difficulty": 5,
+    "question_id": "Q_PHY_0043",
+    "scq": {
+      "question": "<h3>A physics problem on mechanics involving work_energy. Find the correct answer.</h3><h3>(A) Option A<br/>(B) Option B<br/>(C) Option C<br/>(D) Option D</h3>",
+      "solution": "<h3>Using principles of work_energy, the answer is derived step by step.</h3>",
+      "answer": "C"
+    }
+  },
+  {
+    "_id": "QID_PHY_0044",
+    "questionType": "scq",
+    "subject": "Physics",
+    "topic": "mechanics",
+    "subtopic": "friction",
+    "difficulty": 4,
+    "question_id": "Q_PHY_0044",
+    "scq": {
+      "question": "<h3>A physics problem on mechanics involving friction. Find the correct answer.</h3><h3>(A) Option A<br/>(B) Option B<br/>(C) Option C<br/>(D) Option D</h3>",
+      "solution": "<h3>Using principles of friction, the answer is derived step by step.</h3>",
+      "answer": null
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5fca00000045ce6b0b0563640a45"
+    },
+    "questionType": "scq",
+    "subject": "Physics",
+    "topic": "thermodynamics",
+    "subtopic": "heat_transfer",
+    "difficulty": 2,
+    "question_id": "Q_PHY_0045",
+    "scq": {
+      "question": "<h3>A physics problem on thermodynamics involving heat_transfer. Find the correct answer.</h3><h3>(A) Option A<br/>(B) Option B<br/>(C) Option C<br/>(D) Option D</h3>",
+      "solution": "<h3>Using principles of heat_transfer, the answer is derived step by step.</h3>",
+      "answer": "C"
+    }
+  },
+  {
+    "_id": "QID_PHY_0046",
+    "questionType": "scq",
+    "subject": "Physics",
+    "topic": "thermodynamics",
+    "subtopic": "carnot_cycle",
+    "difficulty": 4,
+    "question_id": "Q_PHY_0046",
+    "scq": {
+      "question": "<h3>A physics problem on thermodynamics involving carnot_cycle. Find the correct answer.</h3><h3>(A) Option A<br/>(B) Option B<br/>(C) Option C<br/>(D) Option D</h3>",
+      "solution": "<h3>Using principles of carnot_cycle, the answer is derived step by step.</h3>",
+      "answer": "B"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5fca00000047ce6b0b0563640a47"
+    },
+    "questionType": "scq",
+    "subject": "Physics",
+    "topic": "electrostatics",
+    "subtopic": "coulombs_law",
+    "difficulty": 2,
+    "question_id": "Q_PHY_0047",
+    "scq": {
+      "question": "<h3>A physics problem on electrostatics involving coulombs_law. Find the correct answer.</h3><h3>(A) Option A<br/>(B) Option B<br/>(C) Option C<br/>(D) Option D</h3>",
+      "solution": "<h3>Using principles of coulombs_law, the answer is derived step by step.</h3>",
+      "answer": "A"
+    }
+  },
+  {
+    "_id": "QID_PHY_0048",
+    "questionType": "scq",
+    "subject": "Physics",
+    "topic": "electrostatics",
+    "subtopic": "capacitors",
+    "difficulty": 4,
+    "question_id": "Q_PHY_0048",
+    "scq": {
+      "question": "<h3>A physics problem on electrostatics involving capacitors. Find the correct answer.</h3><h3>(A) Option A<br/>(B) Option B<br/>(C) Option C<br/>(D) Option D</h3>",
+      "solution": "<h3>Using principles of capacitors, the answer is derived step by step.</h3>",
+      "answer": "C"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5fca00000049ce6b0b0563640a49"
+    },
+    "questionType": "scq",
+    "subject": "Physics",
+    "topic": "current_electricity",
+    "subtopic": "ohms_law",
+    "difficulty": 4,
+    "question_id": "Q_PHY_0049",
+    "scq": {
+      "question": "<h3>A physics problem on current_electricity involving ohms_law. Find the correct answer.</h3><h3>(A) Option A<br/>(B) Option B<br/>(C) Option C<br/>(D) Option D</h3>",
+      "solution": "<h3>Using principles of ohms_law, the answer is derived step by step.</h3>",
+      "answer": "D"
+    }
+  },
+  {
+    "_id": "QID_PHY_0050",
+    "questionType": "scq",
+    "subject": "Physics",
+    "topic": "magnetism",
+    "subtopic": "biot_savart",
+    "difficulty": 2,
+    "question_id": "Q_PHY_0050",
+    "scq": {
+      "question": "<h3>A physics problem on magnetism involving biot_savart. Find the correct answer.</h3><h3>(A) Option A<br/>(B) Option B<br/>(C) Option C<br/>(D) Option D</h3>",
+      "solution": "<h3>Using principles of biot_savart, the answer is derived step by step.</h3>",
+      "answer": "C"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5fca00000051ce6b0b0563640a51"
+    },
+    "questionType": "mcq",
+    "subject": "Chemistry",
+    "topic": "mole_concept",
+    "subtopic": "stoichiometry",
+    "difficulty": 1,
+    "question_id": "Q_CHE_0051",
+    "mcq": {
+      "question": "<h3>Which of the following statements about stoichiometry are correct?</h3><h3>(A) Statement 1<br/>(B) Statement 2<br/>(C) Statement 3<br/>(D) Statement 4</h3>",
+      "solution": "<h3>Statements A and C are correct based on mole_concept.</h3>",
+      "answer": "A,C"
+    }
+  },
+  {
+    "_id": "QID_CHE_0052",
+    "questionType": "scq",
+    "subject": "Chemistry",
+    "topic": "atomic_structure",
+    "subtopic": "quantum_numbers",
+    "difficulty": 4,
+    "question_id": "Q_CHE_0052",
+    "scq": {
+      "question": "<h3>A chemistry problem on atomic_structure involving quantum_numbers. Find the correct answer.</h3><h3>(A) Option A<br/>(B) Option B<br/>(C) Option C<br/>(D) Option D</h3>",
+      "solution": "<h3>Using principles of quantum_numbers, the answer is derived step by step.</h3>",
+      "answer": "B"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5fca00000053ce6b0b0563640a53"
+    },
+    "questionType": "scq",
+    "subject": "Chemistry",
+    "topic": "chemical_bonding",
+    "subtopic": "hybridization",
+    "difficulty": 1,
+    "question_id": "Q_CHE_0053",
+    "scq": {
+      "question": "<h3>A chemistry problem on chemical_bonding involving hybridization. Find the correct answer.</h3><h3>(A) Option A<br/>(B) Option B<br/>(C) Option C<br/>(D) Option D</h3>",
+      "solution": "<h3>Using principles of hybridization, the answer is derived step by step.</h3>",
+      "answer": "A"
+    }
+  },
+  {
+    "_id": "QID_CHE_0054",
+    "questionType": "scq",
+    "subject": "Chemistry",
+    "topic": "thermodynamics",
+    "subtopic": "hess_law",
+    "difficulty": 1,
+    "question_id": "Q_CHE_0054",
+    "scq": {
+      "question": "<h3>A chemistry problem on thermodynamics involving hess_law. Find the correct answer.</h3><h3>(A) Option A<br/>(B) Option B<br/>(C) Option C<br/>(D) Option D</h3>",
+      "solution": "<h3>Using principles of hess_law, the answer is derived step by step.</h3>",
+      "answer": "C"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5fca00000055ce6b0b0563640a55"
+    },
+    "questionType": "mcq",
+    "subject": "Chemistry",
+    "topic": "equilibrium",
+    "subtopic": "le_chatelier",
+    "difficulty": 1,
+    "question_id": "Q_CHE_0055",
+    "mcq": {
+      "question": "<h3>Which of the following statements about le_chatelier are correct?</h3><h3>(A) Statement 1<br/>(B) Statement 2<br/>(C) Statement 3<br/>(D) Statement 4</h3>",
+      "solution": "<h3>Statements A and C are correct based on equilibrium.</h3>",
+      "answer": "A,B,C"
+    }
+  },
+  {
+    "_id": "QID_CHE_0056",
+    "questionType": "scq",
+    "subject": "Chemistry",
+    "topic": "electrochemistry",
+    "subtopic": "nernst_equation",
+    "difficulty": 4,
+    "question_id": "Q_CHE_0056",
+    "scq": {
+      "question": "<h3>A chemistry problem on electrochemistry involving nernst_equation. Find the correct answer.</h3><h3>(A) Option A<br/>(B) Option B<br/>(C) Option C<br/>(D) Option D</h3>",
+      "solution": "<h3>Using principles of nernst_equation, the answer is derived step by step.</h3>",
+      "answer": "B"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5fca00000057ce6b0b0563640a57"
+    },
+    "questionType": "scq",
+    "subject": "Chemistry",
+    "topic": "organic_chemistry",
+    "subtopic": "hydrocarbons",
+    "difficulty": 3,
+    "question_id": "Q_CHE_0057",
+    "scq": {
+      "question": "<h3>A chemistry problem on organic_chemistry involving hydrocarbons. Find the correct answer.</h3><h3>(A) Option A<br/>(B) Option B<br/>(C) Option C<br/>(D) Option D</h3>",
+      "solution": "<h3>Using principles of hydrocarbons, the answer is derived step by step.</h3>",
+      "answer": "B"
+    }
+  },
+  {
+    "_id": "QID_CHE_0058",
+    "questionType": "scq",
+    "subject": "Chemistry",
+    "topic": "organic_chemistry",
+    "subtopic": "isomerism",
+    "difficulty": 3,
+    "question_id": "Q_CHE_0058",
+    "scq": {
+      "question": "<h3>A chemistry problem on organic_chemistry involving isomerism. Find the correct answer.</h3><h3>(A) Option A<br/>(B) Option B<br/>(C) Option C<br/>(D) Option D</h3>",
+      "solution": "<h3>Using principles of isomerism, the answer is derived step by step.</h3>",
+      "answer": "A"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5fca00000059ce6b0b0563640a59"
+    },
+    "questionType": "mcq",
+    "subject": "Chemistry",
+    "topic": "coordination_chemistry",
+    "subtopic": "werner_theory",
+    "difficulty": 3,
+    "question_id": "Q_CHE_0059",
+    "mcq": {
+      "question": "<h3>Which of the following statements about werner_theory are correct?</h3><h3>(A) Statement 1<br/>(B) Statement 2<br/>(C) Statement 3<br/>(D) Statement 4</h3>",
+      "solution": "<h3>Statements A and C are correct based on coordination_chemistry.</h3>",
+      "answer": "A,B,C"
+    }
+  },
+  {
+    "_id": "QID_CHE_0060",
+    "questionType": "integerQuestion",
+    "subject": "Chemistry",
+    "topic": "periodic_table",
+    "subtopic": "trends",
+    "difficulty": 4,
+    "question_id": "Q_CHE_0060",
+    "integerQuestion": {
+      "question": "<h3>Calculate the integer value for the given trends scenario. Answer is a non-negative integer.</h3>",
+      "solution": "<h3>Applying periodic_table formulas gives the answer.</h3>",
+      "answer": "7"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5fca00000061ce6b0b0563640a61"
+    },
+    "questionType": "scq",
+    "subject": "Chemistry",
+    "topic": "solid_state",
+    "subtopic": "crystal_structure",
+    "difficulty": 1,
+    "question_id": "Q_CHE_0061",
+    "scq": {
+      "question": "<h3>A chemistry problem on solid_state involving crystal_structure. Find the correct answer.</h3><h3>(A) Option A<br/>(B) Option B<br/>(C) Option C<br/>(D) Option D</h3>",
+      "solution": "<h3>Using principles of crystal_structure, the answer is derived step by step.</h3>",
+      "answer": "C"
+    }
+  },
+  {
+    "_id": "QID_CHE_0062",
+    "questionType": "scq",
+    "subject": "Chemistry",
+    "topic": "solutions",
+    "subtopic": "raoults_law",
+    "difficulty": 1,
+    "question_id": "Q_CHE_0062",
+    "scq": {
+      "question": "<h3>A chemistry problem on solutions involving raoults_law. Find the correct answer.</h3><h3>(A) Option A<br/>(B) Option B<br/>(C) Option C<br/>(D) Option D</h3>",
+      "solution": "<h3>Using principles of raoults_law, the answer is derived step by step.</h3>",
+      "answer": null
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5fca00000063ce6b0b0563640a63"
+    },
+    "questionType": "scq",
+    "subject": "Chemistry",
+    "topic": "kinetics",
+    "subtopic": "rate_law",
+    "difficulty": 4,
+    "question_id": "Q_CHE_0063",
+    "scq": {
+      "question": "<h3>A chemistry problem on kinetics involving rate_law. Find the correct answer.</h3><h3>(A) Option A<br/>(B) Option B<br/>(C) Option C<br/>(D) Option D</h3>",
+      "solution": "<h3>Using principles of rate_law, the answer is derived step by step.</h3>",
+      "answer": "C"
+    }
+  },
+  {
+    "_id": "QID_CHE_0064",
+    "questionType": "scq",
+    "subject": "Chemistry",
+    "topic": "surface_chemistry",
+    "subtopic": "adsorption",
+    "difficulty": 4,
+    "question_id": "Q_CHE_0064",
+    "scq": {
+      "question": "<h3>A chemistry problem on surface_chemistry involving adsorption. Find the correct answer.</h3><h3>(A) Option A<br/>(B) Option B<br/>(C) Option C<br/>(D) Option D</h3>",
+      "solution": "<h3>Using principles of adsorption, the answer is derived step by step.</h3>",
+      "answer": "B"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5fca00000065ce6b0b0563640a65"
+    },
+    "questionType": "mcq",
+    "subject": "Chemistry",
+    "topic": "p_block",
+    "subtopic": "group17",
+    "difficulty": 5,
+    "question_id": "Q_CHE_0065",
+    "mcq": {
+      "question": "<h3>Which of the following statements about group17 are correct?</h3><h3>(A) Statement 1<br/>(B) Statement 2<br/>(C) Statement 3<br/>(D) Statement 4</h3>",
+      "solution": "<h3>Statements A and C are correct based on p_block.</h3>",
+      "answer": "A,C"
+    }
+  },
+  {
+    "_id": "QID_CHE_0066",
+    "questionType": "scq",
+    "subject": "Chemistry",
+    "topic": "d_block",
+    "subtopic": "transition_metals",
+    "difficulty": 2,
+    "question_id": "Q_CHE_0066",
+    "scq": {
+      "question": "<h3>A chemistry problem on d_block involving transition_metals. Find the correct answer.</h3><h3>(A) Option A<br/>(B) Option B<br/>(C) Option C<br/>(D) Option D</h3>",
+      "solution": "<h3>Using principles of transition_metals, the answer is derived step by step.</h3>",
+      "answer": "B"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5fca00000067ce6b0b0563640a67"
+    },
+    "questionType": "scq",
+    "subject": "Chemistry",
+    "topic": "biomolecules",
+    "subtopic": "carbohydrates",
+    "difficulty": 5,
+    "question_id": "Q_CHE_0067",
+    "scq": {
+      "question": "<h3>A chemistry problem on biomolecules involving carbohydrates. Find the correct answer.</h3><h3>(A) Option A<br/>(B) Option B<br/>(C) Option C<br/>(D) Option D</h3>",
+      "solution": "<h3>Using principles of carbohydrates, the answer is derived step by step.</h3>",
+      "answer": "D"
+    }
+  },
+  {
+    "_id": "QID_CHE_0068",
+    "questionType": "scq",
+    "subject": "Chemistry",
+    "topic": "polymers",
+    "subtopic": "addition",
+    "difficulty": 4,
+    "question_id": "Q_CHE_0068",
+    "scq": {
+      "question": "<h3>A chemistry problem on polymers involving addition. Find the correct answer.</h3><h3>(A) Option A<br/>(B) Option B<br/>(C) Option C<br/>(D) Option D</h3>",
+      "solution": "<h3>Using principles of addition, the answer is derived step by step.</h3>",
+      "answer": "A"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5fca00000069ce6b0b0563640a69"
+    },
+    "questionType": "scq",
+    "subject": "Chemistry",
+    "topic": "redox",
+    "subtopic": "balancing",
+    "difficulty": 5,
+    "question_id": "Q_CHE_0069",
+    "scq": {
+      "question": "<h3>A chemistry problem on redox involving balancing. Find the correct answer.</h3><h3>(A) Option A<br/>(B) Option B<br/>(C) Option C<br/>(D) Option D</h3>",
+      "solution": "<h3>Using principles of balancing, the answer is derived step by step.</h3>",
+      "answer": "C"
+    }
+  },
+  {
+    "_id": "QID_CHE_0070",
+    "questionType": "scq",
+    "subject": "Chemistry",
+    "topic": "gaseous_state",
+    "subtopic": "ideal_gas",
+    "difficulty": 2,
+    "question_id": "Q_CHE_0070",
+    "scq": {
+      "question": "<h3>A chemistry problem on gaseous_state involving ideal_gas. Find the correct answer.</h3><h3>(A) Option A<br/>(B) Option B<br/>(C) Option C<br/>(D) Option D</h3>",
+      "solution": "<h3>Using principles of ideal_gas, the answer is derived step by step.</h3>",
+      "answer": "B"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5fca00000071ce6b0b0563640a71"
+    },
+    "questionType": "scq",
+    "subject": "Chemistry",
+    "topic": "mole_concept",
+    "subtopic": "stoichiometry",
+    "difficulty": 1,
+    "question_id": "Q_CHE_0071",
+    "scq": {
+      "question": "<h3>A chemistry problem on mole_concept involving stoichiometry. Find the correct answer.</h3><h3>(A) Option A<br/>(B) Option B<br/>(C) Option C<br/>(D) Option D</h3>",
+      "solution": "<h3>Using principles of stoichiometry, the answer is derived step by step.</h3>",
+      "answer": "A"
+    }
+  },
+  {
+    "_id": "QID_CHE_0072",
+    "questionType": "scq",
+    "subject": "Chemistry",
+    "topic": "atomic_structure",
+    "subtopic": "quantum_numbers",
+    "difficulty": 3,
+    "question_id": "Q_CHE_0072",
+    "scq": {
+      "question": "<h3>A chemistry problem on atomic_structure involving quantum_numbers. Find the correct answer.</h3><h3>(A) Option A<br/>(B) Option B<br/>(C) Option C<br/>(D) Option D</h3>",
+      "solution": "<h3>Using principles of quantum_numbers, the answer is derived step by step.</h3>",
+      "answer": "A"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5fca00000073ce6b0b0563640a73"
+    },
+    "questionType": "scq",
+    "subject": "Chemistry",
+    "topic": "chemical_bonding",
+    "subtopic": "hybridization",
+    "difficulty": 1,
+    "question_id": "Q_CHE_0073",
+    "scq": {
+      "question": "<h3>A chemistry problem on chemical_bonding involving hybridization. Find the correct answer.</h3><h3>(A) Option A<br/>(B) Option B<br/>(C) Option C<br/>(D) Option D</h3>",
+      "solution": "<h3>Using principles of hybridization, the answer is derived step by step.</h3>",
+      "answer": "D"
+    }
+  },
+  {
+    "_id": "QID_CHE_0074",
+    "questionType": "mcq",
+    "subject": "Chemistry",
+    "topic": "thermodynamics",
+    "subtopic": "hess_law",
+    "difficulty": 1,
+    "question_id": "Q_CHE_0074",
+    "mcq": {
+      "question": "<h3>Which of the following statements about hess_law are correct?</h3><h3>(A) Statement 1<br/>(B) Statement 2<br/>(C) Statement 3<br/>(D) Statement 4</h3>",
+      "solution": "<h3>Statements A and C are correct based on thermodynamics.</h3>",
+      "answer": "B,D"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5fca00000075ce6b0b0563640a75"
+    },
+    "questionType": "scq",
+    "subject": "Chemistry",
+    "topic": "equilibrium",
+    "subtopic": "le_chatelier",
+    "difficulty": 2,
+    "question_id": "Q_CHE_0075",
+    "scq": {
+      "question": "<h3>A chemistry problem on equilibrium involving le_chatelier. Find the correct answer.</h3><h3>(A) Option A<br/>(B) Option B<br/>(C) Option C<br/>(D) Option D</h3>",
+      "solution": "<h3>Using principles of le_chatelier, the answer is derived step by step.</h3>",
+      "answer": "C"
+    }
+  },
+  {
+    "_id": "QID_CHE_0076",
+    "questionType": "scq",
+    "subject": "Chemistry",
+    "topic": "electrochemistry",
+    "subtopic": "nernst_equation",
+    "difficulty": 1,
+    "question_id": "Q_CHE_0076",
+    "scq": {
+      "question": "<h3>A chemistry problem on electrochemistry involving nernst_equation. Find the correct answer.</h3><h3>(A) Option A<br/>(B) Option B<br/>(C) Option C<br/>(D) Option D</h3>",
+      "solution": "<h3>Using principles of nernst_equation, the answer is derived step by step.</h3>",
+      "answer": "D"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5fca00000077ce6b0b0563640a77"
+    },
+    "questionType": "scq",
+    "subject": "Chemistry",
+    "topic": "organic_chemistry",
+    "subtopic": "hydrocarbons",
+    "difficulty": 1,
+    "question_id": "Q_CHE_0077",
+    "scq": {
+      "question": "<h3>A chemistry problem on organic_chemistry involving hydrocarbons. Find the correct answer.</h3><h3>(A) Option A<br/>(B) Option B<br/>(C) Option C<br/>(D) Option D</h3>",
+      "solution": "<h3>Using principles of hydrocarbons, the answer is derived step by step.</h3>",
+      "answer": "C"
+    }
+  },
+  {
+    "_id": "QID_CHE_0078",
+    "questionType": "scq",
+    "subject": "Chemistry",
+    "topic": "organic_chemistry",
+    "subtopic": "isomerism",
+    "difficulty": 3,
+    "question_id": "Q_CHE_0078",
+    "scq": {
+      "question": "<h3>A chemistry problem on organic_chemistry involving isomerism. Find the correct answer.</h3><h3>(A) Option A<br/>(B) Option B<br/>(C) Option C<br/>(D) Option D</h3>",
+      "solution": "<h3>Using principles of isomerism, the answer is derived step by step.</h3>",
+      "answer": "A"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5fca00000079ce6b0b0563640a79"
+    },
+    "questionType": "scq",
+    "subject": "Chemistry",
+    "topic": "coordination_chemistry",
+    "subtopic": "werner_theory",
+    "difficulty": 1,
+    "question_id": "Q_CHE_0079",
+    "scq": {
+      "question": "<h3>A chemistry problem on coordination_chemistry involving werner_theory. Find the correct answer.</h3><h3>(A) Option A<br/>(B) Option B<br/>(C) Option C<br/>(D) Option D</h3>",
+      "solution": "<h3>Using principles of werner_theory, the answer is derived step by step.</h3>",
+      "answer": "C"
+    }
+  },
+  {
+    "_id": "QID_CHE_0080",
+    "questionType": "scq",
+    "subject": "Chemistry",
+    "topic": "periodic_table",
+    "subtopic": "trends",
+    "difficulty": 4,
+    "question_id": "Q_CHE_0080",
+    "scq": {
+      "question": "<h3>A chemistry problem on periodic_table involving trends. Find the correct answer.</h3><h3>(A) Option A<br/>(B) Option B<br/>(C) Option C<br/>(D) Option D</h3>",
+      "solution": "<h3>Using principles of trends, the answer is derived step by step.</h3>",
+      "answer": "C"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5fca00000081ce6b0b0563640a81"
+    },
+    "questionType": "scq",
+    "subject": "Chemistry",
+    "topic": "solid_state",
+    "subtopic": "crystal_structure",
+    "difficulty": 5,
+    "question_id": "Q_CHE_0081",
+    "scq": {
+      "question": "<h3>A chemistry problem on solid_state involving crystal_structure. Find the correct answer.</h3><h3>(A) Option A<br/>(B) Option B<br/>(C) Option C<br/>(D) Option D</h3>",
+      "solution": "<h3>Using principles of crystal_structure, the answer is derived step by step.</h3>",
+      "answer": "B"
+    }
+  },
+  {
+    "_id": "QID_CHE_0082",
+    "questionType": "scq",
+    "subject": "Chemistry",
+    "topic": "solutions",
+    "subtopic": "raoults_law",
+    "difficulty": 5,
+    "question_id": "Q_CHE_0082",
+    "scq": {
+      "question": "<h3>A chemistry problem on solutions involving raoults_law. Find the correct answer.</h3><h3>(A) Option A<br/>(B) Option B<br/>(C) Option C<br/>(D) Option D</h3>",
+      "solution": "<h3>Using principles of raoults_law, the answer is derived step by step.</h3>",
+      "answer": "C"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5fca00000083ce6b0b0563640a83"
+    },
+    "questionType": "scq",
+    "subject": "Chemistry",
+    "topic": "kinetics",
+    "subtopic": "rate_law",
+    "difficulty": 4,
+    "question_id": "Q_CHE_0083",
+    "scq": {
+      "question": "<h3>A chemistry problem on kinetics involving rate_law. Find the correct answer.</h3><h3>(A) Option A<br/>(B) Option B<br/>(C) Option C<br/>(D) Option D</h3>",
+      "solution": "<h3>Using principles of rate_law, the answer is derived step by step.</h3>",
+      "answer": "D"
+    }
+  },
+  {
+    "_id": "QID_CHE_0084",
+    "questionType": "scq",
+    "subject": "Chemistry",
+    "topic": "surface_chemistry",
+    "subtopic": "adsorption",
+    "difficulty": 1,
+    "question_id": "Q_CHE_0084",
+    "scq": {
+      "question": "<h3>A chemistry problem on surface_chemistry involving adsorption. Find the correct answer.</h3><h3>(A) Option A<br/>(B) Option B<br/>(C) Option C<br/>(D) Option D</h3>",
+      "solution": "<h3>Using principles of adsorption, the answer is derived step by step.</h3>",
+      "answer": "C"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5fca00000085ce6b0b0563640a85"
+    },
+    "questionType": "scq",
+    "subject": "Chemistry",
+    "topic": "p_block",
+    "subtopic": "group17",
+    "difficulty": 4,
+    "question_id": "Q_CHE_0085",
+    "scq": {
+      "question": "<h3>A chemistry problem on p_block involving group17. Find the correct answer.</h3><h3>(A) Option A<br/>(B) Option B<br/>(C) Option C<br/>(D) Option D</h3>",
+      "solution": "<h3>Using principles of group17, the answer is derived step by step.</h3>",
+      "answer": "B"
+    }
+  },
+  {
+    "_id": "QID_CHE_0086",
+    "questionType": "mcq",
+    "subject": "Chemistry",
+    "topic": "d_block",
+    "subtopic": "transition_metals",
+    "difficulty": 2,
+    "question_id": "Q_CHE_0086",
+    "mcq": {
+      "question": "<h3>Which of the following statements about transition_metals are correct?</h3><h3>(A) Statement 1<br/>(B) Statement 2<br/>(C) Statement 3<br/>(D) Statement 4</h3>",
+      "solution": "<h3>Statements A and C are correct based on d_block.</h3>",
+      "answer": "B,D"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5fca00000087ce6b0b0563640a87"
+    },
+    "questionType": "scq",
+    "subject": "Chemistry",
+    "topic": "biomolecules",
+    "subtopic": "carbohydrates",
+    "difficulty": 3,
+    "question_id": "Q_CHE_0087",
+    "scq": {
+      "question": "<h3>A chemistry problem on biomolecules involving carbohydrates. Find the correct answer.</h3><h3>(A) Option A<br/>(B) Option B<br/>(C) Option C<br/>(D) Option D</h3>",
+      "solution": "<h3>Using principles of carbohydrates, the answer is derived step by step.</h3>",
+      "answer": "A"
+    }
+  },
+  {
+    "_id": "QID_CHE_0088",
+    "questionType": "scq",
+    "subject": "Chemistry",
+    "topic": "polymers",
+    "subtopic": "addition",
+    "difficulty": 1,
+    "question_id": "Q_CHE_0088",
+    "scq": {
+      "question": "<h3>A chemistry problem on polymers involving addition. Find the correct answer.</h3><h3>(A) Option A<br/>(B) Option B<br/>(C) Option C<br/>(D) Option D</h3>",
+      "solution": "<h3>Using principles of addition, the answer is derived step by step.</h3>",
+      "answer": "D"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5fca00000089ce6b0b0563640a89"
+    },
+    "questionType": "scq",
+    "subject": "Chemistry",
+    "topic": "redox",
+    "subtopic": "balancing",
+    "difficulty": 5,
+    "question_id": "Q_CHE_0089",
+    "scq": {
+      "question": "<h3>A chemistry problem on redox involving balancing. Find the correct answer.</h3><h3>(A) Option A<br/>(B) Option B<br/>(C) Option C<br/>(D) Option D</h3>",
+      "solution": "<h3>Using principles of balancing, the answer is derived step by step.</h3>",
+      "answer": "A"
+    }
+  },
+  {
+    "_id": "QID_CHE_0090",
+    "questionType": "scq",
+    "subject": "Chemistry",
+    "topic": "gaseous_state",
+    "subtopic": "ideal_gas",
+    "difficulty": 1,
+    "question_id": "Q_CHE_0090",
+    "scq": {
+      "question": "<h3>A chemistry problem on gaseous_state involving ideal_gas. Find the correct answer.</h3><h3>(A) Option A<br/>(B) Option B<br/>(C) Option C<br/>(D) Option D</h3>",
+      "solution": "<h3>Using principles of ideal_gas, the answer is derived step by step.</h3>",
+      "answer": "C"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5fca00000091ce6b0b0563640a91"
+    },
+    "questionType": "mcq",
+    "subject": "Chemistry",
+    "topic": "mole_concept",
+    "subtopic": "stoichiometry",
+    "difficulty": 1,
+    "question_id": "Q_CHE_0091",
+    "mcq": {
+      "question": "<h3>Which of the following statements about stoichiometry are correct?</h3><h3>(A) Statement 1<br/>(B) Statement 2<br/>(C) Statement 3<br/>(D) Statement 4</h3>",
+      "solution": "<h3>Statements A and C are correct based on mole_concept.</h3>",
+      "answer": "A,B,C"
+    }
+  },
+  {
+    "_id": "QID_CHE_0092",
+    "questionType": "scq",
+    "subject": "Chemistry",
+    "topic": "atomic_structure",
+    "subtopic": "quantum_numbers",
+    "difficulty": 2,
+    "question_id": "Q_CHE_0092",
+    "scq": {
+      "question": "<h3>A chemistry problem on atomic_structure involving quantum_numbers. Find the correct answer.</h3><h3>(A) Option A<br/>(B) Option B<br/>(C) Option C<br/>(D) Option D</h3>",
+      "solution": "<h3>Using principles of quantum_numbers, the answer is derived step by step.</h3>",
+      "answer": "A"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5fca00000093ce6b0b0563640a93"
+    },
+    "questionType": "mcq",
+    "subject": "Chemistry",
+    "topic": "chemical_bonding",
+    "subtopic": "hybridization",
+    "difficulty": 2,
+    "question_id": "Q_CHE_0093",
+    "mcq": {
+      "question": "<h3>Which of the following statements about hybridization are correct?</h3><h3>(A) Statement 1<br/>(B) Statement 2<br/>(C) Statement 3<br/>(D) Statement 4</h3>",
+      "solution": "<h3>Statements A and C are correct based on chemical_bonding.</h3>",
+      "answer": "A,B,C"
+    }
+  },
+  {
+    "_id": "QID_CHE_0094",
+    "questionType": "mcq",
+    "subject": "Chemistry",
+    "topic": "thermodynamics",
+    "subtopic": "hess_law",
+    "difficulty": 3,
+    "question_id": "Q_CHE_0094",
+    "mcq": {
+      "question": "<h3>Which of the following statements about hess_law are correct?</h3><h3>(A) Statement 1<br/>(B) Statement 2<br/>(C) Statement 3<br/>(D) Statement 4</h3>",
+      "solution": "<h3>Statements A and C are correct based on thermodynamics.</h3>",
+      "answer": "A,B,C"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5fca00000095ce6b0b0563640a95"
+    },
+    "questionType": "integerQuestion",
+    "subject": "Chemistry",
+    "topic": "equilibrium",
+    "subtopic": "le_chatelier",
+    "difficulty": 3,
+    "question_id": "Q_CHE_0095",
+    "integerQuestion": {
+      "question": "<h3>Calculate the integer value for the given le_chatelier scenario. Answer is a non-negative integer.</h3>",
+      "solution": "<h3>Applying equilibrium formulas gives the answer.</h3>",
+      "answer": "2"
+    }
+  },
+  {
+    "_id": "QID_CHE_0096",
+    "questionType": "mcq",
+    "subject": "Chemistry",
+    "topic": "electrochemistry",
+    "subtopic": "nernst_equation",
+    "difficulty": 5,
+    "question_id": "Q_CHE_0096",
+    "mcq": {
+      "question": "<h3>Which of the following statements about nernst_equation are correct?</h3><h3>(A) Statement 1<br/>(B) Statement 2<br/>(C) Statement 3<br/>(D) Statement 4</h3>",
+      "solution": "<h3>Statements A and C are correct based on electrochemistry.</h3>",
+      "answer": "B,D"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5fca00000097ce6b0b0563640a97"
+    },
+    "questionType": "scq",
+    "subject": "Chemistry",
+    "topic": "organic_chemistry",
+    "subtopic": "hydrocarbons",
+    "difficulty": 3,
+    "question_id": "Q_CHE_0097",
+    "scq": {
+      "question": "<h3>A chemistry problem on organic_chemistry involving hydrocarbons. Find the correct answer.</h3><h3>(A) Option A<br/>(B) Option B<br/>(C) Option C<br/>(D) Option D</h3>",
+      "solution": "<h3>Using principles of hydrocarbons, the answer is derived step by step.</h3>",
+      "answer": "B"
+    }
+  },
+  {
+    "_id": "QID_CHE_0098",
+    "questionType": "integerQuestion",
+    "subject": "Chemistry",
+    "topic": "organic_chemistry",
+    "subtopic": "isomerism",
+    "difficulty": 1,
+    "question_id": "Q_CHE_0098",
+    "integerQuestion": {
+      "question": "<h3>Calculate the integer value for the given isomerism scenario. Answer is a non-negative integer.</h3>",
+      "solution": "<h3>Applying organic_chemistry formulas gives the answer.</h3>",
+      "answer": "5"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5fca00000099ce6b0b0563640a99"
+    },
+    "questionType": "mcq",
+    "subject": "Chemistry",
+    "topic": "coordination_chemistry",
+    "subtopic": "werner_theory",
+    "difficulty": 3,
+    "question_id": "Q_CHE_0099",
+    "mcq": {
+      "question": "<h3>Which of the following statements about werner_theory are correct?</h3><h3>(A) Statement 1<br/>(B) Statement 2<br/>(C) Statement 3<br/>(D) Statement 4</h3>",
+      "solution": "<h3>Statements A and C are correct based on coordination_chemistry.</h3>",
+      "answer": "B,D"
+    }
+  },
+  {
+    "_id": "QID_CHE_0100",
+    "questionType": "scq",
+    "subject": "Chemistry",
+    "topic": "periodic_table",
+    "subtopic": "trends",
+    "difficulty": 2,
+    "question_id": "Q_CHE_0100",
+    "scq": {
+      "question": "<h3>A chemistry problem on periodic_table involving trends. Find the correct answer.</h3><h3>(A) Option A<br/>(B) Option B<br/>(C) Option C<br/>(D) Option D</h3>",
+      "solution": "<h3>Using principles of trends, the answer is derived step by step.</h3>",
+      "answer": "A"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5fca00000101ce6b0b0563640a101"
+    },
+    "questionType": "integerQuestion",
+    "subject": "Mathematics",
+    "topic": "calculus",
+    "subtopic": "limits",
+    "difficulty": 5,
+    "question_id": "Q_MAT_0101",
+    "integerQuestion": {
+      "question": "<h3>Calculate the integer value for the given limits scenario. Answer is a non-negative integer.</h3>",
+      "solution": "<h3>Applying calculus formulas gives the answer.</h3>",
+      "answer": "7"
+    }
+  },
+  {
+    "_id": "QID_MAT_0102",
+    "questionType": "scq",
+    "subject": "Mathematics",
+    "topic": "calculus",
+    "subtopic": "derivatives",
+    "difficulty": 4,
+    "question_id": "Q_MAT_0102",
+    "scq": {
+      "question": "<h3>A mathematics problem on calculus involving derivatives. Find the correct answer.</h3><h3>(A) Option A<br/>(B) Option B<br/>(C) Option C<br/>(D) Option D</h3>",
+      "solution": "<h3>Using principles of derivatives, the answer is derived step by step.</h3>",
+      "answer": "D"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5fca00000103ce6b0b0563640a103"
+    },
+    "questionType": "scq",
+    "subject": "Mathematics",
+    "topic": "integration",
+    "subtopic": "definite_integrals",
+    "difficulty": 3,
+    "question_id": "Q_MAT_0103",
+    "scq": {
+      "question": "<h3>A mathematics problem on integration involving definite_integrals. Find the correct answer.</h3><h3>(A) Option A<br/>(B) Option B<br/>(C) Option C<br/>(D) Option D</h3>",
+      "solution": "<h3>Using principles of definite_integrals, the answer is derived step by step.</h3>",
+      "answer": "D"
+    }
+  },
+  {
+    "_id": "QID_MAT_0104",
+    "questionType": "scq",
+    "subject": "Mathematics",
+    "topic": "differential_equations",
+    "subtopic": "first_order",
+    "difficulty": 1,
+    "question_id": "Q_MAT_0104",
+    "scq": {
+      "question": "<h3>A mathematics problem on differential_equations involving first_order. Find the correct answer.</h3><h3>(A) Option A<br/>(B) Option B<br/>(C) Option C<br/>(D) Option D</h3>",
+      "solution": "<h3>Using principles of first_order, the answer is derived step by step.</h3>",
+      "answer": "D"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5fca00000105ce6b0b0563640a105"
+    },
+    "questionType": "scq",
+    "subject": "Mathematics",
+    "topic": "trigonometry",
+    "subtopic": "identities",
+    "difficulty": 5,
+    "question_id": "Q_MAT_0105",
+    "scq": {
+      "question": "<h3>A mathematics problem on trigonometry involving identities. Find the correct answer.</h3><h3>(A) Option A<br/>(B) Option B<br/>(C) Option C<br/>(D) Option D</h3>",
+      "solution": "<h3>Using principles of identities, the answer is derived step by step.</h3>",
+      "answer": "C"
+    }
+  },
+  {
+    "_id": "QID_MAT_0106",
+    "questionType": "mcq",
+    "subject": "Mathematics",
+    "topic": "inverse_trigonometry",
+    "subtopic": "principal_values",
+    "difficulty": 1,
+    "question_id": "Q_MAT_0106",
+    "mcq": {
+      "question": "<h3>Which of the following statements about principal_values are correct?</h3><h3>(A) Statement 1<br/>(B) Statement 2<br/>(C) Statement 3<br/>(D) Statement 4</h3>",
+      "solution": "<h3>Statements A and C are correct based on inverse_trigonometry.</h3>",
+      "answer": "A,B,C"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5fca00000107ce6b0b0563640a107"
+    },
+    "questionType": "integerQuestion",
+    "subject": "Mathematics",
+    "topic": "matrices",
+    "subtopic": "row_reduction",
+    "difficulty": 1,
+    "question_id": "Q_MAT_0107",
+    "integerQuestion": {
+      "question": "<h3>Calculate the integer value for the given row_reduction scenario. Answer is a non-negative integer.</h3>",
+      "solution": "<h3>Applying matrices formulas gives the answer.</h3>",
+      "answer": "2"
+    }
+  },
+  {
+    "_id": "QID_MAT_0108",
+    "questionType": "scq",
+    "subject": "Mathematics",
+    "topic": "determinants",
+    "subtopic": "cofactors",
+    "difficulty": 1,
+    "question_id": "Q_MAT_0108",
+    "scq": {
+      "question": "<h3>A mathematics problem on determinants involving cofactors. Find the correct answer.</h3><h3>(A) Option A<br/>(B) Option B<br/>(C) Option C<br/>(D) Option D</h3>",
+      "solution": "<h3>Using principles of cofactors, the answer is derived step by step.</h3>",
+      "answer": "B"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5fca00000109ce6b0b0563640a109"
+    },
+    "questionType": "scq",
+    "subject": "Mathematics",
+    "topic": "complex_numbers",
+    "subtopic": "argand_plane",
+    "difficulty": 2,
+    "question_id": "Q_MAT_0109",
+    "scq": {
+      "question": "<h3>A mathematics problem on complex_numbers involving argand_plane. Find the correct answer.</h3><h3>(A) Option A<br/>(B) Option B<br/>(C) Option C<br/>(D) Option D</h3>",
+      "solution": "<h3>Using principles of argand_plane, the answer is derived step by step.</h3>",
+      "answer": "A"
+    }
+  },
+  {
+    "_id": "QID_MAT_0110",
+    "questionType": "scq",
+    "subject": "Mathematics",
+    "topic": "quadratic_equations",
+    "subtopic": "discriminant",
+    "difficulty": 5,
+    "question_id": "Q_MAT_0110",
+    "scq": {
+      "question": "<h3>A mathematics problem on quadratic_equations involving discriminant. Find the correct answer.</h3><h3>(A) Option A<br/>(B) Option B<br/>(C) Option C<br/>(D) Option D</h3>",
+      "solution": "<h3>Using principles of discriminant, the answer is derived step by step.</h3>",
+      "answer": "A"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5fca00000111ce6b0b0563640a111"
+    },
+    "questionType": "scq",
+    "subject": "Mathematics",
+    "topic": "sequences_series",
+    "subtopic": "arithmetic_gp",
+    "difficulty": 4,
+    "question_id": "Q_MAT_0111",
+    "scq": {
+      "question": "<h3>A mathematics problem on sequences_series involving arithmetic_gp. Find the correct answer.</h3><h3>(A) Option A<br/>(B) Option B<br/>(C) Option C<br/>(D) Option D</h3>",
+      "solution": "<h3>Using principles of arithmetic_gp, the answer is derived step by step.</h3>",
+      "answer": "C"
+    }
+  },
+  {
+    "_id": "QID_MAT_0112",
+    "questionType": "scq",
+    "subject": "Mathematics",
+    "topic": "binomial_theorem",
+    "subtopic": "expansion",
+    "difficulty": 2,
+    "question_id": "Q_MAT_0112",
+    "scq": {
+      "question": "<h3>A mathematics problem on binomial_theorem involving expansion. Find the correct answer.</h3><h3>(A) Option A<br/>(B) Option B<br/>(C) Option C<br/>(D) Option D</h3>",
+      "solution": "<h3>Using principles of expansion, the answer is derived step by step.</h3>",
+      "answer": "D"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5fca00000113ce6b0b0563640a113"
+    },
+    "questionType": "scq",
+    "subject": "Mathematics",
+    "topic": "permutations_combinations",
+    "subtopic": "selection",
+    "difficulty": 2,
+    "question_id": "Q_MAT_0113",
+    "scq": {
+      "question": "<h3>A mathematics problem on permutations_combinations involving selection. Find the correct answer.</h3><h3>(A) Option A<br/>(B) Option B<br/>(C) Option C<br/>(D) Option D</h3>",
+      "solution": "<h3>Using principles of selection, the answer is derived step by step.</h3>",
+      "answer": "C"
+    }
+  },
+  {
+    "_id": "QID_MAT_0114",
+    "questionType": "scq",
+    "subject": "Mathematics",
+    "topic": "probability",
+    "subtopic": "bayes",
+    "difficulty": 2,
+    "question_id": "Q_MAT_0114",
+    "scq": {
+      "question": "<h3>A mathematics problem on probability involving bayes. Find the correct answer.</h3><h3>(A) Option A<br/>(B) Option B<br/>(C) Option C<br/>(D) Option D</h3>",
+      "solution": "<h3>Using principles of bayes, the answer is derived step by step.</h3>",
+      "answer": null
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5fca00000115ce6b0b0563640a115"
+    },
+    "questionType": "integerQuestion",
+    "subject": "Mathematics",
+    "topic": "straight_lines",
+    "subtopic": "angle_bisectors",
+    "difficulty": 5,
+    "question_id": "Q_MAT_0115",
+    "integerQuestion": {
+      "question": "<h3>Calculate the integer value for the given angle_bisectors scenario. Answer is a non-negative integer.</h3>",
+      "solution": "<h3>Applying straight_lines formulas gives the answer.</h3>",
+      "answer": "2"
+    }
+  },
+  {
+    "_id": "QID_MAT_0116",
+    "questionType": "scq",
+    "subject": "Mathematics",
+    "topic": "circles",
+    "subtopic": "tangent_normal",
+    "difficulty": 5,
+    "question_id": "Q_MAT_0116",
+    "scq": {
+      "question": "<h3>A mathematics problem on circles involving tangent_normal. Find the correct answer.</h3><h3>(A) Option A<br/>(B) Option B<br/>(C) Option C<br/>(D) Option D</h3>",
+      "solution": "<h3>Using principles of tangent_normal, the answer is derived step by step.</h3>",
+      "answer": "A"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5fca00000117ce6b0b0563640a117"
+    },
+    "questionType": "scq",
+    "subject": "Mathematics",
+    "topic": "parabola",
+    "subtopic": "focal_chord",
+    "difficulty": 4,
+    "question_id": "Q_MAT_0117",
+    "scq": {
+      "question": "<h3>A mathematics problem on parabola involving focal_chord. Find the correct answer.</h3><h3>(A) Option A<br/>(B) Option B<br/>(C) Option C<br/>(D) Option D</h3>",
+      "solution": "<h3>Using principles of focal_chord, the answer is derived step by step.</h3>",
+      "answer": "A"
+    }
+  },
+  {
+    "_id": "QID_MAT_0118",
+    "questionType": "scq",
+    "subject": "Mathematics",
+    "topic": "ellipse",
+    "subtopic": "eccentricity",
+    "difficulty": 2,
+    "question_id": "Q_MAT_0118",
+    "scq": {
+      "question": "<h3>A mathematics problem on ellipse involving eccentricity. Find the correct answer.</h3><h3>(A) Option A<br/>(B) Option B<br/>(C) Option C<br/>(D) Option D</h3>",
+      "solution": "<h3>Using principles of eccentricity, the answer is derived step by step.</h3>",
+      "answer": "D"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5fca00000119ce6b0b0563640a119"
+    },
+    "questionType": "scq",
+    "subject": "Mathematics",
+    "topic": "vectors",
+    "subtopic": "cross_product",
+    "difficulty": 3,
+    "question_id": "Q_MAT_0119",
+    "scq": {
+      "question": "<h3>A mathematics problem on vectors involving cross_product. Find the correct answer.</h3><h3>(A) Option A<br/>(B) Option B<br/>(C) Option C<br/>(D) Option D</h3>",
+      "solution": "<h3>Using principles of cross_product, the answer is derived step by step.</h3>",
+      "answer": "D"
+    }
+  },
+  {
+    "_id": "QID_MAT_0120",
+    "questionType": "integerQuestion",
+    "subject": "Mathematics",
+    "topic": "3d_geometry",
+    "subtopic": "planes",
+    "difficulty": 2,
+    "question_id": "Q_MAT_0120",
+    "integerQuestion": {
+      "question": "<h3>Calculate the integer value for the given planes scenario. Answer is a non-negative integer.</h3>",
+      "solution": "<h3>Applying 3d_geometry formulas gives the answer.</h3>",
+      "answer": "4"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5fca00000121ce6b0b0563640a121"
+    },
+    "questionType": "scq",
+    "subject": "Mathematics",
+    "topic": "calculus",
+    "subtopic": "limits",
+    "difficulty": 5,
+    "question_id": "Q_MAT_0121",
+    "scq": {
+      "question": "<h3>A mathematics problem on calculus involving limits. Find the correct answer.</h3><h3>(A) Option A<br/>(B) Option B<br/>(C) Option C<br/>(D) Option D</h3>",
+      "solution": "<h3>Using principles of limits, the answer is derived step by step.</h3>",
+      "answer": "C"
+    }
+  },
+  {
+    "_id": "QID_MAT_0122",
+    "questionType": "scq",
+    "subject": "Mathematics",
+    "topic": "calculus",
+    "subtopic": "derivatives",
+    "difficulty": 5,
+    "question_id": "Q_MAT_0122",
+    "scq": {
+      "question": "<h3>A mathematics problem on calculus involving derivatives. Find the correct answer.</h3><h3>(A) Option A<br/>(B) Option B<br/>(C) Option C<br/>(D) Option D</h3>",
+      "solution": "<h3>Using principles of derivatives, the answer is derived step by step.</h3>",
+      "answer": "B"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5fca00000123ce6b0b0563640a123"
+    },
+    "questionType": "integerQuestion",
+    "subject": "Mathematics",
+    "topic": "integration",
+    "subtopic": "definite_integrals",
+    "difficulty": 5,
+    "question_id": "Q_MAT_0123",
+    "integerQuestion": {
+      "question": "<h3>Calculate the integer value for the given definite_integrals scenario. Answer is a non-negative integer.</h3>",
+      "solution": "<h3>Applying integration formulas gives the answer.</h3>",
+      "answer": "4"
+    }
+  },
+  {
+    "_id": "QID_MAT_0124",
+    "questionType": "scq",
+    "subject": "Mathematics",
+    "topic": "differential_equations",
+    "subtopic": "first_order",
+    "difficulty": 4,
+    "question_id": "Q_MAT_0124",
+    "scq": {
+      "question": "<h3>A mathematics problem on differential_equations involving first_order. Find the correct answer.</h3><h3>(A) Option A<br/>(B) Option B<br/>(C) Option C<br/>(D) Option D</h3>",
+      "solution": "<h3>Using principles of first_order, the answer is derived step by step.</h3>",
+      "answer": "D"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5fca00000125ce6b0b0563640a125"
+    },
+    "questionType": "scq",
+    "subject": "Mathematics",
+    "topic": "trigonometry",
+    "subtopic": "identities",
+    "difficulty": 2,
+    "question_id": "Q_MAT_0125",
+    "scq": {
+      "question": "<h3>A mathematics problem on trigonometry involving identities. Find the correct answer.</h3><h3>(A) Option A<br/>(B) Option B<br/>(C) Option C<br/>(D) Option D</h3>",
+      "solution": "<h3>Using principles of identities, the answer is derived step by step.</h3>",
+      "answer": "D"
+    }
+  },
+  {
+    "_id": "QID_MAT_0126",
+    "questionType": "scq",
+    "subject": "Mathematics",
+    "topic": "inverse_trigonometry",
+    "subtopic": "principal_values",
+    "difficulty": 1,
+    "question_id": "Q_MAT_0126",
+    "scq": {
+      "question": "<h3>A mathematics problem on inverse_trigonometry involving principal_values. Find the correct answer.</h3><h3>(A) Option A<br/>(B) Option B<br/>(C) Option C<br/>(D) Option D</h3>",
+      "solution": "<h3>Using principles of principal_values, the answer is derived step by step.</h3>",
+      "answer": "B"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5fca00000127ce6b0b0563640a127"
+    },
+    "questionType": "mcq",
+    "subject": "Mathematics",
+    "topic": "matrices",
+    "subtopic": "row_reduction",
+    "difficulty": 3,
+    "question_id": "Q_MAT_0127",
+    "mcq": {
+      "question": "<h3>Which of the following statements about row_reduction are correct?</h3><h3>(A) Statement 1<br/>(B) Statement 2<br/>(C) Statement 3<br/>(D) Statement 4</h3>",
+      "solution": "<h3>Statements A and C are correct based on matrices.</h3>",
+      "answer": "A,B,C"
+    }
+  },
+  {
+    "_id": "QID_MAT_0128",
+    "questionType": "scq",
+    "subject": "Mathematics",
+    "topic": "determinants",
+    "subtopic": "cofactors",
+    "difficulty": 5,
+    "question_id": "Q_MAT_0128",
+    "scq": {
+      "question": "<h3>A mathematics problem on determinants involving cofactors. Find the correct answer.</h3><h3>(A) Option A<br/>(B) Option B<br/>(C) Option C<br/>(D) Option D</h3>",
+      "solution": "<h3>Using principles of cofactors, the answer is derived step by step.</h3>",
+      "answer": "D"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5fca00000129ce6b0b0563640a129"
+    },
+    "questionType": "scq",
+    "subject": "Mathematics",
+    "topic": "complex_numbers",
+    "subtopic": "argand_plane",
+    "difficulty": 4,
+    "question_id": "Q_MAT_0129",
+    "scq": {
+      "question": "<h3>A mathematics problem on complex_numbers involving argand_plane. Find the correct answer.</h3><h3>(A) Option A<br/>(B) Option B<br/>(C) Option C<br/>(D) Option D</h3>",
+      "solution": "<h3>Using principles of argand_plane, the answer is derived step by step.</h3>",
+      "answer": "A"
+    }
+  },
+  {
+    "_id": "QID_MAT_0130",
+    "questionType": "scq",
+    "subject": "Mathematics",
+    "topic": "quadratic_equations",
+    "subtopic": "discriminant",
+    "difficulty": 4,
+    "question_id": "Q_MAT_0130",
+    "scq": {
+      "question": "<h3>A mathematics problem on quadratic_equations involving discriminant. Find the correct answer.</h3><h3>(A) Option A<br/>(B) Option B<br/>(C) Option C<br/>(D) Option D</h3>",
+      "solution": "<h3>Using principles of discriminant, the answer is derived step by step.</h3>",
+      "answer": "C"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5fca00000131ce6b0b0563640a131"
+    },
+    "questionType": "scq",
+    "subject": "Mathematics",
+    "topic": "sequences_series",
+    "subtopic": "arithmetic_gp",
+    "difficulty": 2,
+    "question_id": "Q_MAT_0131",
+    "scq": {
+      "question": "<h3>A mathematics problem on sequences_series involving arithmetic_gp. Find the correct answer.</h3><h3>(A) Option A<br/>(B) Option B<br/>(C) Option C<br/>(D) Option D</h3>",
+      "solution": "<h3>Using principles of arithmetic_gp, the answer is derived step by step.</h3>",
+      "answer": "B"
+    }
+  },
+  {
+    "_id": "QID_MAT_0132",
+    "questionType": "scq",
+    "subject": "Mathematics",
+    "topic": "binomial_theorem",
+    "subtopic": "expansion",
+    "difficulty": 4,
+    "question_id": "Q_MAT_0132",
+    "scq": {
+      "question": "<h3>A mathematics problem on binomial_theorem involving expansion. Find the correct answer.</h3><h3>(A) Option A<br/>(B) Option B<br/>(C) Option C<br/>(D) Option D</h3>",
+      "solution": "<h3>Using principles of expansion, the answer is derived step by step.</h3>",
+      "answer": "C"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5fca00000133ce6b0b0563640a133"
+    },
+    "questionType": "scq",
+    "subject": "Mathematics",
+    "topic": "permutations_combinations",
+    "subtopic": "selection",
+    "difficulty": 5,
+    "question_id": "Q_MAT_0133",
+    "scq": {
+      "question": "<h3>A mathematics problem on permutations_combinations involving selection. Find the correct answer.</h3><h3>(A) Option A<br/>(B) Option B<br/>(C) Option C<br/>(D) Option D</h3>",
+      "solution": "<h3>Using principles of selection, the answer is derived step by step.</h3>",
+      "answer": "B"
+    }
+  },
+  {
+    "_id": "QID_MAT_0134",
+    "questionType": "scq",
+    "subject": "Mathematics",
+    "topic": "probability",
+    "subtopic": "bayes",
+    "difficulty": 3,
+    "question_id": "Q_MAT_0134",
+    "scq": {
+      "question": "<h3>A mathematics problem on probability involving bayes. Find the correct answer.</h3><h3>(A) Option A<br/>(B) Option B<br/>(C) Option C<br/>(D) Option D</h3>",
+      "solution": "<h3>Using principles of bayes, the answer is derived step by step.</h3>",
+      "answer": "D"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5fca00000135ce6b0b0563640a135"
+    },
+    "questionType": "scq",
+    "subject": "Mathematics",
+    "topic": "straight_lines",
+    "subtopic": "angle_bisectors",
+    "difficulty": 3,
+    "question_id": "Q_MAT_0135",
+    "scq": {
+      "question": "<h3>A mathematics problem on straight_lines involving angle_bisectors. Find the correct answer.</h3><h3>(A) Option A<br/>(B) Option B<br/>(C) Option C<br/>(D) Option D</h3>",
+      "solution": "<h3>Using principles of angle_bisectors, the answer is derived step by step.</h3>",
+      "answer": "B"
+    }
+  },
+  {
+    "_id": "QID_MAT_0136",
+    "questionType": "integerQuestion",
+    "subject": "Mathematics",
+    "topic": "circles",
+    "subtopic": "tangent_normal",
+    "difficulty": 4,
+    "question_id": "Q_MAT_0136",
+    "integerQuestion": {
+      "question": "<h3>Calculate the integer value for the given tangent_normal scenario. Answer is a non-negative integer.</h3>",
+      "solution": "<h3>Applying circles formulas gives the answer.</h3>",
+      "answer": "4"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5fca00000137ce6b0b0563640a137"
+    },
+    "questionType": "scq",
+    "subject": "Mathematics",
+    "topic": "parabola",
+    "subtopic": "focal_chord",
+    "difficulty": 5,
+    "question_id": "Q_MAT_0137",
+    "scq": {
+      "question": "<h3>A mathematics problem on parabola involving focal_chord. Find the correct answer.</h3><h3>(A) Option A<br/>(B) Option B<br/>(C) Option C<br/>(D) Option D</h3>",
+      "solution": "<h3>Using principles of focal_chord, the answer is derived step by step.</h3>",
+      "answer": "B"
+    }
+  },
+  {
+    "_id": "QID_MAT_0138",
+    "questionType": "scq",
+    "subject": "Mathematics",
+    "topic": "ellipse",
+    "subtopic": "eccentricity",
+    "difficulty": 1,
+    "question_id": "Q_MAT_0138",
+    "scq": {
+      "question": "<h3>A mathematics problem on ellipse involving eccentricity. Find the correct answer.</h3><h3>(A) Option A<br/>(B) Option B<br/>(C) Option C<br/>(D) Option D</h3>",
+      "solution": "<h3>Using principles of eccentricity, the answer is derived step by step.</h3>",
+      "answer": "B"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5fca00000139ce6b0b0563640a139"
+    },
+    "questionType": "integerQuestion",
+    "subject": "Mathematics",
+    "topic": "vectors",
+    "subtopic": "cross_product",
+    "difficulty": 5,
+    "question_id": "Q_MAT_0139",
+    "integerQuestion": {
+      "question": "<h3>Calculate the integer value for the given cross_product scenario. Answer is a non-negative integer.</h3>",
+      "solution": "<h3>Applying vectors formulas gives the answer.</h3>",
+      "answer": null
+    }
+  },
+  {
+    "_id": "QID_MAT_0140",
+    "questionType": "scq",
+    "subject": "Mathematics",
+    "topic": "3d_geometry",
+    "subtopic": "planes",
+    "difficulty": 4,
+    "question_id": "Q_MAT_0140",
+    "scq": {
+      "question": "<h3>A mathematics problem on 3d_geometry involving planes. Find the correct answer.</h3><h3>(A) Option A<br/>(B) Option B<br/>(C) Option C<br/>(D) Option D</h3>",
+      "solution": "<h3>Using principles of planes, the answer is derived step by step.</h3>",
+      "answer": null
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5fca00000141ce6b0b0563640a141"
+    },
+    "questionType": "integerQuestion",
+    "subject": "Mathematics",
+    "topic": "calculus",
+    "subtopic": "limits",
+    "difficulty": 5,
+    "question_id": "Q_MAT_0141",
+    "integerQuestion": {
+      "question": "<h3>Calculate the integer value for the given limits scenario. Answer is a non-negative integer.</h3>",
+      "solution": "<h3>Applying calculus formulas gives the answer.</h3>",
+      "answer": "5"
+    }
+  },
+  {
+    "_id": "QID_MAT_0142",
+    "questionType": "integerQuestion",
+    "subject": "Mathematics",
+    "topic": "calculus",
+    "subtopic": "derivatives",
+    "difficulty": 4,
+    "question_id": "Q_MAT_0142",
+    "integerQuestion": {
+      "question": "<h3>Calculate the integer value for the given derivatives scenario. Answer is a non-negative integer.</h3>",
+      "solution": "<h3>Applying calculus formulas gives the answer.</h3>",
+      "answer": "0"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5fca00000143ce6b0b0563640a143"
+    },
+    "questionType": "scq",
+    "subject": "Mathematics",
+    "topic": "integration",
+    "subtopic": "definite_integrals",
+    "difficulty": 2,
+    "question_id": "Q_MAT_0143",
+    "scq": {
+      "question": "<h3>A mathematics problem on integration involving definite_integrals. Find the correct answer.</h3><h3>(A) Option A<br/>(B) Option B<br/>(C) Option C<br/>(D) Option D</h3>",
+      "solution": "<h3>Using principles of definite_integrals, the answer is derived step by step.</h3>",
+      "answer": "B"
+    }
+  },
+  {
+    "_id": "QID_MAT_0144",
+    "questionType": "scq",
+    "subject": "Mathematics",
+    "topic": "differential_equations",
+    "subtopic": "first_order",
+    "difficulty": 3,
+    "question_id": "Q_MAT_0144",
+    "scq": {
+      "question": "<h3>A mathematics problem on differential_equations involving first_order. Find the correct answer.</h3><h3>(A) Option A<br/>(B) Option B<br/>(C) Option C<br/>(D) Option D</h3>",
+      "solution": "<h3>Using principles of first_order, the answer is derived step by step.</h3>",
+      "answer": "A"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5fca00000145ce6b0b0563640a145"
+    },
+    "questionType": "mcq",
+    "subject": "Mathematics",
+    "topic": "trigonometry",
+    "subtopic": "identities",
+    "difficulty": 3,
+    "question_id": "Q_MAT_0145",
+    "mcq": {
+      "question": "<h3>Which of the following statements about identities are correct?</h3><h3>(A) Statement 1<br/>(B) Statement 2<br/>(C) Statement 3<br/>(D) Statement 4</h3>",
+      "solution": "<h3>Statements A and C are correct based on trigonometry.</h3>",
+      "answer": "B,D"
+    }
+  },
+  {
+    "_id": "QID_MAT_0146",
+    "questionType": "scq",
+    "subject": "Mathematics",
+    "topic": "inverse_trigonometry",
+    "subtopic": "principal_values",
+    "difficulty": 5,
+    "question_id": "Q_MAT_0146",
+    "scq": {
+      "question": "<h3>A mathematics problem on inverse_trigonometry involving principal_values. Find the correct answer.</h3><h3>(A) Option A<br/>(B) Option B<br/>(C) Option C<br/>(D) Option D</h3>",
+      "solution": "<h3>Using principles of principal_values, the answer is derived step by step.</h3>",
+      "answer": "B"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5fca00000147ce6b0b0563640a147"
+    },
+    "questionType": "scq",
+    "subject": "Mathematics",
+    "topic": "matrices",
+    "subtopic": "row_reduction",
+    "difficulty": 2,
+    "question_id": "Q_MAT_0147",
+    "scq": {
+      "question": "<h3>A mathematics problem on matrices involving row_reduction. Find the correct answer.</h3><h3>(A) Option A<br/>(B) Option B<br/>(C) Option C<br/>(D) Option D</h3>",
+      "solution": "<h3>Using principles of row_reduction, the answer is derived step by step.</h3>",
+      "answer": "C"
+    }
+  },
+  {
+    "_id": "QID_MAT_0148",
+    "questionType": "scq",
+    "subject": "Mathematics",
+    "topic": "determinants",
+    "subtopic": "cofactors",
+    "difficulty": 5,
+    "question_id": "Q_MAT_0148",
+    "scq": {
+      "question": "<h3>A mathematics problem on determinants involving cofactors. Find the correct answer.</h3><h3>(A) Option A<br/>(B) Option B<br/>(C) Option C<br/>(D) Option D</h3>",
+      "solution": "<h3>Using principles of cofactors, the answer is derived step by step.</h3>",
+      "answer": "B"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5fca00000149ce6b0b0563640a149"
+    },
+    "questionType": "scq",
+    "subject": "Mathematics",
+    "topic": "complex_numbers",
+    "subtopic": "argand_plane",
+    "difficulty": 5,
+    "question_id": "Q_MAT_0149",
+    "scq": {
+      "question": "<h3>A mathematics problem on complex_numbers involving argand_plane. Find the correct answer.</h3><h3>(A) Option A<br/>(B) Option B<br/>(C) Option C<br/>(D) Option D</h3>",
+      "solution": "<h3>Using principles of argand_plane, the answer is derived step by step.</h3>",
+      "answer": "A"
+    }
+  },
+  {
+    "_id": "QID_MAT_0150",
+    "questionType": "scq",
+    "subject": "Mathematics",
+    "topic": "quadratic_equations",
+    "subtopic": "discriminant",
+    "difficulty": 4,
+    "question_id": "Q_MAT_0150",
+    "scq": {
+      "question": "<h3>A mathematics problem on quadratic_equations involving discriminant. Find the correct answer.</h3><h3>(A) Option A<br/>(B) Option B<br/>(C) Option C<br/>(D) Option D</h3>",
+      "solution": "<h3>Using principles of discriminant, the answer is derived step by step.</h3>",
+      "answer": "B"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5fca00000151ce6b0b0563640a151"
+    },
+    "questionType": "mcq",
+    "subject": "Biology",
+    "topic": "cell_biology",
+    "subtopic": "cell_organelles",
+    "difficulty": 5,
+    "question_id": "Q_BIO_0151",
+    "mcq": {
+      "question": "<h3>Which of the following statements about cell_organelles are correct?</h3><h3>(A) Statement 1<br/>(B) Statement 2<br/>(C) Statement 3<br/>(D) Statement 4</h3>",
+      "solution": "<h3>Statements A and C are correct based on cell_biology.</h3>",
+      "answer": "A,B"
+    }
+  },
+  {
+    "_id": "QID_BIO_0152",
+    "questionType": "scq",
+    "subject": "Biology",
+    "topic": "cell_division",
+    "subtopic": "mitosis",
+    "difficulty": 3,
+    "question_id": "Q_BIO_0152",
+    "scq": {
+      "question": "<h3>A biology problem on cell_division involving mitosis. Find the correct answer.</h3><h3>(A) Option A<br/>(B) Option B<br/>(C) Option C<br/>(D) Option D</h3>",
+      "solution": "<h3>Using principles of mitosis, the answer is derived step by step.</h3>",
+      "answer": "D"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5fca00000153ce6b0b0563640a153"
+    },
+    "questionType": "scq",
+    "subject": "Biology",
+    "topic": "genetics",
+    "subtopic": "mendels_laws",
+    "difficulty": 1,
+    "question_id": "Q_BIO_0153",
+    "scq": {
+      "question": "<h3>A biology problem on genetics involving mendels_laws. Find the correct answer.</h3><h3>(A) Option A<br/>(B) Option B<br/>(C) Option C<br/>(D) Option D</h3>",
+      "solution": "<h3>Using principles of mendels_laws, the answer is derived step by step.</h3>",
+      "answer": "D"
+    }
+  },
+  {
+    "_id": "QID_BIO_0154",
+    "questionType": "scq",
+    "subject": "Biology",
+    "topic": "heredity",
+    "subtopic": "sex_linked",
+    "difficulty": 3,
+    "question_id": "Q_BIO_0154",
+    "scq": {
+      "question": "<h3>A biology problem on heredity involving sex_linked. Find the correct answer.</h3><h3>(A) Option A<br/>(B) Option B<br/>(C) Option C<br/>(D) Option D</h3>",
+      "solution": "<h3>Using principles of sex_linked, the answer is derived step by step.</h3>",
+      "answer": "C"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5fca00000155ce6b0b0563640a155"
+    },
+    "questionType": "scq",
+    "subject": "Biology",
+    "topic": "ecology",
+    "subtopic": "food_chains",
+    "difficulty": 1,
+    "question_id": "Q_BIO_0155",
+    "scq": {
+      "question": "<h3>A biology problem on ecology involving food_chains. Find the correct answer.</h3><h3>(A) Option A<br/>(B) Option B<br/>(C) Option C<br/>(D) Option D</h3>",
+      "solution": "<h3>Using principles of food_chains, the answer is derived step by step.</h3>",
+      "answer": "D"
+    }
+  },
+  {
+    "_id": "QID_BIO_0156",
+    "questionType": "scq",
+    "subject": "Biology",
+    "topic": "environmental_biology",
+    "subtopic": "pollution",
+    "difficulty": 4,
+    "question_id": "Q_BIO_0156",
+    "scq": {
+      "question": "<h3>A biology problem on environmental_biology involving pollution. Find the correct answer.</h3><h3>(A) Option A<br/>(B) Option B<br/>(C) Option C<br/>(D) Option D</h3>",
+      "solution": "<h3>Using principles of pollution, the answer is derived step by step.</h3>",
+      "answer": "B"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5fca00000157ce6b0b0563640a157"
+    },
+    "questionType": "scq",
+    "subject": "Biology",
+    "topic": "plant_physiology",
+    "subtopic": "photosynthesis",
+    "difficulty": 3,
+    "question_id": "Q_BIO_0157",
+    "scq": {
+      "question": "<h3>A biology problem on plant_physiology involving photosynthesis. Find the correct answer.</h3><h3>(A) Option A<br/>(B) Option B<br/>(C) Option C<br/>(D) Option D</h3>",
+      "solution": "<h3>Using principles of photosynthesis, the answer is derived step by step.</h3>",
+      "answer": null
+    }
+  },
+  {
+    "_id": "QID_BIO_0158",
+    "questionType": "scq",
+    "subject": "Biology",
+    "topic": "animal_physiology",
+    "subtopic": "digestion",
+    "difficulty": 5,
+    "question_id": "Q_BIO_0158",
+    "scq": {
+      "question": "<h3>A biology problem on animal_physiology involving digestion. Find the correct answer.</h3><h3>(A) Option A<br/>(B) Option B<br/>(C) Option C<br/>(D) Option D</h3>",
+      "solution": "<h3>Using principles of digestion, the answer is derived step by step.</h3>",
+      "answer": "A"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5fca00000159ce6b0b0563640a159"
+    },
+    "questionType": "scq",
+    "subject": "Biology",
+    "topic": "evolution",
+    "subtopic": "natural_selection",
+    "difficulty": 3,
+    "question_id": "Q_BIO_0159",
+    "scq": {
+      "question": "<h3>A biology problem on evolution involving natural_selection. Find the correct answer.</h3><h3>(A) Option A<br/>(B) Option B<br/>(C) Option C<br/>(D) Option D</h3>",
+      "solution": "<h3>Using principles of natural_selection, the answer is derived step by step.</h3>",
+      "answer": "D"
+    }
+  },
+  {
+    "_id": "QID_BIO_0160",
+    "questionType": "scq",
+    "subject": "Biology",
+    "topic": "biotechnology",
+    "subtopic": "pcr",
+    "difficulty": 1,
+    "question_id": "Q_BIO_0160",
+    "scq": {
+      "question": "<h3>A biology problem on biotechnology involving pcr. Find the correct answer.</h3><h3>(A) Option A<br/>(B) Option B<br/>(C) Option C<br/>(D) Option D</h3>",
+      "solution": "<h3>Using principles of pcr, the answer is derived step by step.</h3>",
+      "answer": "C"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5fca00000161ce6b0b0563640a161"
+    },
+    "questionType": "integerQuestion",
+    "subject": "Biology",
+    "topic": "cell_biology",
+    "subtopic": "cell_organelles",
+    "difficulty": 4,
+    "question_id": "Q_BIO_0161",
+    "integerQuestion": {
+      "question": "<h3>Calculate the integer value for the given cell_organelles scenario. Answer is a non-negative integer.</h3>",
+      "solution": "<h3>Applying cell_biology formulas gives the answer.</h3>",
+      "answer": "2"
+    }
+  },
+  {
+    "_id": "QID_BIO_0162",
+    "questionType": "scq",
+    "subject": "Biology",
+    "topic": "cell_division",
+    "subtopic": "mitosis",
+    "difficulty": 2,
+    "question_id": "Q_BIO_0162",
+    "scq": {
+      "question": "<h3>A biology problem on cell_division involving mitosis. Find the correct answer.</h3><h3>(A) Option A<br/>(B) Option B<br/>(C) Option C<br/>(D) Option D</h3>",
+      "solution": "<h3>Using principles of mitosis, the answer is derived step by step.</h3>",
+      "answer": "B"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5fca00000163ce6b0b0563640a163"
+    },
+    "questionType": "scq",
+    "subject": "Biology",
+    "topic": "genetics",
+    "subtopic": "mendels_laws",
+    "difficulty": 2,
+    "question_id": "Q_BIO_0163",
+    "scq": {
+      "question": "<h3>A biology problem on genetics involving mendels_laws. Find the correct answer.</h3><h3>(A) Option A<br/>(B) Option B<br/>(C) Option C<br/>(D) Option D</h3>",
+      "solution": "<h3>Using principles of mendels_laws, the answer is derived step by step.</h3>",
+      "answer": "D"
+    }
+  },
+  {
+    "_id": "QID_BIO_0164",
+    "questionType": "scq",
+    "subject": "Biology",
+    "topic": "heredity",
+    "subtopic": "sex_linked",
+    "difficulty": 4,
+    "question_id": "Q_BIO_0164",
+    "scq": {
+      "question": "<h3>A biology problem on heredity involving sex_linked. Find the correct answer.</h3><h3>(A) Option A<br/>(B) Option B<br/>(C) Option C<br/>(D) Option D</h3>",
+      "solution": "<h3>Using principles of sex_linked, the answer is derived step by step.</h3>",
+      "answer": "B"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5fca00000165ce6b0b0563640a165"
+    },
+    "questionType": "scq",
+    "subject": "Biology",
+    "topic": "ecology",
+    "subtopic": "food_chains",
+    "difficulty": 2,
+    "question_id": "Q_BIO_0165",
+    "scq": {
+      "question": "<h3>A biology problem on ecology involving food_chains. Find the correct answer.</h3><h3>(A) Option A<br/>(B) Option B<br/>(C) Option C<br/>(D) Option D</h3>",
+      "solution": "<h3>Using principles of food_chains, the answer is derived step by step.</h3>",
+      "answer": null
+    }
+  },
+  {
+    "_id": "QID_BIO_0166",
+    "questionType": "scq",
+    "subject": "Biology",
+    "topic": "environmental_biology",
+    "subtopic": "pollution",
+    "difficulty": 2,
+    "question_id": "Q_BIO_0166",
+    "scq": {
+      "question": "<h3>A biology problem on environmental_biology involving pollution. Find the correct answer.</h3><h3>(A) Option A<br/>(B) Option B<br/>(C) Option C<br/>(D) Option D</h3>",
+      "solution": "<h3>Using principles of pollution, the answer is derived step by step.</h3>",
+      "answer": "C"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5fca00000167ce6b0b0563640a167"
+    },
+    "questionType": "scq",
+    "subject": "Biology",
+    "topic": "plant_physiology",
+    "subtopic": "photosynthesis",
+    "difficulty": 5,
+    "question_id": "Q_BIO_0167",
+    "scq": {
+      "question": "<h3>A biology problem on plant_physiology involving photosynthesis. Find the correct answer.</h3><h3>(A) Option A<br/>(B) Option B<br/>(C) Option C<br/>(D) Option D</h3>",
+      "solution": "<h3>Using principles of photosynthesis, the answer is derived step by step.</h3>",
+      "answer": "A"
+    }
+  },
+  {
+    "_id": "QID_BIO_0168",
+    "questionType": "mcq",
+    "subject": "Biology",
+    "topic": "animal_physiology",
+    "subtopic": "digestion",
+    "difficulty": 4,
+    "question_id": "Q_BIO_0168",
+    "mcq": {
+      "question": "<h3>Which of the following statements about digestion are correct?</h3><h3>(A) Statement 1<br/>(B) Statement 2<br/>(C) Statement 3<br/>(D) Statement 4</h3>",
+      "solution": "<h3>Statements A and C are correct based on animal_physiology.</h3>",
+      "answer": "B,D"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5fca00000169ce6b0b0563640a169"
+    },
+    "questionType": "mcq",
+    "subject": "Biology",
+    "topic": "evolution",
+    "subtopic": "natural_selection",
+    "difficulty": 1,
+    "question_id": "Q_BIO_0169",
+    "mcq": {
+      "question": "<h3>Which of the following statements about natural_selection are correct?</h3><h3>(A) Statement 1<br/>(B) Statement 2<br/>(C) Statement 3<br/>(D) Statement 4</h3>",
+      "solution": "<h3>Statements A and C are correct based on evolution.</h3>",
+      "answer": "A,C"
+    }
+  },
+  {
+    "_id": "QID_BIO_0170",
+    "questionType": "integerQuestion",
+    "subject": "Biology",
+    "topic": "biotechnology",
+    "subtopic": "pcr",
+    "difficulty": 5,
+    "question_id": "Q_BIO_0170",
+    "integerQuestion": {
+      "question": "<h3>Calculate the integer value for the given pcr scenario. Answer is a non-negative integer.</h3>",
+      "solution": "<h3>Applying biotechnology formulas gives the answer.</h3>",
+      "answer": "8"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5fca00000171ce6b0b0563640a171"
+    },
+    "questionType": "scq",
+    "subject": "Biology",
+    "topic": "cell_biology",
+    "subtopic": "cell_organelles",
+    "difficulty": 2,
+    "question_id": "Q_BIO_0171",
+    "scq": {
+      "question": "<h3>A biology problem on cell_biology involving cell_organelles. Find the correct answer.</h3><h3>(A) Option A<br/>(B) Option B<br/>(C) Option C<br/>(D) Option D</h3>",
+      "solution": "<h3>Using principles of cell_organelles, the answer is derived step by step.</h3>",
+      "answer": "C"
+    }
+  },
+  {
+    "_id": "QID_BIO_0172",
+    "questionType": "mcq",
+    "subject": "Biology",
+    "topic": "cell_division",
+    "subtopic": "mitosis",
+    "difficulty": 2,
+    "question_id": "Q_BIO_0172",
+    "mcq": {
+      "question": "<h3>Which of the following statements about mitosis are correct?</h3><h3>(A) Statement 1<br/>(B) Statement 2<br/>(C) Statement 3<br/>(D) Statement 4</h3>",
+      "solution": "<h3>Statements A and C are correct based on cell_division.</h3>",
+      "answer": "A,C"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5fca00000173ce6b0b0563640a173"
+    },
+    "questionType": "scq",
+    "subject": "Biology",
+    "topic": "genetics",
+    "subtopic": "mendels_laws",
+    "difficulty": 4,
+    "question_id": "Q_BIO_0173",
+    "scq": {
+      "question": "<h3>A biology problem on genetics involving mendels_laws. Find the correct answer.</h3><h3>(A) Option A<br/>(B) Option B<br/>(C) Option C<br/>(D) Option D</h3>",
+      "solution": "<h3>Using principles of mendels_laws, the answer is derived step by step.</h3>",
+      "answer": "A"
+    }
+  },
+  {
+    "_id": "QID_BIO_0174",
+    "questionType": "scq",
+    "subject": "Biology",
+    "topic": "heredity",
+    "subtopic": "sex_linked",
+    "difficulty": 4,
+    "question_id": "Q_BIO_0174",
+    "scq": {
+      "question": "<h3>A biology problem on heredity involving sex_linked. Find the correct answer.</h3><h3>(A) Option A<br/>(B) Option B<br/>(C) Option C<br/>(D) Option D</h3>",
+      "solution": "<h3>Using principles of sex_linked, the answer is derived step by step.</h3>",
+      "answer": "B"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5fca00000175ce6b0b0563640a175"
+    },
+    "questionType": "scq",
+    "subject": "Biology",
+    "topic": "ecology",
+    "subtopic": "food_chains",
+    "difficulty": 1,
+    "question_id": "Q_BIO_0175",
+    "scq": {
+      "question": "<h3>A biology problem on ecology involving food_chains. Find the correct answer.</h3><h3>(A) Option A<br/>(B) Option B<br/>(C) Option C<br/>(D) Option D</h3>",
+      "solution": "<h3>Using principles of food_chains, the answer is derived step by step.</h3>",
+      "answer": "D"
+    }
+  },
+  {
+    "_id": "QID_BIO_0176",
+    "questionType": "scq",
+    "subject": "Biology",
+    "topic": "environmental_biology",
+    "subtopic": "pollution",
+    "difficulty": 1,
+    "question_id": "Q_BIO_0176",
+    "scq": {
+      "question": "<h3>A biology problem on environmental_biology involving pollution. Find the correct answer.</h3><h3>(A) Option A<br/>(B) Option B<br/>(C) Option C<br/>(D) Option D</h3>",
+      "solution": "<h3>Using principles of pollution, the answer is derived step by step.</h3>",
+      "answer": "B"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5fca00000177ce6b0b0563640a177"
+    },
+    "questionType": "integerQuestion",
+    "subject": "Biology",
+    "topic": "plant_physiology",
+    "subtopic": "photosynthesis",
+    "difficulty": 4,
+    "question_id": "Q_BIO_0177",
+    "integerQuestion": {
+      "question": "<h3>Calculate the integer value for the given photosynthesis scenario. Answer is a non-negative integer.</h3>",
+      "solution": "<h3>Applying plant_physiology formulas gives the answer.</h3>",
+      "answer": "8"
+    }
+  },
+  {
+    "_id": "QID_BIO_0178",
+    "questionType": "scq",
+    "subject": "Biology",
+    "topic": "animal_physiology",
+    "subtopic": "digestion",
+    "difficulty": 5,
+    "question_id": "Q_BIO_0178",
+    "scq": {
+      "question": "<h3>A biology problem on animal_physiology involving digestion. Find the correct answer.</h3><h3>(A) Option A<br/>(B) Option B<br/>(C) Option C<br/>(D) Option D</h3>",
+      "solution": "<h3>Using principles of digestion, the answer is derived step by step.</h3>",
+      "answer": "A"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5fca00000179ce6b0b0563640a179"
+    },
+    "questionType": "scq",
+    "subject": "Biology",
+    "topic": "evolution",
+    "subtopic": "natural_selection",
+    "difficulty": 2,
+    "question_id": "Q_BIO_0179",
+    "scq": {
+      "question": "<h3>A biology problem on evolution involving natural_selection. Find the correct answer.</h3><h3>(A) Option A<br/>(B) Option B<br/>(C) Option C<br/>(D) Option D</h3>",
+      "solution": "<h3>Using principles of natural_selection, the answer is derived step by step.</h3>",
+      "answer": "D"
+    }
+  },
+  {
+    "_id": "QID_BIO_0180",
+    "questionType": "mcq",
+    "subject": "Biology",
+    "topic": "biotechnology",
+    "subtopic": "pcr",
+    "difficulty": 1,
+    "question_id": "Q_BIO_0180",
+    "mcq": {
+      "question": "<h3>Which of the following statements about pcr are correct?</h3><h3>(A) Statement 1<br/>(B) Statement 2<br/>(C) Statement 3<br/>(D) Statement 4</h3>",
+      "solution": "<h3>Statements A and C are correct based on biotechnology.</h3>",
+      "answer": "A,C"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5fca00000181ce6b0b0563640a181"
+    },
+    "questionType": "scq",
+    "subject": "Biology",
+    "topic": "cell_biology",
+    "subtopic": "cell_organelles",
+    "difficulty": 1,
+    "question_id": "Q_BIO_0181",
+    "scq": {
+      "question": "<h3>A biology problem on cell_biology involving cell_organelles. Find the correct answer.</h3><h3>(A) Option A<br/>(B) Option B<br/>(C) Option C<br/>(D) Option D</h3>",
+      "solution": "<h3>Using principles of cell_organelles, the answer is derived step by step.</h3>",
+      "answer": "B"
+    }
+  },
+  {
+    "_id": "QID_BIO_0182",
+    "questionType": "integerQuestion",
+    "subject": "Biology",
+    "topic": "cell_division",
+    "subtopic": "mitosis",
+    "difficulty": 1,
+    "question_id": "Q_BIO_0182",
+    "integerQuestion": {
+      "question": "<h3>Calculate the integer value for the given mitosis scenario. Answer is a non-negative integer.</h3>",
+      "solution": "<h3>Applying cell_division formulas gives the answer.</h3>",
+      "answer": "2"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5fca00000183ce6b0b0563640a183"
+    },
+    "questionType": "mcq",
+    "subject": "Biology",
+    "topic": "genetics",
+    "subtopic": "mendels_laws",
+    "difficulty": 5,
+    "question_id": "Q_BIO_0183",
+    "mcq": {
+      "question": "<h3>Which of the following statements about mendels_laws are correct?</h3><h3>(A) Statement 1<br/>(B) Statement 2<br/>(C) Statement 3<br/>(D) Statement 4</h3>",
+      "solution": "<h3>Statements A and C are correct based on genetics.</h3>",
+      "answer": "B,D"
+    }
+  },
+  {
+    "_id": "QID_BIO_0184",
+    "questionType": "scq",
+    "subject": "Biology",
+    "topic": "heredity",
+    "subtopic": "sex_linked",
+    "difficulty": 4,
+    "question_id": "Q_BIO_0184",
+    "scq": {
+      "question": "<h3>A biology problem on heredity involving sex_linked. Find the correct answer.</h3><h3>(A) Option A<br/>(B) Option B<br/>(C) Option C<br/>(D) Option D</h3>",
+      "solution": "<h3>Using principles of sex_linked, the answer is derived step by step.</h3>",
+      "answer": "C"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5fca00000185ce6b0b0563640a185"
+    },
+    "questionType": "integerQuestion",
+    "subject": "Biology",
+    "topic": "ecology",
+    "subtopic": "food_chains",
+    "difficulty": 1,
+    "question_id": "Q_BIO_0185",
+    "integerQuestion": {
+      "question": "<h3>Calculate the integer value for the given food_chains scenario. Answer is a non-negative integer.</h3>",
+      "solution": "<h3>Applying ecology formulas gives the answer.</h3>",
+      "answer": "6"
+    }
+  },
+  {
+    "_id": "QID_BIO_0186",
+    "questionType": "scq",
+    "subject": "Biology",
+    "topic": "environmental_biology",
+    "subtopic": "pollution",
+    "difficulty": 2,
+    "question_id": "Q_BIO_0186",
+    "scq": {
+      "question": "<h3>A biology problem on environmental_biology involving pollution. Find the correct answer.</h3><h3>(A) Option A<br/>(B) Option B<br/>(C) Option C<br/>(D) Option D</h3>",
+      "solution": "<h3>Using principles of pollution, the answer is derived step by step.</h3>",
+      "answer": "A"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5fca00000187ce6b0b0563640a187"
+    },
+    "questionType": "scq",
+    "subject": "Biology",
+    "topic": "plant_physiology",
+    "subtopic": "photosynthesis",
+    "difficulty": 4,
+    "question_id": "Q_BIO_0187",
+    "scq": {
+      "question": "<h3>A biology problem on plant_physiology involving photosynthesis. Find the correct answer.</h3><h3>(A) Option A<br/>(B) Option B<br/>(C) Option C<br/>(D) Option D</h3>",
+      "solution": "<h3>Using principles of photosynthesis, the answer is derived step by step.</h3>",
+      "answer": "A"
+    }
+  },
+  {
+    "_id": "QID_BIO_0188",
+    "questionType": "scq",
+    "subject": "Biology",
+    "topic": "animal_physiology",
+    "subtopic": "digestion",
+    "difficulty": 2,
+    "question_id": "Q_BIO_0188",
+    "scq": {
+      "question": "<h3>A biology problem on animal_physiology involving digestion. Find the correct answer.</h3><h3>(A) Option A<br/>(B) Option B<br/>(C) Option C<br/>(D) Option D</h3>",
+      "solution": "<h3>Using principles of digestion, the answer is derived step by step.</h3>",
+      "answer": "A"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5fca00000189ce6b0b0563640a189"
+    },
+    "questionType": "scq",
+    "subject": "Biology",
+    "topic": "evolution",
+    "subtopic": "natural_selection",
+    "difficulty": 3,
+    "question_id": "Q_BIO_0189",
+    "scq": {
+      "question": "<h3>A biology problem on evolution involving natural_selection. Find the correct answer.</h3><h3>(A) Option A<br/>(B) Option B<br/>(C) Option C<br/>(D) Option D</h3>",
+      "solution": "<h3>Using principles of natural_selection, the answer is derived step by step.</h3>",
+      "answer": "B"
+    }
+  },
+  {
+    "_id": "QID_BIO_0190",
+    "questionType": "scq",
+    "subject": "Biology",
+    "topic": "biotechnology",
+    "subtopic": "pcr",
+    "difficulty": 5,
+    "question_id": "Q_BIO_0190",
+    "scq": {
+      "question": "<h3>A biology problem on biotechnology involving pcr. Find the correct answer.</h3><h3>(A) Option A<br/>(B) Option B<br/>(C) Option C<br/>(D) Option D</h3>",
+      "solution": "<h3>Using principles of pcr, the answer is derived step by step.</h3>",
+      "answer": "C"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5fca00000191ce6b0b0563640a191"
+    },
+    "questionType": "scq",
+    "subject": "Biology",
+    "topic": "cell_biology",
+    "subtopic": "cell_organelles",
+    "difficulty": 1,
+    "question_id": "Q_BIO_0191",
+    "scq": {
+      "question": "<h3>A biology problem on cell_biology involving cell_organelles. Find the correct answer.</h3><h3>(A) Option A<br/>(B) Option B<br/>(C) Option C<br/>(D) Option D</h3>",
+      "solution": "<h3>Using principles of cell_organelles, the answer is derived step by step.</h3>",
+      "answer": "A"
+    }
+  },
+  {
+    "_id": "QID_BIO_0192",
+    "questionType": "mcq",
+    "subject": "Biology",
+    "topic": "cell_division",
+    "subtopic": "mitosis",
+    "difficulty": 3,
+    "question_id": "Q_BIO_0192",
+    "mcq": {
+      "question": "<h3>Which of the following statements about mitosis are correct?</h3><h3>(A) Statement 1<br/>(B) Statement 2<br/>(C) Statement 3<br/>(D) Statement 4</h3>",
+      "solution": "<h3>Statements A and C are correct based on cell_division.</h3>",
+      "answer": "A,B"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5fca00000193ce6b0b0563640a193"
+    },
+    "questionType": "integerQuestion",
+    "subject": "Biology",
+    "topic": "genetics",
+    "subtopic": "mendels_laws",
+    "difficulty": 3,
+    "question_id": "Q_BIO_0193",
+    "integerQuestion": {
+      "question": "<h3>Calculate the integer value for the given mendels_laws scenario. Answer is a non-negative integer.</h3>",
+      "solution": "<h3>Applying genetics formulas gives the answer.</h3>",
+      "answer": "2"
+    }
+  },
+  {
+    "_id": "QID_BIO_0194",
+    "questionType": "mcq",
+    "subject": "Biology",
+    "topic": "heredity",
+    "subtopic": "sex_linked",
+    "difficulty": 4,
+    "question_id": "Q_BIO_0194",
+    "mcq": {
+      "question": "<h3>Which of the following statements about sex_linked are correct?</h3><h3>(A) Statement 1<br/>(B) Statement 2<br/>(C) Statement 3<br/>(D) Statement 4</h3>",
+      "solution": "<h3>Statements A and C are correct based on heredity.</h3>",
+      "answer": "B,D"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5fca00000195ce6b0b0563640a195"
+    },
+    "questionType": "integerQuestion",
+    "subject": "Biology",
+    "topic": "ecology",
+    "subtopic": "food_chains",
+    "difficulty": 4,
+    "question_id": "Q_BIO_0195",
+    "integerQuestion": {
+      "question": "<h3>Calculate the integer value for the given food_chains scenario. Answer is a non-negative integer.</h3>",
+      "solution": "<h3>Applying ecology formulas gives the answer.</h3>",
+      "answer": "5"
+    }
+  },
+  {
+    "_id": "QID_BIO_0196",
+    "questionType": "scq",
+    "subject": "Biology",
+    "topic": "environmental_biology",
+    "subtopic": "pollution",
+    "difficulty": 2,
+    "question_id": "Q_BIO_0196",
+    "scq": {
+      "question": "<h3>A biology problem on environmental_biology involving pollution. Find the correct answer.</h3><h3>(A) Option A<br/>(B) Option B<br/>(C) Option C<br/>(D) Option D</h3>",
+      "solution": "<h3>Using principles of pollution, the answer is derived step by step.</h3>",
+      "answer": "C"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5fca00000197ce6b0b0563640a197"
+    },
+    "questionType": "scq",
+    "subject": "Biology",
+    "topic": "plant_physiology",
+    "subtopic": "photosynthesis",
+    "difficulty": 3,
+    "question_id": "Q_BIO_0197",
+    "scq": {
+      "question": "<h3>A biology problem on plant_physiology involving photosynthesis. Find the correct answer.</h3><h3>(A) Option A<br/>(B) Option B<br/>(C) Option C<br/>(D) Option D</h3>",
+      "solution": "<h3>Using principles of photosynthesis, the answer is derived step by step.</h3>",
+      "answer": "D"
+    }
+  },
+  {
+    "_id": "QID_BIO_0198",
+    "questionType": "scq",
+    "subject": "Biology",
+    "topic": "animal_physiology",
+    "subtopic": "digestion",
+    "difficulty": 4,
+    "question_id": "Q_BIO_0198",
+    "scq": {
+      "question": "<h3>A biology problem on animal_physiology involving digestion. Find the correct answer.</h3><h3>(A) Option A<br/>(B) Option B<br/>(C) Option C<br/>(D) Option D</h3>",
+      "solution": "<h3>Using principles of digestion, the answer is derived step by step.</h3>",
+      "answer": "C"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5fca00000199ce6b0b0563640a199"
+    },
+    "questionType": "scq",
+    "subject": "Biology",
+    "topic": "evolution",
+    "subtopic": "natural_selection",
+    "difficulty": 1,
+    "question_id": "Q_BIO_0199",
+    "scq": {
+      "question": "<h3>A biology problem on evolution involving natural_selection. Find the correct answer.</h3><h3>(A) Option A<br/>(B) Option B<br/>(C) Option C<br/>(D) Option D</h3>",
+      "solution": "<h3>Using principles of natural_selection, the answer is derived step by step.</h3>",
+      "answer": "C"
+    }
+  },
+  {
+    "_id": "QID_BIO_0200",
+    "questionType": "mcq",
+    "subject": "Biology",
+    "topic": "biotechnology",
+    "subtopic": "pcr",
+    "difficulty": 1,
+    "question_id": "Q_BIO_0200",
+    "mcq": {
+      "question": "<h3>Which of the following statements about pcr are correct?</h3><h3>(A) Statement 1<br/>(B) Statement 2<br/>(C) Statement 3<br/>(D) Statement 4</h3>",
+      "solution": "<h3>Statements A and C are correct based on biotechnology.</h3>",
+      "answer": null
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5fca00000001ce6b0b0563640a01"
+    },
+    "questionType": "integerQuestion",
+    "subject": "Physics",
+    "topic": "kinematics",
+    "subtopic": "projectile_motion",
+    "difficulty": 1,
+    "question_id": "Q_PHY_0001",
+    "integerQuestion": {
+      "question": "<h3>Calculate the integer value for the given projectile_motion scenario. Answer is a non-negative integer.</h3>",
+      "solution": "<h3>Applying kinematics formulas gives the answer.</h3>",
+      "answer": "8"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5fca00000011ce6b0b0563640a11"
+    },
+    "questionType": "scq",
+    "subject": "Physics",
+    "topic": "optics",
+    "subtopic": "refraction",
+    "difficulty": 2,
+    "question_id": "Q_PHY_0011",
+    "scq": {
+      "question": "<h3>A physics problem on optics involving refraction. Find the correct answer.</h3><h3>(A) Option A<br/>(B) Option B<br/>(C) Option C<br/>(D) Option D</h3>",
+      "solution": "<h3>Using principles of refraction, the answer is derived step by step.</h3>",
+      "answer": "B"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5fca00000021ce6b0b0563640a21"
+    },
+    "questionType": "integerQuestion",
+    "subject": "Physics",
+    "topic": "kinematics",
+    "subtopic": "projectile_motion",
+    "difficulty": 2,
+    "question_id": "Q_PHY_0021",
+    "integerQuestion": {
+      "question": "<h3>Calculate the integer value for the given projectile_motion scenario. Answer is a non-negative integer.</h3>",
+      "solution": "<h3>Applying kinematics formulas gives the answer.</h3>",
+      "answer": "5"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "5fca00000031ce6b0b0563640a31"
+    },
+    "questionType": "mcq",
+    "subject": "Physics",
+    "topic": "optics",
+    "subtopic": "refraction",
+    "difficulty": 5,
+    "question_id": "Q_PHY_0031",
+    "mcq": {
+      "question": "<h3>Which of the following statements about refraction are correct?</h3><h3>(A) Statement 1<br/>(B) Statement 2<br/>(C) Statement 3<br/>(D) Statement 4</h3>",
+      "solution": "<h3>Statements A and C are correct based on optics.</h3>",
+      "answer": "A,B,C"
+    }
+  }
+]
