@@ -35,6 +35,7 @@ Student IDs: `STU_001` through `STU_010`
 ---
 
 ## My Approach — How I Built This
+This system uses a rule-based approach for simplicity and interpretability, making it easy to extend into ML-based recommendations.
 
 ### Understanding the Problem First
 
