@@ -1,0 +1,162 @@
+{
+  "dost_types": {
+    "practiceTest": {
+      "name": "Practice Test",
+      "description": "Full timed mock test, exam simulation",
+      "parameters": {
+        "duration_minutes": {"min": 30, "max": 180, "default": 60},
+        "total_questions": {"min": 10, "max": 75, "default": 25},
+        "question_types": ["scq", "mcq", "integerQuestion"],
+        "marking_scheme": {
+          "mains": {"scq_correct": 4, "scq_wrong": -1, "integer_correct": 4, "integer_wrong": 0},
+          "advanced": {"scq_correct": 3, "scq_wrong": -1, "mcq_correct": 4, "mcq_wrong": -2, "integer_correct": 3, "integer_wrong": 0},
+          "neet": {"scq_correct": 4, "scq_wrong": -1}
+        },
+        "difficulty_mix": {"easy": 0.3, "medium": 0.5, "hard": 0.2},
+        "shuffle_questions": true,
+        "show_solution_after": "completion"
+      },
+      "suitable_for": ["revision", "exam_readiness", "benchmarking"],
+      "trigger_conditions": {
+        "min_sessions_done": 2,
+        "score_threshold_pct": 0,
+        "recommended_when": "student has covered sufficient theory"
+      }
+    },
+    "practiceAssignment": {
+      "name": "Practice Assignment",
+      "description": "Targeted problem set, no timer",
+      "parameters": {
+        "duration_minutes": null,
+        "total_questions": {"min": 5, "max": 30, "default": 15},
+        "question_types": ["scq", "mcq", "integerQuestion"],
+        "difficulty_mix": {"easy": 0.4, "medium": 0.4, "hard": 0.2},
+        "allow_hints": true,
+        "show_solution_after": "each_question",
+        "focus": "targeted_weak_areas"
+      },
+      "suitable_for": ["weak_chapter_practice", "concept_reinforcement", "slow_learners"],
+      "trigger_conditions": {
+        "min_sessions_done": 1,
+        "score_threshold_pct": 0,
+        "recommended_when": "student needs practice without time pressure"
+      }
+    },
+    "formula": {
+      "name": "Formula Revision",
+      "description": "Formula revision sheet for chapters",
+      "parameters": {
+        "chapters": {"min": 1, "max": 5},
+        "include_derivations": true,
+        "include_examples": true,
+        "format": "cheat_sheet",
+        "estimated_time_minutes": {"min": 10, "max": 30, "default": 15}
+      },
+      "suitable_for": ["quick_revision", "pre_test_prep", "formula_heavy_chapters"],
+      "trigger_conditions": {
+        "recommended_when": "student has conceptual gaps or is preparing for test",
+        "especially_for_chapters": ["Electrostatics", "Thermodynamics", "Integration", "Organic Chemistry"]
+      }
+    },
+    "revision": {
+      "name": "Revision Plan",
+      "description": "Multi-day revision plan with daily schedule",
+      "parameters": {
+        "duration_days": {"min": 3, "max": 14, "default": 7},
+        "hours_per_day": {"min": 1, "max": 4, "default": 2},
+        "chapters_per_day": {"min": 1, "max": 3, "default": 2},
+        "include_tests": true,
+        "include_formula_sheets": true,
+        "spaced_repetition": true
+      },
+      "suitable_for": ["exam_preparation", "comprehensive_review", "multiple_weak_areas"],
+      "trigger_conditions": {
+        "recommended_when": "student has multiple weak chapters or upcoming exam",
+        "min_weak_chapters": 3
+      }
+    },
+    "concept": {
+      "name": "Concept Explanation",
+      "description": "Theory and conceptual explanation",
+      "parameters": {
+        "depth": {"options": ["overview", "detailed", "advanced"], "default": "detailed"},
+        "include_examples": true,
+        "include_analogies": true,
+        "include_common_mistakes": true,
+        "estimated_time_minutes": {"min": 15, "max": 60, "default": 30},
+        "visual_aids": true
+      },
+      "suitable_for": ["new_topic", "conceptual_gaps", "low_accuracy_on_concept_questions"],
+      "trigger_conditions": {
+        "recommended_when": "student attempts questions but shows conceptual misunderstanding",
+        "accuracy_below_pct": 40
+      }
+    },
+    "clickingPower": {
+      "name": "Clicking Power",
+      "description": "Speed drill — 10 rapid-fire questions",
+      "parameters": {
+        "total_questions": 10,
+        "time_per_question_seconds": {"min": 15, "max": 60, "default": 30},
+        "difficulty": {"options": [1, 2, 3], "default": 2},
+        "question_types": ["scq"],
+        "no_negative_marking": true,
+        "show_answer_immediately": true
+      },
+      "suitable_for": ["speed_improvement", "easy_question_accuracy", "confidence_building"],
+      "trigger_conditions": {
+        "recommended_when": "student is slow on easy questions (avg time per question > 120s)",
+        "avg_time_above_seconds": 120
+      }
+    },
+    "pickingPower": {
+      "name": "Picking Power",
+      "description": "MCQ option elimination practice",
+      "parameters": {
+        "total_questions": {"min": 5, "max": 20, "default": 10},
+        "question_types": ["scq", "mcq"],
+        "difficulty": {"options": [2, 3, 4], "default": 3},
+        "show_elimination_hints": true,
+        "time_per_question_seconds": {"min": 45, "max": 120, "default": 60},
+        "focus": "option_elimination_strategy"
+      },
+      "suitable_for": ["accuracy_improvement", "negative_marking_reduction", "exam_strategy"],
+      "trigger_conditions": {
+        "recommended_when": "student has high negative marks or low accuracy despite attempts",
+        "negative_marks_above": 12
+      }
+    },
+    "speedRace": {
+      "name": "Speed Race",
+      "description": "Competitive timed race against bot",
+      "parameters": {
+        "total_questions": {"min": 10, "max": 20, "default": 15},
+        "bot_difficulty": {"options": ["easy", "medium", "hard"], "default": "medium"},
+        "question_types": ["scq", "integerQuestion"],
+        "difficulty": {"options": [1, 2, 3], "default": 2},
+        "time_limit_minutes": {"min": 5, "max": 20, "default": 10},
+        "competitive_scoring": true
+      },
+      "suitable_for": ["motivation_boost", "speed_training", "competition_mindset"],
+      "trigger_conditions": {
+        "recommended_when": "student needs motivation or speed training",
+        "completion_rate_below_pct": 70
+      }
+    }
+  },
+  "recommendation_logic": {
+    "priority_order": ["concept", "formula", "practiceAssignment", "clickingPower", "pickingPower", "practiceTest", "speedRace", "revision"],
+    "score_bands": {
+      "critical": {"min": 0, "max": 35, "label": "Needs Urgent Attention"},
+      "developing": {"min": 35, "max": 55, "label": "Developing"},
+      "average": {"min": 55, "max": 70, "label": "Average"},
+      "good": {"min": 70, "max": 85, "label": "Good"},
+      "excellent": {"min": 85, "max": 100, "label": "Excellent"}
+    },
+    "time_thresholds": {
+      "too_slow_seconds": 180,
+      "ideal_max_seconds": 120,
+      "fast_seconds": 60
+    }
+  }
+}
